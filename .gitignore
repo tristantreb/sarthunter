@@ -48,10 +48,6 @@ nohup.out
 *.tmp
 *.orig
 
-# Ignore data files (modify as needed)
-data/*.json
-data/*.csv
-
 # Ignore specific unnecessary folders
 bin/
 include/

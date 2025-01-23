@@ -1,17 +1,21 @@
 import random
 import time
+from datetime import datetime
 
 import requests
 from bs4 import BeautifulSoup
 
+from data.storage import Storage
 from scraper.config import URLS, get_random_user_agent
-from scraper.storage import Storage
+
+DATA_FILE = "data/items_scraped.json"
+TEMPLATE_FILE = "data/item_scraped_template.json"
 
 
 class Scraper:
     def __init__(self):
         self.URLS = URLS
-        self.storage = Storage()
+        self.storage = Storage(DATA_FILE, TEMPLATE_FILE)
 
     def fetch_items(self, url):
         """Scrape website for items."""
@@ -57,13 +61,32 @@ class Scraper:
                 new_items.extend(fetched_items)
             else:
                 for item in fetched_items:
-                    print("get back fetched item", fetched_items)
                     existing_titles = self.storage.existing_items.keys()
                     if item["title"] not in existing_titles:
                         new_items.append(item)
 
         if new_items:
             print(f"{len(new_items)} items are new, saving them")
-            self.storage.save_items(new_items)
+            new_items_processed = self.process_items_for_saving(new_items)
+            self.storage.save_items(new_items_processed)
 
         return new_items
+
+    def process_items_for_saving(self, new_items):
+        """Process new items by using the template and updating values."""
+        timestamp = datetime.now().isoformat()
+        processed_items = {}
+
+        for item in new_items:
+            item_data = self.template.copy()  # Load structure from template
+            item_data.update(
+                {
+                    "title": item["title"],
+                    "link": item["link"],
+                    "price": item["price"],
+                    "timestamp processed": timestamp,
+                }
+            )
+            processed_items[item["title"]] = item_data
+
+        return processed_items
