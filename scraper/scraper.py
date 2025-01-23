@@ -35,6 +35,7 @@ class Scraper:
 
         items = []
 
+        # Excludes items that are sold
         for detail in soup.find_all("div", class_="detail"):
             title_tag = detail.find("a")
             price_tag = detail.find("span", class_="money")
@@ -54,6 +55,8 @@ class Scraper:
 
         for url in self.URLS:
             time.sleep(random.uniform(2, 5))  # Random delay to avoid detection
+
+            print(f"🔍 Checking for new items on {url}...")
             fetched_items = self.fetch_items(url)
 
             if not self.storage.existing_items:
@@ -69,6 +72,8 @@ class Scraper:
             print(f"{len(new_items)} items are new, saving them")
             new_items_processed = self.process_items_for_saving(new_items)
             self.storage.save_items(new_items_processed)
+        else:
+            print("No new items found")
 
         return new_items
 
@@ -78,7 +83,7 @@ class Scraper:
         processed_items = {}
 
         for item in new_items:
-            item_data = self.template.copy()  # Load structure from template
+            item_data = self.storage.template.copy()  # Load structure from template
             item_data.update(
                 {
                     "title": item["title"],
