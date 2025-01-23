@@ -19,16 +19,19 @@ class Scraper:
     def fetch_items(self, url):
         """Scrape website for items."""
         headers = {
+            # Identifies your browser/OS (prevents blocking).
             "User-Agent": get_random_user_agent(),
+            # Tells the site where you came from (google.com in this case).
             "Referer": "https://www.google.com",
-            "Accept-Language": "en-US,en;q=0.9",
+            # Tells the site which languages you accept.
+            "Accept-Language": "en-GB,en;q=0.9",
         }
-        response = requests.get(url, headers=headers)
-        print("First 1000 characters of response", response.text[:1000])
 
-        if response.status_code != 200:
-            print(f"Failed to fetch the webpage: {url}")
-            return []
+        try:
+            response = requests.get(url, headers=headers, timeout=10)
+            response.raise_for_status()
+        except requests.exceptions.RequestException as e:
+            print(f"❌ Failed to fetch the webpage: {url}. Error: {e}")
 
         soup = BeautifulSoup(response.text, "html.parser")
 
