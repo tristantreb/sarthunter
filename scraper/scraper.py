@@ -52,16 +52,13 @@ class Scraper:
             time.sleep(random.uniform(2, 5))  # Random delay to avoid detection
             fetched_items = self.fetch_items(url)
 
-            print(f"Checking {len(fetched_items)} items from {url}")
-
             if not self.storage.existing_items:
                 print("No existing items")
                 new_items.extend(fetched_items)
             else:
                 for item in fetched_items:
-                    existing_titles = {
-                        entry["title"] for entry in self.storage.existing_items
-                    }
+                    print("get back fetched item", fetched_items)
+                    existing_titles = self.storage.existing_items.keys()
                     if item["title"] not in existing_titles:
                         new_items.append(item)
 

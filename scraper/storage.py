@@ -57,7 +57,7 @@ class Storage:
                     "title": item["title"],
                     "link": item["link"],
                     "price": item["price"],
-                    "timestamp": timestamp,
+                    "timestamp processed": timestamp,
                 }
             )
             processed_items[item["title"]] = item_data
