@@ -106,17 +106,5 @@
             "error": null,
             "status": "success"
         }
-    },
-    "23/0850 henry rose 2014 savile row bespoke superfine 180s luxury wool taupe 3 piece suit 40 short to regular": {
-        "title": "23/0850 henry rose 2014 savile row bespoke superfine 180s luxury wool taupe 3 piece suit 40 short to regular",
-        "link": "https://www.savvyrow.co.uk/collections/latest/products/23-0850-henry-rose-2014-savile-row-bespoke-superfine-180s-luxury-wool-taupe-3-piece-suit-40-short-to-regular-copy",
-        "price": "625.00",
-        "timestamp processed": "2025-01-23T22:56:47.810315",
-        "notification": {
-            "sent": true,
-            "timestamp": "2025-01-23T22:56:49.608457",
-            "error": null,
-            "status": "success"
-        }
     }
 }

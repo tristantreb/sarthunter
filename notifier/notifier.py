@@ -32,7 +32,7 @@ class Notifier:
         """
         Check and send notifications for unsent items.
         """
-        print(f"🚀 Processing notifications for item {item}...")
+        print(f"🚀 Processing notifications for item {item['title']}...")
         status, error_message = self.send_slack_notification(item)
 
         # Update notification status
