@@ -3,11 +3,11 @@ import os
 
 
 class Storage:
-    def __init__(self, data_file, template_file):
+    def __init__(self):
         self.existing_items = {}
         self.template = {}
-        self.DATA_FILE = data_file
-        self.TEMPLATE_FILE = template_file
+        self.DATA_FILE = "data/items.json"
+        self.TEMPLATE_FILE = "data/item_template.json"
         self.load_existing_items()
         self.load_template()
 
@@ -37,7 +37,7 @@ class Storage:
 
     def save_items(self, new_items):
         """Save new items to JSON file after processing."""
-
+        print(f"📦 Saving {len(new_items)} new items to {self.DATA_FILE}...")
         self.existing_items.update(new_items)
 
         with open(self.DATA_FILE, "w") as file:
