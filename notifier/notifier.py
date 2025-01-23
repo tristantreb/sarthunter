@@ -4,20 +4,21 @@ from datetime import datetime
 
 import requests
 
-from scraper.storage import Storage
+from data.storage import Storage
 
 SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL")
+DATA_FILE = "data/items_notified.json"
+TEMPLATE_FILE = "data/items_notified_template.json"
 
 
 class Notifier:
     def __init__(self):
-        self.storage = Storage()
+        self.storage = Storage(DATA_FILE, TEMPLATE_FILE)
 
     def get_notifications_to_send(self):
         """
         Parses the existing items and returns the ones where notified is False.
         """
-
 
     def send_slack_notification(self, item):
         """Send notification to Slack."""
