@@ -1,0 +1,59 @@
+# Ignore virtual environment files
+venv/
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore build files
+build/
+dist/
+*.egg-info/
+*.spec
+
+# Ignore unnecessary dependencies
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ignore logs
+logs/
+*.log
+nohup.out
+
+# Ignore compiled Python files
+*.py[cod]
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore macOS metadata files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ignore temporary files
+*.swp
+*.swo
+*.bak
+*.tmp
+*.orig
+
+# Ignore data files (modify as needed)
+data/*.json
+data/*.csv
+
+# Ignore specific unnecessary folders
+bin/
+include/
+lib/
+lib64/
