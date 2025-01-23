@@ -1,4 +1,4 @@
-name: Run sarthunter service
+name: Run Sarthunter Service
 
 on:
   schedule:
@@ -22,7 +22,7 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      - name: Run Notifier Service
+      - name: Run Sarthunter Service
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
-        run: python notifier/notifier_service.py
+        run: python scripts/hunt.py
