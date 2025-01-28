@@ -142,5 +142,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0031 vintage 1970s wool mix ivory white cream twill trouser 34": {
+        "title": "25/0031 vintage 1970s wool mix ivory white cream twill trouser 34",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0031-vintage-1970s-wool-mix-ivory-white-cream-twill-trouser-34-copy",
+        "price": "40.00",
+        "timestamp processed": "2025-01-28T12:38:04.771349",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-01-28T12:38:04.956759",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0012 vintage 1950s 1960s white marcella evening dress waistcoat 39": {
+        "title": "25/0012 vintage 1950s 1960s white marcella evening dress waistcoat 39",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0012-vintage-1950s-1960s-white-marcella-evening-dress-waistcoat-39-copy",
+        "price": "75.00",
+        "timestamp processed": "2025-01-28T12:38:04.771349",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-01-28T12:38:05.130771",
+            "error": null,
+            "status": "success"
+        }
     }
 }
