@@ -202,5 +202,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0077 vintage 1975 savile row bespoke grey rope-stripe 3-piece worsted suit 39 short to regular": {
+        "title": "25/0077 vintage 1975 savile row bespoke grey rope-stripe 3-piece worsted suit 39 short to regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0077-vintage-1975-savile-row-bespoke-grey-rope-stripe-3-piece-worsted-suit-39-short-to-regular",
+        "price": "125.00",
+        "timestamp processed": "2025-01-30T15:41:38.933386",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-01-30T15:41:39.029068",
+            "error": null,
+            "status": "success"
+        }
     }
 }
