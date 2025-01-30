@@ -166,5 +166,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0083 crombie heavyweight black corduroy coat overcoat 40 regular": {
+        "title": "25/0083 crombie heavyweight black corduroy coat overcoat 40 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0083-crombie-heavyweight-black-corduroy-coat-overcoat-40-regular",
+        "price": "105.00",
+        "timestamp processed": "2025-01-30T14:54:52.585914",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-01-30T14:54:52.698634",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0084 vintage green / red stripe derby tweed shooting breeks 38": {
+        "title": "25/0084 vintage green / red stripe derby tweed shooting breeks 38",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0084-vintage-green-red-stripe-derby-tweed-shooting-breeks-38",
+        "price": "45.00",
+        "timestamp processed": "2025-01-30T14:54:52.585914",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-01-30T14:54:52.796537",
+            "error": null,
+            "status": "success"
+        }
     }
 }
