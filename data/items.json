@@ -226,5 +226,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0076 exceptional 1982 vintage nutters savile row bespoke brown twill tweed 3-piece suit 40-41 regular to long": {
+        "title": "25/0076 exceptional 1982 vintage nutters savile row bespoke brown twill tweed 3-piece suit 40-41 regular to long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0076-exceptional-1982-vintage-nutters-savile-row-bespoke-brown-twill-tweed-3-piece-suit-40-41-regular-to-long",
+        "price": "1,500.00",
+        "timestamp processed": "2025-01-30T16:34:22.563578",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-01-30T16:34:22.649111",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0075 vintage 1979 nutters savile row bespoke blue wool & mohair 3-piece suit 40 regular to long": {
+        "title": "25/0075 vintage 1979 nutters savile row bespoke blue wool & mohair 3-piece suit 40 regular to long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0075-vintage-1979-nutters-savile-row-bespoke-blue-wool-mohair-3-piece-suit-40-regular-to-long",
+        "price": "800.00",
+        "timestamp processed": "2025-01-30T16:34:22.563578",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-01-30T16:34:22.710448",
+            "error": null,
+            "status": "success"
+        }
     }
 }
