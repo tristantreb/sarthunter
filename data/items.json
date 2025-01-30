@@ -190,5 +190,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0078 vintage 1969 huntsman savile row bespoke green wp check 4-piece tweed shooting suit inc. breeks 38-39 regular": {
+        "title": "25/0078 vintage 1969 huntsman savile row bespoke green wp check 4-piece tweed shooting suit inc. breeks 38-39 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0078-vintage-1969-huntsman-savile-row-bespoke-green-wp-check-4-piece-tweed-shooting-suit-inc-breeks-38-39-regular",
+        "price": "450.00",
+        "timestamp processed": "2025-01-30T15:31:22.087691",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-01-30T15:31:22.147359",
+            "error": null,
+            "status": "success"
+        }
     }
 }
