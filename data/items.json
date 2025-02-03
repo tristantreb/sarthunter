@@ -250,5 +250,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "23/0825 immaculate 2009 henry rose savile row bespoke grey check 3-piece loro piana cashmere & silk suit 40-41 short to regular": {
+        "title": "23/0825 immaculate 2009 henry rose savile row bespoke grey check 3-piece loro piana cashmere & silk suit 40-41 short to regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/23-0825-immaculate-2009-henry-rose-savile-row-bespoke-grey-check-3-piece-loro-piana-cashmere-silk-suit-40-41-short-to-regular-copy-1",
+        "price": "750.00",
+        "timestamp processed": "2025-02-03T10:16:51.180215",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-02-03T10:16:51.318080",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "24/0902 ultra rare 1968 Mr. Fish Clifford St. Soho tan mohair 3-piece suit 37-38 regular": {
+        "title": "24/0902 ultra rare 1968 Mr. Fish Clifford St. Soho tan mohair 3-piece suit 37-38 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/24-0902-ultra-rare-1968-mr-fish-clifford-st-soho-tan-mohair-3-piece-suit-37-38-regular-copy",
+        "price": "1,500.00",
+        "timestamp processed": "2025-02-03T10:16:51.180215",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-02-03T10:16:51.488950",
+            "error": null,
+            "status": "success"
+        }
     }
 }
