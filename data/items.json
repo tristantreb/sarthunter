@@ -274,5 +274,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0098 wonderful vintage savile row bespoke heavyweight navy blue d/b worsted blazer 40-41 regular": {
+        "title": "25/0098 wonderful vintage savile row bespoke heavyweight navy blue d/b worsted blazer 40-41 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0098-wonderful-vintage-savile-row-bespoke-heavyweight-navy-blue-d-b-worsted-blazer-40-41-regular",
+        "price": "75.00",
+        "timestamp processed": "2025-02-06T14:28:53.280920",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-02-06T14:28:53.730504",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0100 loro piana heavy cotton chgino trouser 36-39": {
+        "title": "25/0100 loro piana heavy cotton chgino trouser 36-39",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0100-loro-piana-heavy-cotton-chgino-trouser-36-39",
+        "price": "45.00",
+        "timestamp processed": "2025-02-06T14:28:53.280920",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-02-06T14:28:53.849723",
+            "error": null,
+            "status": "success"
+        }
     }
 }
