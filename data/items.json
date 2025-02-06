@@ -298,5 +298,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0090 vintage 1982 nutters savile row bespoke grey wool & mohair 3-piece suit 39 regular to long": {
+        "title": "25/0090 vintage 1982 nutters savile row bespoke grey wool & mohair 3-piece suit 39 regular to long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0090-vintage-1982-nutters-savile-row-bespoke-grey-wool-mohair-3-piece-suit-39-regular-to-long",
+        "price": "800.00",
+        "timestamp processed": "2025-02-06T16:33:27.109722",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-02-06T16:33:27.291159",
+            "error": null,
+            "status": "success"
+        }
     }
 }
