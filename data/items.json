@@ -370,5 +370,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0109 exceptional 1935 vintage extra heavy navy blue herringbone wool d/b king coat overcoat 40": {
+        "title": "25/0109 exceptional 1935 vintage extra heavy navy blue herringbone wool d/b king coat overcoat 40",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0109-exceptional-1935-vintage-extra-heavy-navy-blue-herringbone-wool-d-b-king-coat-overcoat-40",
+        "price": "295.00",
+        "timestamp processed": "2025-02-13T14:42:48.191230",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-02-13T14:42:48.315037",
+            "error": null,
+            "status": "success"
+        }
     }
 }
