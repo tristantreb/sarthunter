@@ -382,5 +382,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0114 anderson & sheppard savile row bespoke green wp check tweed shooting suit 39 short": {
+        "title": "25/0114 anderson & sheppard savile row bespoke green wp check tweed shooting suit 39 short",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0114-anderson-sheppard-savile-row-bespoke-green-wp-check-tweed-shooting-suit-39-short",
+        "price": "300.00",
+        "timestamp processed": "2025-02-13T15:15:35.913216",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-02-13T15:15:36.105665",
+            "error": null,
+            "status": "success"
+        }
     }
 }
