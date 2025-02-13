@@ -346,5 +346,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0106 genuine 1940s 1950s vintage extra heavy black melton wool d/b overcoat 38-39": {
+        "title": "25/0106 genuine 1940s 1950s vintage extra heavy black melton wool d/b overcoat 38-39",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0106-genuine-1940s-1950s-vintage-extra-heavy-black-melton-wool-d-b-overcoat-38-39",
+        "price": "150.00",
+        "timestamp processed": "2025-02-13T14:08:13.572727",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-02-13T14:08:13.636924",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0105 genuine 1930s 1940s vintage brown check tweed d/b overcoat 36-38 long": {
+        "title": "25/0105 genuine 1930s 1940s vintage brown check tweed d/b overcoat 36-38 long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0105-genuine-1930s-1940s-vintage-brown-check-tweed-d-b-overcoat-36-38-long",
+        "price": "240.00",
+        "timestamp processed": "2025-02-13T14:08:13.572727",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-02-13T14:08:13.709662",
+            "error": null,
+            "status": "success"
+        }
     }
 }
