@@ -310,5 +310,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0113 british 2018 bespoke tailored heavyweight brown glen check tweed jacket 37-38 short": {
+        "title": "25/0113 british 2018 bespoke tailored heavyweight brown glen check tweed jacket 37-38 short",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0113-british-2018-bespoke-tailored-heavyweight-brown-glen-check-tweed-jacket-37-38-short",
+        "price": "95.00",
+        "timestamp processed": "2025-02-13T13:29:51.594911",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-02-13T13:29:51.664728",
+            "error": null,
+            "status": "success"
+        }
     }
 }
