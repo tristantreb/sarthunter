@@ -394,5 +394,77 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0025 wonderful vintage cyril a castle conduit st savile row bespoke red trouser 40": {
+        "title": "25/0025 wonderful vintage cyril a castle conduit st savile row bespoke red trouser 40",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0025-wonderful-vintage-cyril-a-castle-conduit-st-savile-row-bespoke-red-trouser-40",
+        "price": "60.00",
+        "timestamp processed": "2025-02-19T14:54:25.930332",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-02-19T14:54:25.997890",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0024 wonderful vintage cyril a castle conduit st savile row bespoke green trouser 40": {
+        "title": "25/0024 wonderful vintage cyril a castle conduit st savile row bespoke green trouser 40",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0024-wonderful-vintage-cyril-a-castle-conduit-st-savile-row-bespoke-green-trouser-40",
+        "price": "60.00",
+        "timestamp processed": "2025-02-19T14:54:25.930332",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-02-19T14:54:26.048899",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0023 wonderful vintage cyril a castle conduit st savile row bespoke tan brown trouser 40": {
+        "title": "25/0023 wonderful vintage cyril a castle conduit st savile row bespoke tan brown trouser 40",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0023-wonderful-vintage-cyril-a-castle-conduit-st-savile-row-bespoke-tan-brown-trouser-40",
+        "price": "60.00",
+        "timestamp processed": "2025-02-19T14:54:25.930332",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-02-19T14:54:26.520018",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0020 amazing 1965 vintage cyril a castle conduit st savile row bespoke black silk evening trouser 40": {
+        "title": "25/0020 amazing 1965 vintage cyril a castle conduit st savile row bespoke black silk evening trouser 40",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0020-amazing-1965-vintage-cyril-a-castle-conduit-st-savile-row-bespoke-black-silk-evening-trouser-40",
+        "price": "175.00",
+        "timestamp processed": "2025-02-19T14:54:25.930332",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-02-19T14:54:26.569322",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0019 wonderful vintage cyril a castle conduit st savile row bespoke black mohair trouser 37-41": {
+        "title": "25/0019 wonderful vintage cyril a castle conduit st savile row bespoke black mohair trouser 37-41",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0019-wonderful-vintage-cyril-a-castle-conduit-st-savile-row-bespoke-black-mohair-trouser-37-41",
+        "price": "95.00",
+        "timestamp processed": "2025-02-19T14:54:25.930332",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-02-19T14:54:26.634646",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0017 excellent vintage cyril a castle conduit st savile row bespoke black mohair trouser 37-41": {
+        "title": "25/0017 excellent vintage cyril a castle conduit st savile row bespoke black mohair trouser 37-41",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0017-excellent-vintage-cyril-a-castle-conduit-st-savile-row-bespoke-black-mohair-trouser-37-41",
+        "price": "95.00",
+        "timestamp processed": "2025-02-19T14:54:25.930332",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-02-19T14:54:26.686200",
+            "error": null,
+            "status": "success"
+        }
     }
 }
