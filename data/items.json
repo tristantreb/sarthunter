@@ -466,5 +466,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0115 near immaculate 2009 terry haste savile row bespoke grey mohair pin-stripe 3-piece suit 38 regular to long": {
+        "title": "25/0115 near immaculate 2009 terry haste savile row bespoke grey mohair pin-stripe 3-piece suit 38 regular to long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0115-near-immaculate-2009-terry-haste-savile-row-bespoke-grey-mohair-pin-stripe-3-piece-suit-38-regular-to-long",
+        "price": "495.00",
+        "timestamp processed": "2025-02-20T13:32:52.157133",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-02-20T13:32:52.263044",
+            "error": null,
+            "status": "success"
+        }
     }
 }
