@@ -514,5 +514,41 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0123 immaculate vintage bliss green wp check tweed jacket 39 regular": {
+        "title": "25/0123 immaculate vintage bliss green wp check tweed jacket 39 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0123-immaculate-vintage-bliss-green-wp-check-tweed-jacket-39-regular",
+        "price": "75.00",
+        "timestamp processed": "2025-02-20T14:13:34.383853",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-02-20T14:13:34.579873",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0122 genuine 1970s vintage lord john carnaby street black d/b leather jacket pea coat 36": {
+        "title": "25/0122 genuine 1970s vintage lord john carnaby street black d/b leather jacket pea coat 36",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0122-genuine-1970s-vintage-lord-john-carnaby-street-black-d-b-leather-jacket-pea-coat-36",
+        "price": "200.00",
+        "timestamp processed": "2025-02-20T14:13:34.383853",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-02-20T14:13:34.881465",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0121 immaculate spencers fawn brown cavalry twill country trouser (rrp \u00a3185) 34": {
+        "title": "25/0121 immaculate spencers fawn brown cavalry twill country trouser (rrp \u00a3185) 34",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0121-immaculate-spencers-fawn-brown-cavalry-twill-country-trouser-rrp-185-34",
+        "price": "95.00",
+        "timestamp processed": "2025-02-20T14:13:34.383853",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-02-20T14:13:35.060151",
+            "error": null,
+            "status": "success"
+        }
     }
 }
