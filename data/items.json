@@ -490,5 +490,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0118 bespoke tailored 1940s style blue dogtooth check d/b worsted suit 37-38 long": {
+        "title": "25/0118 bespoke tailored 1940s style blue dogtooth check d/b worsted suit 37-38 long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0118-bespoke-tailored-1940s-style-blue-dogtooth-check-d-b-worsted-suit-37-38-long",
+        "price": "125.00",
+        "timestamp processed": "2025-02-20T13:54:09.818080",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-02-20T13:54:09.957140",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0117 immaculate 2017 terry haste savile row bespoke grey worsted flannel 3-piece suit 38 regular to long": {
+        "title": "25/0117 immaculate 2017 terry haste savile row bespoke grey worsted flannel 3-piece suit 38 regular to long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0117-immaculate-2017-terry-haste-savile-row-bespoke-grey-worsted-flannel-3-piece-suit-38-regular-to-long",
+        "price": "550.00",
+        "timestamp processed": "2025-02-20T13:54:09.818080",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-02-20T13:54:10.083881",
+            "error": null,
+            "status": "success"
+        }
     }
 }
