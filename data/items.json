@@ -550,5 +550,41 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0126 immaculate john g hardy fawn brown worsted twill sports jacket blazer 40-41 short": {
+        "title": "25/0126 immaculate john g hardy fawn brown worsted twill sports jacket blazer 40-41 short",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0126-immaculate-john-g-hardy-fawn-brown-worsted-twill-sports-jacket-blazer-40-41-short",
+        "price": "79.00",
+        "timestamp processed": "2025-02-20T14:33:14.560338",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-02-20T14:33:14.659646",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0125 superb genuine 1960s vintage green harris tweed jacket w/ original leather buttons 37 short": {
+        "title": "25/0125 superb genuine 1960s vintage green harris tweed jacket w/ original leather buttons 37 short",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0125-superb-genuine-1960s-vintage-green-harris-tweed-jacket-w-original-leather-buttons-37-short",
+        "price": "105.00",
+        "timestamp processed": "2025-02-20T14:33:14.560338",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-02-20T14:33:14.733621",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0124 superb vintage brown / amber wp check cavalry twill riding / hacking jacket w/ ghillie collar 38-39 regular": {
+        "title": "25/0124 superb vintage brown / amber wp check cavalry twill riding / hacking jacket w/ ghillie collar 38-39 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0124-superb-vintage-brown-amber-wp-check-cavalry-twill-riding-hacking-jacket-w-ghillie-collar-38-39-regular",
+        "price": "125.00",
+        "timestamp processed": "2025-02-20T14:33:14.560338",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-02-20T14:33:14.799712",
+            "error": null,
+            "status": "success"
+        }
     }
 }
