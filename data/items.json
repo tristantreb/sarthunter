@@ -682,5 +682,53 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0138 immaculate crombie sporting check tweed covert coat w/ burgundy red velvet collar 40": {
+        "title": "25/0138 immaculate crombie sporting check tweed covert coat w/ burgundy red velvet collar 40",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0138-immaculate-crombie-sporting-check-tweed-covert-coat-w-burgundy-red-velvet-collar-40",
+        "price": "240.00",
+        "timestamp processed": "2025-02-20T16:19:13.441135",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-02-20T16:19:13.577711",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0137 near immaculate green loden wool field shooting coat jacket overcoat xxl": {
+        "title": "25/0137 near immaculate green loden wool field shooting coat jacket overcoat xxl",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0137-near-immaculate-green-loden-wool-field-shooting-coat-jacket-overcoat-xxl",
+        "price": "125.00",
+        "timestamp processed": "2025-02-20T16:19:13.441135",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-02-20T16:19:13.723013",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0144 genuine vintage british warm style overcoat w/ leather buttons 38-39": {
+        "title": "25/0144 genuine vintage british warm style overcoat w/ leather buttons 38-39",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0144-genuine-vintage-british-warm-style-overcoat-w-leather-buttons-38-39",
+        "price": "85.00",
+        "timestamp processed": "2025-02-20T16:19:13.441135",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-02-20T16:19:13.836729",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0140 vintage lambourne navy blue heavyweight worsted twill navy blue d/b field coat w/ leather buttons 44-45": {
+        "title": "25/0140 vintage lambourne navy blue heavyweight worsted twill navy blue d/b field coat w/ leather buttons 44-45",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0140-vintage-lambourne-navy-blue-heavyweight-worsted-twill-navy-blue-d-b-field-coat-w-leather-buttons-44-45",
+        "price": "79.00",
+        "timestamp processed": "2025-02-20T16:19:13.441135",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-02-20T16:19:13.975682",
+            "error": null,
+            "status": "success"
+        }
     }
 }
