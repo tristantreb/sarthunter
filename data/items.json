@@ -826,5 +826,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0160 beautiful vintage heavyweight west of england wool grey herringbone ulster coat overcoat 40": {
+        "title": "25/0160 beautiful vintage heavyweight west of england wool grey herringbone ulster coat overcoat 40",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0160-beautiful-vintage-heavyweight-west-of-england-wool-grey-herringbone-ulster-coat-overcoat-40",
+        "price": "175.00",
+        "timestamp processed": "2025-02-27T16:46:45.168717",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-02-27T16:46:45.360140",
+            "error": null,
+            "status": "success"
+        }
     }
 }
