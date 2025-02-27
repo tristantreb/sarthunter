@@ -754,5 +754,41 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0149 wonderful 1950s 1960s vintage heavyweight green houndstooth check tweed jacket w/ double besom! 40 short": {
+        "title": "25/0149 wonderful 1950s 1960s vintage heavyweight green houndstooth check tweed jacket w/ double besom! 40 short",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0149-wonderful-1950s-1960s-vintage-heavyweight-green-houndstooth-check-tweed-jacket-w-double-besom-40-short",
+        "price": "75.00",
+        "timestamp processed": "2025-02-27T14:37:25.367636",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-02-27T14:37:25.427366",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0150 vintage john g hardy gun check tweed jacket 39 short": {
+        "title": "25/0150 vintage john g hardy gun check tweed jacket 39 short",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0150-vintage-john-g-hardy-gun-check-tweed-jacket-39-short",
+        "price": "69.00",
+        "timestamp processed": "2025-02-27T14:37:25.367636",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-02-27T14:37:25.489666",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0151 british bespoke tailor gun check tweed jacket w/ horn buttons 40 short": {
+        "title": "25/0151 british bespoke tailor gun check tweed jacket w/ horn buttons 40 short",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0151-british-bespoke-tailor-gun-check-tweed-jacket-w-horn-buttons-40-short",
+        "price": "75.00",
+        "timestamp processed": "2025-02-27T14:37:25.367636",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-02-27T14:37:25.578815",
+            "error": null,
+            "status": "success"
+        }
     }
 }
