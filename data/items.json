@@ -814,5 +814,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0156 wonderful vintage british grey doeskin wool country waistcoat w/ red lining 36": {
+        "title": "25/0156 wonderful vintage british grey doeskin wool country waistcoat w/ red lining 36",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0156-wonderful-vintage-british-grey-doeskin-wool-country-waistcoat-w-red-lining-36",
+        "price": "75.00",
+        "timestamp processed": "2025-02-27T15:57:18.539891",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-02-27T15:57:18.725142",
+            "error": null,
+            "status": "success"
+        }
     }
 }
