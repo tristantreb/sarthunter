@@ -790,5 +790,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0152 superb vintage heavyweight brown cavalry twill riding hacking jacket 40 regular": {
+        "title": "25/0152 superb vintage heavyweight brown cavalry twill riding hacking jacket 40 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0152-superb-vintage-heavyweight-brown-cavalry-twill-riding-hacking-jacket-40-regular",
+        "price": "89.00",
+        "timestamp processed": "2025-02-27T14:57:06.189854",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-02-27T14:57:06.281940",
+            "error": null,
+            "status": "success"
+        }
     }
 }
