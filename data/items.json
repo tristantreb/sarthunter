@@ -910,5 +910,53 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0168 terry haste 2013 savile row bespoke pale blue wool mohair & silk 3-piece suit 38-39 regular": {
+        "title": "25/0168 terry haste 2013 savile row bespoke pale blue wool mohair & silk 3-piece suit 38-39 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0168-terry-haste-2013-savile-row-bespoke-pale-blue-wool-mohair-silk-3-piece-suit-38-39-regular",
+        "price": "450.00",
+        "timestamp processed": "2025-03-06T16:29:12.312188",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-03-06T16:29:12.518201",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0169 terry haste savile row bespoke navy blue wool & silk 3-piece suit 38-39 regular": {
+        "title": "25/0169 terry haste savile row bespoke navy blue wool & silk 3-piece suit 38-39 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0169-terry-haste-savile-row-bespoke-navy-blue-wool-silk-3-piece-suit-38-39-regular",
+        "price": "450.00",
+        "timestamp processed": "2025-03-06T16:29:12.312188",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-03-06T16:29:12.703953",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0170 immaculate kent haste & lachter 2010 savile row bespoke black wool & mohair pin-stripe 3-piece suit 38 regular": {
+        "title": "25/0170 immaculate kent haste & lachter 2010 savile row bespoke black wool & mohair pin-stripe 3-piece suit 38 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0170-immaculate-kent-haste-lachter-2010-savile-row-bespoke-black-wool-mohair-pin-stripe-3-piece-suit-38-regular",
+        "price": "450.00",
+        "timestamp processed": "2025-03-06T16:29:12.312188",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-03-06T16:29:12.880562",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0171 terry haste 2009 savile row bespoke d/b grey candy-stripe luxury worsted suit 38 regular": {
+        "title": "25/0171 terry haste 2009 savile row bespoke d/b grey candy-stripe luxury worsted suit 38 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0171-terry-haste-2009-savile-row-bespoke-d-b-grey-candy-stripe-luxury-worsted-suit-38-regular",
+        "price": "250.00",
+        "timestamp processed": "2025-03-06T16:29:12.312188",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-03-06T16:29:13.090688",
+            "error": null,
+            "status": "success"
+        }
     }
 }
