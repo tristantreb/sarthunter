@@ -862,5 +862,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0176 wonderful 1960s 1970s vintage brown fancy geometric waistcoat 40": {
+        "title": "25/0176 wonderful 1960s 1970s vintage brown fancy geometric waistcoat 40",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0176-wonderful-1960s-1970s-vintage-brown-fancy-geometric-waistcoat-40",
+        "price": "75.00",
+        "timestamp processed": "2025-03-06T14:56:57.278878",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-03-06T14:56:57.462089",
+            "error": null,
+            "status": "success"
+        }
     }
 }
