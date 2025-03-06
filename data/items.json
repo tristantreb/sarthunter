@@ -886,5 +886,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0174 vintage british genuine crombie wool wp check tweed sports jacket 39 regular": {
+        "title": "25/0174 vintage british genuine crombie wool wp check tweed sports jacket 39 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0174-vintage-british-genuine-crombie-wool-wp-check-tweed-sports-jacket-39-regular",
+        "price": "75.00",
+        "timestamp processed": "2025-03-06T15:38:22.985958",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-03-06T15:38:23.071826",
+            "error": null,
+            "status": "success"
+        }
     }
 }
