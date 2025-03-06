@@ -958,5 +958,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0167 terry haste 2010 savile row bespoke grey wool & silk 3-piece suit 38-39 regular": {
+        "title": "25/0167 terry haste 2010 savile row bespoke grey wool & silk 3-piece suit 38-39 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0167-terry-haste-2010-savile-row-bespoke-grey-wool-silk-3-piece-suit-38-39-regular",
+        "price": "450.00",
+        "timestamp processed": "2025-03-06T16:47:48.687525",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-03-06T16:47:48.759622",
+            "error": null,
+            "status": "success"
+        }
     }
 }
