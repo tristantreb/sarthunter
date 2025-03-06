@@ -898,5 +898,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0172 terry haste 2013 savile row bespoke d/b grey / bronze candy-stripe luxury worsted suit 38 regular": {
+        "title": "25/0172 terry haste 2013 savile row bespoke d/b grey / bronze candy-stripe luxury worsted suit 38 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0172-terry-haste-2013-savile-row-bespoke-d-b-grey-bronze-candy-stripe-luxury-worsted-suit-38-regular",
+        "price": "350.00",
+        "timestamp processed": "2025-03-06T15:48:30.342012",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-03-06T15:48:30.431839",
+            "error": null,
+            "status": "success"
+        }
     }
 }
