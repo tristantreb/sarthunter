@@ -850,5 +850,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0179 vintage luxury wool & alpaca brown d/b pea coat overcoat 38-40": {
+        "title": "25/0179 vintage luxury wool & alpaca brown d/b pea coat overcoat 38-40",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0179-vintage-luxury-wool-alpaca-brown-d-b-pea-coat-overcoat-38-40",
+        "price": "60.00",
+        "timestamp processed": "2025-03-06T14:36:39.787117",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-03-06T14:36:39.966136",
+            "error": null,
+            "status": "success"
+        }
     }
 }
