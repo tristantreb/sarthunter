@@ -994,5 +994,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0190 exceptional genuine 1940s 1950s heavyweight vintage herringbone wool d/b overcoat w/ belt 38-39": {
+        "title": "25/0190 exceptional genuine 1940s 1950s heavyweight vintage herringbone wool d/b overcoat w/ belt 38-39",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0190-exceptional-genuine-1940s-1950s-heavyweight-vintage-herringbone-wool-d-b-overcoat-w-belt-38-39",
+        "price": "250.00",
+        "timestamp processed": "2025-03-13T12:40:49.887536",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-03-13T12:40:49.973414",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0191 vintage genuine crombie stone venetian wool covert coat w/ velvet collar 40-41 regular": {
+        "title": "25/0191 vintage genuine crombie stone venetian wool covert coat w/ velvet collar 40-41 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0191-vintage-genuine-crombie-stone-venetian-wool-covert-coat-w-velvet-collar-40-41-regular",
+        "price": "150.00",
+        "timestamp processed": "2025-03-13T12:40:49.887536",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-03-13T12:40:50.036487",
+            "error": null,
+            "status": "success"
+        }
     }
 }
