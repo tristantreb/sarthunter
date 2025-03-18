@@ -1030,5 +1030,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "23/0734 immaculate 2006 doug hayward savile row bespoke grey wool & mohair suit 40 regular": {
+        "title": "23/0734 immaculate 2006 doug hayward savile row bespoke grey wool & mohair suit 40 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/23-0734-immaculate-2006-doug-hayward-savile-row-bespoke-grey-wool-mohair-suit-40-regular-copy-1",
+        "price": "350.00",
+        "timestamp processed": "2025-03-18T11:24:54.950187",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-03-18T11:24:55.150692",
+            "error": null,
+            "status": "success"
+        }
     }
 }
