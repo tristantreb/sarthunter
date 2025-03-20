@@ -1054,5 +1054,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0209 immaculate john g hardy alsport check tweed jacket w/ poacher's pocket 38-39 regular": {
+        "title": "25/0209 immaculate john g hardy alsport check tweed jacket w/ poacher's pocket 38-39 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0209-immaculate-john-g-hardy-alsport-check-tweed-jacket-w-poachers-pocket-38-39-regular",
+        "price": "95.00",
+        "timestamp processed": "2025-03-20T15:09:43.760367",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-03-20T15:09:43.841692",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0210 genuine BRITISH vintage black worsted blazer w/ RAF tiger sqaudron badge 37-38 short": {
+        "title": "25/0210 genuine BRITISH vintage black worsted blazer w/ RAF tiger sqaudron badge 37-38 short",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0210-genuine-british-vintage-black-worsted-blazer-w-raf-tiger-sqaudron-badge-37-38-short",
+        "price": "60.00",
+        "timestamp processed": "2025-03-20T15:09:43.760367",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-03-20T15:09:43.914615",
+            "error": null,
+            "status": "success"
+        }
     }
 }
