@@ -1126,5 +1126,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0211 fabulous vintage harrods london midnight blue velvet smoking robe w/ quilted lapel medium 39": {
+        "title": "25/0211 fabulous vintage harrods london midnight blue velvet smoking robe w/ quilted lapel medium 39",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0211-fabulous-vintage-harrods-london-midnight-blue-velvet-smoking-robe-w-quilted-lapel-medium-39",
+        "price": "240.00",
+        "timestamp processed": "2025-03-20T17:53:58.395751",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-03-20T17:53:58.527664",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0198 gieves & hawkes 2005 savile row bespoke grey pin-stripe d/b worsted suit w/ 2 pair trousers 40 regular": {
+        "title": "25/0198 gieves & hawkes 2005 savile row bespoke grey pin-stripe d/b worsted suit w/ 2 pair trousers 40 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0198-gieves-hawkes-2005-savile-row-bespoke-grey-pin-stripe-d-b-worsted-suit-w-2-pair-trousers-40-regular",
+        "price": "300.00",
+        "timestamp processed": "2025-03-20T17:53:58.395751",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-03-20T17:53:58.657527",
+            "error": null,
+            "status": "success"
+        }
     }
 }
