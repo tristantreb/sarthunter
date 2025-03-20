@@ -1090,5 +1090,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0203 vintage british wool mohair mink d/b pea coat overcoat 40 regular": {
+        "title": "25/0203 vintage british wool mohair mink d/b pea coat overcoat 40 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0203-vintage-british-wool-mohair-mink-d-b-pea-coat-overcoat-40-regular-1",
+        "price": "75.00",
+        "timestamp processed": "2025-03-20T16:56:12.500462",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-03-20T16:56:12.598531",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0205 beautiful immaculate 1950s vintage grey west of england wool raincoat overcoat 40": {
+        "title": "25/0205 beautiful immaculate 1950s vintage grey west of england wool raincoat overcoat 40",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0205-beautiful-immaculate-1950s-vintage-grey-west-of-england-wool-raincoat-overcoat-41",
+        "price": "125.00",
+        "timestamp processed": "2025-03-20T16:56:12.500462",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-03-20T16:56:12.668737",
+            "error": null,
+            "status": "success"
+        }
     }
 }
