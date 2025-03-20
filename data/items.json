@@ -1114,5 +1114,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0201 immaculate gieves & hawkes 1996 savile row bespoke navy blue pin-stripe d/b worsted suit w/ 2 pair trousers 40 regular": {
+        "title": "25/0201 immaculate gieves & hawkes 1996 savile row bespoke navy blue pin-stripe d/b worsted suit w/ 2 pair trousers 40 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0201-immaculate-gieves-hawkes-1996-savile-row-bespoke-navy-blue-pin-stripe-d-b-worsted-suit-w-2-pair-trousers-40-regular",
+        "price": "325.00",
+        "timestamp processed": "2025-03-20T17:33:48.266976",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-03-20T17:33:48.351439",
+            "error": null,
+            "status": "success"
+        }
     }
 }
