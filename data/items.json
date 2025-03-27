@@ -1318,5 +1318,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0232 vintage dege 1998 savile row bespoke black wool & silk suit w/ 2 pair trs 40-41 short to regular": {
+        "title": "25/0232 vintage dege 1998 savile row bespoke black wool & silk suit w/ 2 pair trs 40-41 short to regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0232-vintage-dege-1998-savile-row-bespoke-black-wool-silk-suit-w-2-pair-trs-40-41-short-to-regular",
+        "price": "325.00",
+        "timestamp processed": "2025-03-27T17:12:52.319168",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-03-27T17:12:52.432296",
+            "error": null,
+            "status": "success"
+        }
     }
 }
