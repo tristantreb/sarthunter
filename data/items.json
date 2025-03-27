@@ -1282,5 +1282,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0225 wonderful immaculate vintage john g hardy brown / amber check heavyweight tweed suit 39-40 short to regular": {
+        "title": "25/0225 wonderful immaculate vintage john g hardy brown / amber check heavyweight tweed suit 39-40 short to regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0225-wonderful-immaculate-vintage-john-g-hardy-brown-amber-check-heavyweight-tweed-suit-39-40-short-to-regular",
+        "price": "150.00",
+        "timestamp processed": "2025-03-27T16:38:53.837615",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-03-27T16:38:53.916948",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0226 immaculate far east bespoke italian super 130s wool brown / burgundy wp check suit 40 regular": {
+        "title": "25/0226 immaculate far east bespoke italian super 130s wool brown / burgundy wp check suit 40 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0226-immaculate-far-east-bespoke-italian-super-130s-wool-brown-burgundy-wp-check-suit-40-regular",
+        "price": "109.00",
+        "timestamp processed": "2025-03-27T16:38:53.837615",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-03-27T16:38:54.018568",
+            "error": null,
+            "status": "success"
+        }
     }
 }
