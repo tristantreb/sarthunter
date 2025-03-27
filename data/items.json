@@ -1342,5 +1342,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0222 vintage hackett london green / lilac wp check 3-piece tweed suit 40 regular to long": {
+        "title": "25/0222 vintage hackett london green / lilac wp check 3-piece tweed suit 40 regular to long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0222-vintage-hackett-london-green-lilac-wp-check-3-piece-tweed-suit-40-regular-to-long",
+        "price": "350.00",
+        "timestamp processed": "2025-03-27T18:12:09.100320",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-03-27T18:12:09.232848",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0231 vintage dege & sons 1989 savile row bespoke grey / red prince of wales check worsted suit w/ 2 pair trs 40-41 regular": {
+        "title": "25/0231 vintage dege & sons 1989 savile row bespoke grey / red prince of wales check worsted suit w/ 2 pair trs 40-41 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0231-vintage-dege-sons-1989-savile-row-bespoke-grey-red-prince-of-wales-check-worsted-suit-w-2-pair-trs-40-41-regular",
+        "price": "300.00",
+        "timestamp processed": "2025-03-27T18:12:09.100320",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-03-27T18:12:09.346549",
+            "error": null,
+            "status": "success"
+        }
     }
 }
