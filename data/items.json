@@ -1330,5 +1330,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0229 superb james purdey & sons london brown wp check norfolk shooting suit 40 regular": {
+        "title": "25/0229 superb james purdey & sons london brown wp check norfolk shooting suit 40 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0229-superb-james-purdey-sons-london-brown-wp-check-norfolk-shooting-suit-40-regular",
+        "price": "375.00",
+        "timestamp processed": "2025-03-27T17:41:01.267034",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-03-27T17:41:01.381842",
+            "error": null,
+            "status": "success"
+        }
     }
 }
