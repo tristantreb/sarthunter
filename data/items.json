@@ -1150,5 +1150,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0240 james purdey london red cotton chino jean trouser 36": {
+        "title": "25/0240 james purdey london red cotton chino jean trouser 36",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0240-james-purdey-london-red-cotton-chino-jean-trouser-36",
+        "price": "59.00",
+        "timestamp processed": "2025-03-27T14:47:08.888750",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-03-27T14:47:09.039084",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0241 james purdey london green cotton chino jean trouser 36": {
+        "title": "25/0241 james purdey london green cotton chino jean trouser 36",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0241-james-purdey-london-green-cotton-chino-jean-trouser-36",
+        "price": "59.00",
+        "timestamp processed": "2025-03-27T14:47:08.888750",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-03-27T14:47:09.123748",
+            "error": null,
+            "status": "success"
+        }
     }
 }
