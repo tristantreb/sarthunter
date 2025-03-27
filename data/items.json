@@ -1306,5 +1306,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0227 immaculate hayward 2004 savile row bespoke grey / lilac & blue wp check worsted suit 40 regular": {
+        "title": "25/0227 immaculate hayward 2004 savile row bespoke grey / lilac & blue wp check worsted suit 40 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0227-immaculate-hayward-2004-savile-row-bespoke-grey-lilac-blue-wp-check-worsted-suit-40-regular",
+        "price": "325.00",
+        "timestamp processed": "2025-03-27T16:54:02.133835",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-03-27T16:54:02.330705",
+            "error": null,
+            "status": "success"
+        }
     }
 }
