@@ -1234,5 +1234,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0221 new w/tags kilgour savile row 100% silk white / dark navy polka dot 1/1 d/b morning waistcoat (rrp \u00a3350) 38": {
+        "title": "25/0221 new w/tags kilgour savile row 100% silk white / dark navy polka dot 1/1 d/b morning waistcoat (rrp \u00a3350) 38",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0221-new-w-tags-kilgour-savile-row-100-silk-white-dark-navy-polka-dot-1-1-d-b-morning-waistcoat-rrp-350-38",
+        "price": "125.00",
+        "timestamp processed": "2025-03-27T15:49:49.905181",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-03-27T15:49:49.966139",
+            "error": null,
+            "status": "success"
+        }
     }
 }
