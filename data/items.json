@@ -1246,5 +1246,41 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0234 immaculate vintage west of england brown glen check tweed country jacket 40 short": {
+        "title": "25/0234 immaculate vintage west of england brown glen check tweed country jacket 40 short",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0234-immaculate-vintage-west-of-england-brown-glen-check-tweed-country-jacket-40-short",
+        "price": "75.00",
+        "timestamp processed": "2025-03-27T16:11:17.247542",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-03-27T16:11:17.332953",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0221C new w/tags kilgour savile row 100% silk white / dark navy polka dot 1/1 d/b morning waistcoat (rrp \u00a3350) 40": {
+        "title": "25/0221C new w/tags kilgour savile row 100% silk white / dark navy polka dot 1/1 d/b morning waistcoat (rrp \u00a3350) 40",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0221b-new-w-tags-kilgour-savile-row-100-silk-white-dark-navy-polka-dot-1-1-d-b-morning-waistcoat-rrp-350-36-copy",
+        "price": "125.00",
+        "timestamp processed": "2025-03-27T16:11:17.247542",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-03-27T16:11:17.403229",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0221B new w/tags kilgour savile row 100% silk white / dark navy polka dot 1/1 d/b morning waistcoat (rrp \u00a3350) 36": {
+        "title": "25/0221B new w/tags kilgour savile row 100% silk white / dark navy polka dot 1/1 d/b morning waistcoat (rrp \u00a3350) 36",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0221-new-w-tags-kilgour-savile-row-100-silk-white-dark-navy-polka-dot-1-1-d-b-morning-waistcoat-rrp-350-38-copy",
+        "price": "125.00",
+        "timestamp processed": "2025-03-27T16:11:17.247542",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-03-27T16:11:17.461060",
+            "error": null,
+            "status": "success"
+        }
     }
 }
