@@ -1402,5 +1402,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0258 immaculate spencers grey dogtooth check morning trouser (rrp \u00a3165) 34": {
+        "title": "25/0258 immaculate spencers grey dogtooth check morning trouser (rrp \u00a3165) 34",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0258-immaculate-spencers-grey-dogtooth-check-morning-trouser-rrp-165-34",
+        "price": "69.00",
+        "timestamp processed": "2025-04-03T14:32:57.744845",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-04-03T14:32:57.878802",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0259 immaculate spencers grey / blue check worsted trouser (rrp \u00a3165) 35": {
+        "title": "25/0259 immaculate spencers grey / blue check worsted trouser (rrp \u00a3165) 35",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0259-immaculate-spencers-grey-blue-check-worsted-trouser-rrp-165-35",
+        "price": "69.00",
+        "timestamp processed": "2025-04-03T14:32:57.744845",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-04-03T14:32:58.002926",
+            "error": null,
+            "status": "success"
+        }
     }
 }
