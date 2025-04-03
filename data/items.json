@@ -1426,5 +1426,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0253 beautiful vintage grey rope-stripe worsted flannel 3-piece suit 39 regular": {
+        "title": "25/0253 beautiful vintage grey rope-stripe worsted flannel 3-piece suit 39 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0253-beautiful-vintage-grey-rope-stripe-worsted-flannel-3-piece-suit-39-regular",
+        "price": "250.00",
+        "timestamp processed": "2025-04-03T15:35:20.731322",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-04-03T15:35:20.868814",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0254 vintage bespoke grey / blue prince of wales check worsted flannel suit 39 regular": {
+        "title": "25/0254 vintage bespoke grey / blue prince of wales check worsted flannel suit 39 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0254-vintage-bespoke-grey-blue-prince-of-wales-check-worsted-flannel-suit-39-regular",
+        "price": "195.00",
+        "timestamp processed": "2025-04-03T15:35:20.731322",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-04-03T15:35:21.042848",
+            "error": null,
+            "status": "success"
+        }
     }
 }
