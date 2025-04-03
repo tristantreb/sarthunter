@@ -1390,5 +1390,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0260 immaculate spencers fawn beige worsted trouser (rrp \u00a3165) 34": {
+        "title": "25/0260 immaculate spencers fawn beige worsted trouser (rrp \u00a3165) 34",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0260-immaculate-spencers-fawn-beige-worsted-trouser-rrp-165-34",
+        "price": "69.00",
+        "timestamp processed": "2025-04-03T14:09:13.835118",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-04-03T14:09:13.971689",
+            "error": null,
+            "status": "success"
+        }
     }
 }
