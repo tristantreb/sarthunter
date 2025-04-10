@@ -1486,5 +1486,41 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0272 immaculate kent & haste savile row bespoke black barathea wool evening trouser 36": {
+        "title": "25/0272 immaculate kent & haste savile row bespoke black barathea wool evening trouser 36",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0272-immaculate-kent-haste-savile-row-bespoke-black-barathea-wool-evening-trouser-36",
+        "price": "150.00",
+        "timestamp processed": "2025-04-10T13:17:47.554383",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-04-10T13:17:47.762294",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0274 excellent bedford riding tan beige corduroy trouser 36": {
+        "title": "25/0274 excellent bedford riding tan beige corduroy trouser 36",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0274-excellent-bedford-riding-tan-beige-corduroy-trouser-36",
+        "price": "60.00",
+        "timestamp processed": "2025-04-10T13:17:47.554383",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-04-10T13:17:47.972268",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0275 excellent bedford riding gold corduroy trouser fly 36": {
+        "title": "25/0275 excellent bedford riding gold corduroy trouser fly 36",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0275-excellent-bedford-riding-gold-corduroy-trouser-fly-36",
+        "price": "60.00",
+        "timestamp processed": "2025-04-10T13:17:47.554383",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-04-10T13:17:48.141231",
+            "error": null,
+            "status": "success"
+        }
     }
 }
