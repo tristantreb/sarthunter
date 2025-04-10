@@ -1546,5 +1546,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0266 immaculate vintage hayward savile row bespoke navy blue worsted blazer w/ services buttons 39 long": {
+        "title": "25/0266 immaculate vintage hayward savile row bespoke navy blue worsted blazer w/ services buttons 39 long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0266-immaculate-vintage-hayward-savile-row-bespoke-navy-blue-worsted-blazer-w-services-buttons-39-long",
+        "price": "150.00",
+        "timestamp processed": "2025-04-10T14:33:26.368942",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-04-10T14:33:26.442252",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0267 immaculate kent & haste savile row bespoke 2-tone blue tweed suit w/ 2 pair trousers 40-41 regular": {
+        "title": "25/0267 immaculate kent & haste savile row bespoke 2-tone blue tweed suit w/ 2 pair trousers 40-41 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0267-immaculate-kent-haste-savile-row-bespoke-2-tone-blue-tweed-suit-w-2-pair-trousers-40-41-regular",
+        "price": "350.00",
+        "timestamp processed": "2025-04-10T14:33:26.368942",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-04-10T14:33:26.526503",
+            "error": null,
+            "status": "success"
+        }
     }
 }
