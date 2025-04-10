@@ -1570,5 +1570,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0265 new w/ tags hackett 14 savile row 'white label' wool & cashmere dogtooth check sports jacket blazer 38 regular": {
+        "title": "25/0265 new w/ tags hackett 14 savile row 'white label' wool & cashmere dogtooth check sports jacket blazer 38 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0265-new-w-tags-hackett-14-savile-row-white-label-wool-cashmere-dogtooth-check-sports-jacket-blazer-38-regular",
+        "price": "225.00",
+        "timestamp processed": "2025-04-10T14:45:37.839000",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-04-10T14:45:37.923816",
+            "error": null,
+            "status": "success"
+        }
     }
 }
