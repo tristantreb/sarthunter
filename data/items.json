@@ -1906,5 +1906,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0280 vintage 1985 hayward savile row bespoke navy blue worsted suit 39-40 regular": {
+        "title": "25/0280 vintage 1985 hayward savile row bespoke navy blue worsted suit 39-40 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0280-vintage-1985-hayward-savile-row-bespoke-navy-blue-worsted-suit-39-40-regular",
+        "price": "125.00",
+        "timestamp processed": "2025-04-17T17:22:20.899373",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-04-17T17:22:21.014030",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0279 immaculate 1999 redwood & feller bespoke grey herringbone worsted suit 38-39 regular": {
+        "title": "25/0279 immaculate 1999 redwood & feller bespoke grey herringbone worsted suit 38-39 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0279-immaculate-1999-redwood-feller-bespoke-grey-herringbone-worsted-suit-38-39-regular",
+        "price": "125.00",
+        "timestamp processed": "2025-04-17T17:22:20.899373",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-04-17T17:22:21.079511",
+            "error": null,
+            "status": "success"
+        }
     }
 }
