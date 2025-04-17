@@ -1882,5 +1882,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0278 immaculate graham browne city of london bespoke dark blue worsted & mohair suit w/ 2 pair trousers 40 regular": {
+        "title": "25/0278 immaculate graham browne city of london bespoke dark blue worsted & mohair suit w/ 2 pair trousers 40 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0278-immaculate-graham-browne-city-of-london-bespoke-dark-blue-worsted-mohair-suit-w-2-pair-trousers-40-regular",
+        "price": "300.00",
+        "timestamp processed": "2025-04-17T16:58:19.532821",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-04-17T16:58:19.658858",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0277A immaculate graham browne city of london bespoke grey worsted & mohair suit w/ 2 pair trousers 40-41 regular": {
+        "title": "25/0277A immaculate graham browne city of london bespoke grey worsted & mohair suit w/ 2 pair trousers 40-41 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0277a-immaculate-graham-browne-city-of-london-bespoke-grey-worsted-mohair-suit-w-2-pair-trousers-40-41-regular",
+        "price": "300.00",
+        "timestamp processed": "2025-04-17T16:58:19.532821",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-04-17T16:58:19.814489",
+            "error": null,
+            "status": "success"
+        }
     }
 }
