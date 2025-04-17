@@ -1858,5 +1858,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0276 immaculate 2006 brian staples london w1 bespoke dark blue worsted & mohair d/b suit 39 long": {
+        "title": "25/0276 immaculate 2006 brian staples london w1 bespoke dark blue worsted & mohair d/b suit 39 long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0276-immaculate-2006-brian-staples-london-w1-bespoke-dark-blue-worsted-mohair-d-b-suit-39-long",
+        "price": "240.00",
+        "timestamp processed": "2025-04-17T16:48:25.069839",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-04-17T16:48:25.253065",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0275A vintage 1959 london w1 bespoke heavyweight grey worsted suit 38-39 short": {
+        "title": "25/0275A vintage 1959 london w1 bespoke heavyweight grey worsted suit 38-39 short",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0275a-vintage-1959-london-w1-bespoke-heavyweight-grey-worsted-suit-38-39-short",
+        "price": "125.00",
+        "timestamp processed": "2025-04-17T16:48:25.069839",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-04-17T16:48:25.380523",
+            "error": null,
+            "status": "success"
+        }
     }
 }
