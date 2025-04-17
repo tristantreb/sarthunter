@@ -1738,5 +1738,41 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0284 redwood & feller 2008 bespoke baby blue d/b worsted morning waistcoat 38": {
+        "title": "25/0284 redwood & feller 2008 bespoke baby blue d/b worsted morning waistcoat 38",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0284-redwood-feller-2008-bespoke-baby-blue-d-b-worsted-morning-waistcoat-38",
+        "price": "75.00",
+        "timestamp processed": "2025-04-17T15:18:54.921627",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-04-17T15:18:55.097080",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0285 bedford cord tan brown riding breeches 40": {
+        "title": "25/0285 bedford cord tan brown riding breeches 40",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0285-bedford-cord-tan-brown-riding-breeches-40",
+        "price": "50.00",
+        "timestamp processed": "2025-04-17T15:18:54.921627",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-04-17T15:18:55.274963",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0286 hayward savile row bespoke gold heavyweight corduroy trouser 35-37": {
+        "title": "25/0286 hayward savile row bespoke gold heavyweight corduroy trouser 35-37",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0286-hayward-savile-row-bespoke-gold-heavyweight-corduroy-trouser-35-37",
+        "price": "95.00",
+        "timestamp processed": "2025-04-17T15:18:54.921627",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-04-17T15:18:55.441110",
+            "error": null,
+            "status": "success"
+        }
     }
 }
