@@ -1678,5 +1678,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0290 purdey london beige cotton chino jean trouser 37": {
+        "title": "25/0290 purdey london beige cotton chino jean trouser 37",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0290-purdey-london-beige-cotton-chino-jean-trouser-37",
+        "price": "49.00",
+        "timestamp processed": "2025-04-17T14:32:42.234182",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-04-17T14:32:42.304022",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0291 kent haste lachter 2012 savile row bespoke cream cotton chino trouser 39": {
+        "title": "25/0291 kent haste lachter 2012 savile row bespoke cream cotton chino trouser 39",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0291-kent-haste-lachter-2012-savile-row-bespoke-cream-cotton-chino-trouser-39",
+        "price": "105.00",
+        "timestamp processed": "2025-04-17T14:32:42.234182",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-04-17T14:32:42.364108",
+            "error": null,
+            "status": "success"
+        }
     }
 }
