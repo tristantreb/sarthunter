@@ -1594,5 +1594,41 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0300 redwood & feller 2008 savile row bespoke 'cashmere stripe' worsted morning trouser 36": {
+        "title": "25/0300 redwood & feller 2008 savile row bespoke 'cashmere stripe' worsted morning trouser 36",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0300-redwood-feller-2008-savile-row-bespoke-cashmere-stripe-worsted-morning-trouser-36",
+        "price": "75.00",
+        "timestamp processed": "2025-04-17T13:15:45.877435",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-04-17T13:15:46.145415",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0301 redwood & feller 2010 bespoke black worsted evening trouser 34": {
+        "title": "25/0301 redwood & feller 2010 bespoke black worsted evening trouser 34",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0301-redwood-feller-2010-bespoke-black-worsted-evening-trouser-34",
+        "price": "115.00",
+        "timestamp processed": "2025-04-17T13:15:45.877435",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-04-17T13:15:46.373911",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0303 vintage pakeman black barathea wool evening trouser 35-38": {
+        "title": "25/0303 vintage pakeman black barathea wool evening trouser 35-38",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0303-vintage-pakeman-black-barathea-wool-evening-trouser-35-38",
+        "price": "75.00",
+        "timestamp processed": "2025-04-17T13:15:45.877435",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-04-17T13:15:46.545780",
+            "error": null,
+            "status": "success"
+        }
     }
 }
