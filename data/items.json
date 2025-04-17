@@ -1630,5 +1630,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0296 immaculate kent haste lachter 2015 savile row bespoke grey fine wool trouser 40": {
+        "title": "25/0296 immaculate kent haste lachter 2015 savile row bespoke grey fine wool trouser 40",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0296-immaculate-kent-haste-lachter-2015-savile-row-bespoke-grey-fine-wool-trouser-40",
+        "price": "150.00",
+        "timestamp processed": "2025-04-17T13:40:15.155819",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-04-17T13:40:15.414552",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0297 immaculate bespoke tailored grey heavyweight worsted flannel trouser 38": {
+        "title": "25/0297 immaculate bespoke tailored grey heavyweight worsted flannel trouser 38",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0297-immaculate-bespoke-tailored-grey-heavyweight-worsted-flannel-trouser-38",
+        "price": "85.00",
+        "timestamp processed": "2025-04-17T13:40:15.155819",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-04-17T13:40:15.634464",
+            "error": null,
+            "status": "success"
+        }
     }
 }
