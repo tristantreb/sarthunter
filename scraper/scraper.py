@@ -56,7 +56,21 @@ class Scraper:
         """
         Filter sizes 34, 35, 36, 37, 38, 39, 40 in title
         """
-        sizes = ["34", "35", "36", "37", "38", "39", "40"]
+        sizes = [
+            "7",
+            "7.5",
+            "30",
+            "31",
+            "32",
+            "33",
+            "34",
+            "35",
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+        ]
         return any(size in title for size in sizes)
 
     def check_new_items(self):
