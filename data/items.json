@@ -238,5 +238,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0264a barker new (seconds) brown toe cap leather oxford shoe uk 6.5f": {
+        "title": "25/0264a barker new (seconds) brown toe cap leather oxford shoe uk 6.5f",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0264a-barker-new-seconds-brown-toe-cap-leather-oxford-shoe-uk-6-5f",
+        "price": "37.00",
+        "timestamp processed": "2025-04-21T11:25:10.733670",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-04-21T11:25:10.822719",
+            "error": null,
+            "status": "success"
+        }
     }
 }
