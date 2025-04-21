@@ -45,20 +45,19 @@ class Scraper:
                 title = title_tag.get_text(strip=True)
                 link = "https://www.savvyrow.co.uk" + title_tag["href"]
                 price = price_tag.get_text(strip=True).replace("\u00a3", "")
-                if self.filter_size(title):
+                if self.filter_words(title):
                     items.append({"title": title, "link": link, "price": price})
 
         print(f"Found {len(items)} items on {url}")
 
         return items
 
-    def filter_size(self, title):
+    def filter_words(self, title):
         """
         Filter sizes 34, 35, 36, 37, 38, 39, 40 in title
         """
         sizes = [
-            "7",
-            "7.5",
+            "shoe",
             "30",
             "31",
             "32",
