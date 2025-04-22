@@ -250,5 +250,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0047 excellent nick tentis savile row blue wool & 16% mohair slim lapel suit 39-40 regular": {
+        "title": "25/0047 excellent nick tentis savile row blue wool & 16% mohair slim lapel suit 39-40 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0047-excellent-nick-tentis-savile-row-blue-wool-16-mohair-slim-lapel-suit-39-40-regular-copy",
+        "price": "275.00",
+        "timestamp processed": "2025-04-22T14:48:15.025075",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-04-22T14:48:15.224392",
+            "error": null,
+            "status": "success"
+        }
     }
 }
