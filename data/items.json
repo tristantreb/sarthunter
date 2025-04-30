@@ -538,5 +538,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0301 redwood & feller 2010 bespoke black worsted evening trouser 34": {
+        "title": "25/0301 redwood & feller 2010 bespoke black worsted evening trouser 34",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0301-redwood-feller-2010-bespoke-black-worsted-evening-trouser-34-copy",
+        "price": "115.00",
+        "timestamp processed": "2025-04-30T10:18:54.982596",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-04-30T10:18:55.136750",
+            "error": null,
+            "status": "success"
+        }
     }
 }
