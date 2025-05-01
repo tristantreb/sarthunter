@@ -550,5 +550,41 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0342 vintage albert thurston london red boxcloth braces w/ white leather ends multifit": {
+        "title": "25/0342 vintage albert thurston london red boxcloth braces w/ white leather ends multifit",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0342-vintage-albert-thurston-london-red-boxcloth-braces-w-white-leather-ends-multifit",
+        "price": "45.00",
+        "timestamp processed": "2025-05-01T13:16:13.473949",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-01T13:16:13.651960",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0343 vintage albert thurston london white woven evening dress braces w/ white leather ends multifit": {
+        "title": "25/0343 vintage albert thurston london white woven evening dress braces w/ white leather ends multifit",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0343-vintage-albert-thurston-london-white-woven-evening-dress-braces-w-white-leather-ends-multifit",
+        "price": "45.00",
+        "timestamp processed": "2025-05-01T13:16:13.473949",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-01T13:16:13.768131",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0341 immaculate albert thurston london red boxcloth braces w/ brown leather ends multifit": {
+        "title": "25/0341 immaculate albert thurston london red boxcloth braces w/ brown leather ends multifit",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0341-immaculate-albert-thurston-london-red-boxcloth-braces-w-brown-leather-ends-multifit",
+        "price": "60.00",
+        "timestamp processed": "2025-05-01T13:16:13.473949",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-01T13:16:13.880863",
+            "error": null,
+            "status": "success"
+        }
     }
 }
