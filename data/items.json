@@ -874,5 +874,65 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0331 stewart christie edinburgh bespoke heavyweight green barathea wool prince charlie kilt jacket & waistcoat 48 long": {
+        "title": "25/0331 stewart christie edinburgh bespoke heavyweight green barathea wool prince charlie kilt jacket & waistcoat 48 long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0331-stewart-christie-edinburgh-bespoke-heavyweight-green-barathea-wool-prince-charlie-kilt-jacket-waistcoat-48-long",
+        "price": "250.00",
+        "timestamp processed": "2025-05-01T16:30:42.588344",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-01T16:30:42.810696",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0316 exceptional heavyweight bespoke scottish tweed green wp check jacket w/ beautiful detailing 50 long": {
+        "title": "25/0316 exceptional heavyweight bespoke scottish tweed green wp check jacket w/ beautiful detailing 50 long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0316-exceptional-heavyweight-bespoke-scottish-tweed-green-wp-check-jacket-w-beautiful-detailing-50-long",
+        "price": "272.00",
+        "timestamp processed": "2025-05-01T16:30:42.588344",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-01T16:30:42.999976",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0314 immaculate vintage haggart of aberfeldy heavyweight gun check tweed jacket 44 regular to long": {
+        "title": "25/0314 immaculate vintage haggart of aberfeldy heavyweight gun check tweed jacket 44 regular to long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0314-immaculate-vintage-haggart-of-aberfeldy-heavyweight-gun-check-tweed-jacket-44-regular-to-long",
+        "price": "125.00",
+        "timestamp processed": "2025-05-01T16:30:42.588344",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-01T16:30:43.203673",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0328 wonderful vintage british bespoke green check worsted thorn twist town & country suit 43 short": {
+        "title": "25/0328 wonderful vintage british bespoke green check worsted thorn twist town & country suit 43 short",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0328-wonderful-vintage-british-bespoke-green-check-worsted-thorn-twist-town-country-suit-43-short",
+        "price": "125.00",
+        "timestamp processed": "2025-05-01T16:30:42.588344",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-01T16:30:43.370262",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0329 immaculate stewart christie edinburgh heavyweight bespoke green gun check 3-piece tweed shooting suit jacket / gilet trouser 50 long": {
+        "title": "25/0329 immaculate stewart christie edinburgh heavyweight bespoke green gun check 3-piece tweed shooting suit jacket / gilet trouser 50 long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0329-immaculate-stewart-christie-edinburgh-heavyweight-bespoke-green-gun-check-3-piece-tweed-shooting-suit-jacket-gilet-trouser-50-long",
+        "price": "550.00",
+        "timestamp processed": "2025-05-01T16:30:42.588344",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-01T16:30:43.549114",
+            "error": null,
+            "status": "success"
+        }
     }
 }
