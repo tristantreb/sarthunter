@@ -838,5 +838,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0332 immaculate aquascutum stone beige d/b trenchcoat raincoat mac w/ belt 42-44 regular": {
+        "title": "25/0332 immaculate aquascutum stone beige d/b trenchcoat raincoat mac w/ belt 42-44 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0332-immaculate-aquascutum-stone-beige-d-b-trenchcoat-raincoat-mac-w-belt-42-44-regular",
+        "price": "185.00",
+        "timestamp processed": "2025-05-01T15:48:20.229384",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-01T15:48:20.448653",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0327 immaculate vintage british green check worsted thorn twist town & country suit 44 short": {
+        "title": "25/0327 immaculate vintage british green check worsted thorn twist town & country suit 44 short",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0327-immaculate-vintage-british-green-check-worsted-thorn-twist-town-country-suit-44-short",
+        "price": "95.00",
+        "timestamp processed": "2025-05-01T15:48:20.229384",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-01T15:48:20.656262",
+            "error": null,
+            "status": "success"
+        }
     }
 }
