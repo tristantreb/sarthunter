@@ -634,5 +634,53 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0338 immaculate husky green quilted shooting vest gilet 50 long": {
+        "title": "25/0338 immaculate husky green quilted shooting vest gilet 50 long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0338-immaculate-husky-green-quilted-shooting-vest-gilet-50-long",
+        "price": "45.00",
+        "timestamp processed": "2025-05-01T14:08:37.979045",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-01T14:08:38.120670",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0339 immaculate john partridge green quilted shooting vest gilet 54 extra long": {
+        "title": "25/0339 immaculate john partridge green quilted shooting vest gilet 54 extra long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0339-immaculate-john-partridge-green-quilted-shooting-vest-gilet-54-extra-long",
+        "price": "49.00",
+        "timestamp processed": "2025-05-01T14:08:37.979045",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-01T14:08:38.237668",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0340 immaculate quality british burgundy red doeskin wool country waistcoat 44 regular": {
+        "title": "25/0340 immaculate quality british burgundy red doeskin wool country waistcoat 44 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0340-immaculate-quality-british-burgundy-red-doeskin-wool-country-waistcoat-44-regular",
+        "price": "49.00",
+        "timestamp processed": "2025-05-01T14:08:37.979045",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-01T14:08:38.346924",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0333 immaculate kilgour 2012 savile row bespoke black barathea wool evening trouser 39": {
+        "title": "25/0333 immaculate kilgour 2012 savile row bespoke black barathea wool evening trouser 39",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0333-immaculate-kilgour-2012-savile-row-bespoke-black-barathea-wool-evening-trouser-39",
+        "price": "150.00",
+        "timestamp processed": "2025-05-01T14:08:37.979045",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-01T14:08:38.458906",
+            "error": null,
+            "status": "success"
+        }
     }
 }
