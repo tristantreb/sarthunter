@@ -802,5 +802,41 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0326 immaculate gieves & hawkes savile row gun check worsted wool suit 44 short": {
+        "title": "25/0326 immaculate gieves & hawkes savile row gun check worsted wool suit 44 short",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0326-immaculate-gieves-hawkes-savile-row-gun-check-worsted-wool-suit-44-short",
+        "price": "195.00",
+        "timestamp processed": "2025-05-01T15:35:30.153983",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-01T15:35:30.322024",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0325 near immaculate gieves & hawkes savile row green wp check worsted wool suit 44 short to regular": {
+        "title": "25/0325 near immaculate gieves & hawkes savile row green wp check worsted wool suit 44 short to regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0325-near-immaculate-gieves-hawkes-savile-row-green-wp-check-worsted-wool-suit-44-short-to-regular",
+        "price": "195.00",
+        "timestamp processed": "2025-05-01T15:35:30.153983",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-01T15:35:30.485384",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0324 immaculate kilgour savile row bespoke black barathea wool dinner suit 44 regular": {
+        "title": "25/0324 immaculate kilgour savile row bespoke black barathea wool dinner suit 44 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0324-immaculate-kilgour-savile-row-bespoke-black-barathea-wool-dinner-suit-44-regular",
+        "price": "375.00",
+        "timestamp processed": "2025-05-01T15:35:30.153983",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-01T15:35:30.644670",
+            "error": null,
+            "status": "success"
+        }
     }
 }
