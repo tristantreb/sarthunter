@@ -946,5 +946,41 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0368 quality dove grey woven elastic cotton braces w/ tan brown leather ends multi-fit": {
+        "title": "25/0368 quality dove grey woven elastic cotton braces w/ tan brown leather ends multi-fit",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0368-quality-dove-grey-woven-elastic-cotton-braces-w-tan-brown-leather-ends-multi-fit",
+        "price": "45.00",
+        "timestamp processed": "2025-05-08T13:42:25.073931",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-08T13:42:25.236061",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0370 vintage british green boxcloth braces w/ white leather ends multi-fit": {
+        "title": "25/0370 vintage british green boxcloth braces w/ white leather ends multi-fit",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0370-vintage-british-green-boxcloth-braces-w-white-leather-ends-multi-fit",
+        "price": "37.00",
+        "timestamp processed": "2025-05-08T13:42:25.073931",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-08T13:42:25.379124",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0369 immaculate quality woven elastic burgundy braces w/ brown leather ends multi-fit": {
+        "title": "25/0369 immaculate quality woven elastic burgundy braces w/ brown leather ends multi-fit",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0369-immaculate-quality-woven-elastic-burgundy-braces-w-brown-leather-ends-multi-fit",
+        "price": "25.00",
+        "timestamp processed": "2025-05-08T13:42:25.073931",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-08T13:42:25.478120",
+            "error": null,
+            "status": "success"
+        }
     }
 }
