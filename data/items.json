@@ -982,5 +982,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0366 trickers dunlop black double-welt plain toe oxford shoe uk 8.5": {
+        "title": "25/0366 trickers dunlop black double-welt plain toe oxford shoe uk 8.5",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0366-trickers-dunlop-black-double-welt-plain-toe-oxford-shoe-uk-8-5",
+        "price": "60.00",
+        "timestamp processed": "2025-05-08T13:54:22.666364",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-08T13:54:22.874233",
+            "error": null,
+            "status": "success"
+        }
     }
 }
