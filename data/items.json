@@ -1078,5 +1078,41 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0353 vintage british tailor grey worsted flannel suit 44 regular": {
+        "title": "25/0353 vintage british tailor grey worsted flannel suit 44 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0353-vintage-british-tailor-grey-worsted-flannel-suit-44-regular",
+        "price": "75.00",
+        "timestamp processed": "2025-05-08T15:28:50.912408",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-08T15:28:51.042368",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0356 immaculate hardy amies wool mix norfolk black safari style blazer sports jacket 38": {
+        "title": "25/0356 immaculate hardy amies wool mix norfolk black safari style blazer sports jacket 38",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0356-immaculate-hardy-amies-wool-mix-norfolk-black-safari-style-blazer-sports-jacket-38",
+        "price": "85.00",
+        "timestamp processed": "2025-05-08T15:28:50.912408",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-08T15:28:51.166302",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0357 immaculate italian 70% wool & 30% cashmere navy blue overcoat 40-42 regular": {
+        "title": "25/0357 immaculate italian 70% wool & 30% cashmere navy blue overcoat 40-42 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0357-immaculate-italian-70-wool-30-cashmere-navy-blue-overcoat-40-42-regular",
+        "price": "105.00",
+        "timestamp processed": "2025-05-08T15:28:50.912408",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-08T15:28:51.308879",
+            "error": null,
+            "status": "success"
+        }
     }
 }
