@@ -1054,5 +1054,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0358 immaculate cocoon custom cotton mix raincoat mac w/ detachable liner 52 long (rrp \u00a3660)": {
+        "title": "25/0358 immaculate cocoon custom cotton mix raincoat mac w/ detachable liner 52 long (rrp \u00a3660)",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0358-immaculate-cocoon-custom-cotton-mix-raincoat-mac-w-detachable-liner-52-long-rrp-660",
+        "price": "150.00",
+        "timestamp processed": "2025-05-08T14:48:58.069660",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-08T14:48:58.144863",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0359 anderson & sheppard 2007 savile row bespoke grey worsted trouser (minor damage) 36": {
+        "title": "25/0359 anderson & sheppard 2007 savile row bespoke grey worsted trouser (minor damage) 36",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0359-anderson-sheppard-2007-savile-row-bespoke-grey-worsted-trouser-minor-damage-36",
+        "price": "49.00",
+        "timestamp processed": "2025-05-08T14:48:58.069660",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-08T14:48:58.230020",
+            "error": null,
+            "status": "success"
+        }
     }
 }
