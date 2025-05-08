@@ -1210,5 +1210,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0348 vintage anderson & sheppard savile row bespoke grey nailhead weave worsted suit for restoration 38 short": {
+        "title": "25/0348 vintage anderson & sheppard savile row bespoke grey nailhead weave worsted suit for restoration 38 short",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0348-vintage-anderson-sheppard-savile-row-bespoke-grey-nailhead-weave-worsted-suit-for-restoration-38-short",
+        "price": "75.00",
+        "timestamp processed": "2025-05-08T16:47:14.413050",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-08T16:47:14.621078",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0349 vintage british bespoke heavyweight nailhead weave worsted 3-piece suit w/ 2 pair trousers 43-44 short": {
+        "title": "25/0349 vintage british bespoke heavyweight nailhead weave worsted 3-piece suit w/ 2 pair trousers 43-44 short",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0349-vintage-british-bespoke-heavyweight-nailhead-weave-worsted-3-piece-suit-w-2-pair-trousers-43-44-short",
+        "price": "125.00",
+        "timestamp processed": "2025-05-08T16:47:14.413050",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-08T16:47:14.792065",
+            "error": null,
+            "status": "success"
+        }
     }
 }
