@@ -1138,5 +1138,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0347 immaculate vintage bespoke tailored dark blue mohair suit 39-40 short to regular": {
+        "title": "25/0347 immaculate vintage bespoke tailored dark blue mohair suit 39-40 short to regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0347-immaculate-vintage-bespoke-tailored-dark-blue-mohair-suit-39-40-short-to-regular",
+        "price": "150.00",
+        "timestamp processed": "2025-05-08T15:55:32.319336",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-08T15:55:32.385201",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0345 immaculate gieves & hawkes savile row glen check wool sports jacket blazer 43 short to regular": {
+        "title": "25/0345 immaculate gieves & hawkes savile row glen check wool sports jacket blazer 43 short to regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0345-immaculate-gieves-hawkes-savile-row-glen-check-wool-sports-jacket-blazer-43-short-to-regular",
+        "price": "75.00",
+        "timestamp processed": "2025-05-08T15:55:32.319336",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-08T15:55:32.450955",
+            "error": null,
+            "status": "success"
+        }
     }
 }
