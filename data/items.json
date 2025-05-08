@@ -1114,5 +1114,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0351 vintage 1987 hayward savile row bespoke navy blue herringbone d/b worsted suit 40-41 long (minor damage)": {
+        "title": "25/0351 vintage 1987 hayward savile row bespoke navy blue herringbone d/b worsted suit 40-41 long (minor damage)",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0351-vintage-1987-hayward-savile-row-bespoke-navy-blue-herringbone-d-b-worsted-suit-40-41-long-minor-damage",
+        "price": "95.00",
+        "timestamp processed": "2025-05-08T15:45:31.872417",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-08T15:45:32.059604",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0352 immaculate magee tailored gun check worsted twist suit (rrp \u00a3550) 39 regular": {
+        "title": "25/0352 immaculate magee tailored gun check worsted twist suit (rrp \u00a3550) 39 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0352-immaculate-magee-tailored-gun-check-worsted-twist-suit-rrp-550-39-regular",
+        "price": "109.00",
+        "timestamp processed": "2025-05-08T15:45:31.872417",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-08T15:45:32.174074",
+            "error": null,
+            "status": "success"
+        }
     }
 }
