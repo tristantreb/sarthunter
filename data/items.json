@@ -1258,5 +1258,41 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0387 vintage 1950s heavyweight worsted cavalry twill lovat green country coat overcoat 42-44": {
+        "title": "25/0387 vintage 1950s heavyweight worsted cavalry twill lovat green country coat overcoat 42-44",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0387-vintage-1950s-heavyweight-worsted-cavalry-twill-lovat-green-country-coat-overcoat-42-44",
+        "price": "105.00",
+        "timestamp processed": "2025-05-15T11:28:57.594179",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-15T11:28:57.874252",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0388 immaculate vintage daks london stone venetian twill covert coat w/ velvet collar 40": {
+        "title": "25/0388 immaculate vintage daks london stone venetian twill covert coat w/ velvet collar 40",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0388-immaculate-vintage-daks-london-stone-venetian-twill-covert-coat-w-velvet-collar-40",
+        "price": "150.00",
+        "timestamp processed": "2025-05-15T11:28:57.594179",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-15T11:28:58.060002",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0389 vintage daks dd red wool twill country waistcoat 39 regular": {
+        "title": "25/0389 vintage daks dd red wool twill country waistcoat 39 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0389-vintage-daks-dd-red-wool-twill-country-waistcoat-39-regular",
+        "price": "60.00",
+        "timestamp processed": "2025-05-15T11:28:57.594179",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-15T11:28:58.232118",
+            "error": null,
+            "status": "success"
+        }
     }
 }
