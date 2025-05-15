@@ -1414,5 +1414,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0381 immaculate gieves & hawkes savile row grey worsted suit with 2 pair trousers 44 regular": {
+        "title": "25/0381 immaculate gieves & hawkes savile row grey worsted suit with 2 pair trousers 44 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0381-immaculate-gieves-hawkes-savile-row-grey-worsted-suit-with-2-pair-trousers-44-regular",
+        "price": "195.00",
+        "timestamp processed": "2025-05-15T14:35:08.754623",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-15T14:35:08.849819",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0380 vintage 1991 dege savile row bespoke beige / green stripe worsted suit 41 short to regular": {
+        "title": "25/0380 vintage 1991 dege savile row bespoke beige / green stripe worsted suit 41 short to regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0380-vintage-1991-dege-savile-row-bespoke-beige-green-stripe-worsted-suit-41-short-to-regular",
+        "price": "300.00",
+        "timestamp processed": "2025-05-15T14:35:08.754623",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-15T14:35:08.911639",
+            "error": null,
+            "status": "success"
+        }
     }
 }
