@@ -1246,5 +1246,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0390 vintage 1990 anderson & sheppard savile row bespoke grey worsted trouser 31-34": {
+        "title": "25/0390 vintage 1990 anderson & sheppard savile row bespoke grey worsted trouser 31-34",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0390-vintage-1990-anderson-sheppard-savile-row-bespoke-grey-worsted-trouser-31-34",
+        "price": "125.00",
+        "timestamp processed": "2025-05-15T11:14:04.919061",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-15T11:14:05.186224",
+            "error": null,
+            "status": "success"
+        }
     }
 }
