@@ -1450,5 +1450,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0382 new w/tags hackett no.14 savile row grey birds-eye weave wool suit rrp \u00a3800 42 regular jacket / 36 regular trouser": {
+        "title": "25/0382 new w/tags hackett no.14 savile row grey birds-eye weave wool suit rrp \u00a3800 42 regular jacket / 36 regular trouser",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0382-new-w-tags-hackett-no-14-savile-row-grey-birds-eye-weave-wool-suit-rrp-800-42-regular-jacket-36-regular-trouser",
+        "price": "300.00",
+        "timestamp processed": "2025-05-15T16:41:46.925059",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-15T16:41:47.109082",
+            "error": null,
+            "status": "success"
+        }
     }
 }
