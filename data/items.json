@@ -1294,5 +1294,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0386 quality vintage british 100% wool grey crombie-style d/b overcoat 38-40": {
+        "title": "25/0386 quality vintage british 100% wool grey crombie-style d/b overcoat 38-40",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0386-quality-vintage-british-100-wool-grey-crombie-style-d-b-overcoat-38-40",
+        "price": "85.00",
+        "timestamp processed": "2025-05-15T11:41:58.446628",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-15T11:41:58.522905",
+            "error": null,
+            "status": "success"
+        }
     }
 }
