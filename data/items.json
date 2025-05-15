@@ -1354,5 +1354,41 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0376 immaculate vintage aquascutum blue glen check wool sports jacket blazer 39-40 regular": {
+        "title": "25/0376 immaculate vintage aquascutum blue glen check wool sports jacket blazer 39-40 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0376-immaculate-vintage-aquascutum-blue-glen-check-wool-sports-jacket-blazer-39-40-regular",
+        "price": "75.00",
+        "timestamp processed": "2025-05-15T13:36:18.911263",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-15T13:36:19.372493",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0374 daks london blue glen check wool linen & silk sports jacket blazer 45-46 regular": {
+        "title": "25/0374 daks london blue glen check wool linen & silk sports jacket blazer 45-46 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0374-daks-london-blue-glen-check-wool-linen-silk-sports-jacket-blazer-45-46-regular",
+        "price": "89.00",
+        "timestamp processed": "2025-05-15T13:36:18.911263",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-15T13:36:19.550585",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0373 immaculate vintage daks dd house check wool sports jacket blazer w/ suede trims 41 regular": {
+        "title": "25/0373 immaculate vintage daks dd house check wool sports jacket blazer w/ suede trims 41 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0373-immaculate-vintage-daks-dd-house-check-wool-sports-jacket-blazer-w-suede-trims-41-regular",
+        "price": "89.00",
+        "timestamp processed": "2025-05-15T13:36:18.911263",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-15T13:36:19.752697",
+            "error": null,
+            "status": "success"
+        }
     }
 }
