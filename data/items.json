@@ -1534,5 +1534,53 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0393 immaculate vintage daks signature wool & 13% silk glen check sports jacket blazer 41-42 regular": {
+        "title": "25/0393 immaculate vintage daks signature wool & 13% silk glen check sports jacket blazer 41-42 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0393-immaculate-vintage-daks-signature-wool-13-silk-glen-check-sports-jacket-blazer-41-42-regular",
+        "price": "85.00",
+        "timestamp processed": "2025-05-22T14:11:52.974054",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-22T14:11:53.129209",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0392 vintage huntsman savile row navy blue worsted d/b blazer w/ red lining 41 regular": {
+        "title": "25/0392 vintage huntsman savile row navy blue worsted d/b blazer w/ red lining 41 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0392-vintage-huntsman-savile-row-navy-blue-worsted-d-b-blazer-w-red-lining-41-regular",
+        "price": "125.00",
+        "timestamp processed": "2025-05-22T14:11:52.974054",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-22T14:11:53.270675",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0391 wonderful vintage daks simpson ivory white shawl wool dinner jacket 38 regular": {
+        "title": "25/0391 wonderful vintage daks simpson ivory white shawl wool dinner jacket 38 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0391-wonderful-vintage-daks-simpson-ivory-white-shawl-wool-dinner-jacket-38-regular",
+        "price": "75.00",
+        "timestamp processed": "2025-05-22T14:11:52.974054",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-22T14:11:53.457819",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0404 berluti mahogany brown lacve-up derby shoe 9 e": {
+        "title": "25/0404 berluti mahogany brown lacve-up derby shoe 9 e",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0404-berluti-mahogany-brown-lacve-up-derby-shoe-9-e",
+        "price": "215.00",
+        "timestamp processed": "2025-05-22T14:11:52.974054",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-22T14:11:53.622432",
+            "error": null,
+            "status": "success"
+        }
     }
 }
