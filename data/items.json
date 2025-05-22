@@ -1606,5 +1606,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0397 new w/tags hackett london grey glen check wool & linen suit 38 regular": {
+        "title": "25/0397 new w/tags hackett london grey glen check wool & linen suit 38 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0397-new-w-tags-hackett-london-grey-glen-check-wool-linen-suit-38-regular",
+        "price": "300.00",
+        "timestamp processed": "2025-05-22T15:09:49.694276",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-22T15:09:49.870117",
+            "error": null,
+            "status": "success"
+        }
     }
 }
