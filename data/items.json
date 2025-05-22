@@ -1678,5 +1678,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0396V new w/tags hackett london blue wp check worsted suit RRP \u00a3690 - various sizes available": {
+        "title": "25/0396V new w/tags hackett london blue wp check worsted suit RRP \u00a3690 - various sizes available",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0401v-new-w-tags-hackett-london-blue-red-wp-check-cotton-linen-sports-jacket-blazer-various-sizes-available-copy",
+        "price": "300.00",
+        "timestamp processed": "2025-05-22T16:59:37.185989",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-22T16:59:37.370142",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0399 vintage 1966 huntsman savile row bespoke dark grey / blue 2-tone heavyweight worsted 3-piece suit 37-38 regular": {
+        "title": "25/0399 vintage 1966 huntsman savile row bespoke dark grey / blue 2-tone heavyweight worsted 3-piece suit 37-38 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0399-vintage-1966-huntsman-savile-row-bespoke-dark-grey-blue-2-tone-heavyweight-worsted-3-piece-suit-37-38-regular",
+        "price": "225.00",
+        "timestamp processed": "2025-05-22T16:59:37.185989",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-22T16:59:37.536401",
+            "error": null,
+            "status": "success"
+        }
     }
 }
