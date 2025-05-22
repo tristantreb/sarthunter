@@ -1582,5 +1582,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0394 cordings piccadilly dark blue 100% linen blazer sports jacket 44 regular": {
+        "title": "25/0394 cordings piccadilly dark blue 100% linen blazer sports jacket 44 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0394-cordings-piccadilly-dark-blue-100-linen-blazer-sports-jacket-44-regular",
+        "price": "85.00",
+        "timestamp processed": "2025-05-22T14:36:40.121518",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-22T14:36:40.303002",
+            "error": null,
+            "status": "success"
+        }
     }
 }
