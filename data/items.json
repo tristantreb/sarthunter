@@ -1618,5 +1618,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0400 wonderful vintage bespoke heavyweight green herringbone 3-piece tweed country suit 41 regular": {
+        "title": "25/0400 wonderful vintage bespoke heavyweight green herringbone 3-piece tweed country suit 41 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0400-wonderful-vintage-bespoke-heavyweight-green-herringbone-3-piece-tweed-country-suit-41-regular",
+        "price": "350.00",
+        "timestamp processed": "2025-05-22T15:32:50.192198",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-22T15:32:50.253339",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0398 new w/tags hackett london pale blue wp check wool & linen suit 40 regular": {
+        "title": "25/0398 new w/tags hackett london pale blue wp check wool & linen suit 40 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0398-new-w-tags-hackett-london-pale-blue-wp-check-wool-linen-suit-40-regular",
+        "price": "300.00",
+        "timestamp processed": "2025-05-22T15:32:50.192198",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-22T15:32:50.307854",
+            "error": null,
+            "status": "success"
+        }
     }
 }
