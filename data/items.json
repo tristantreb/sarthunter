@@ -1474,5 +1474,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0409 2 x excellent gieves & hawkes savile row blue / red silk ties - save \u00a3\u00a3\u00a3s": {
+        "title": "25/0409 2 x excellent gieves & hawkes savile row blue / red silk ties - save \u00a3\u00a3\u00a3s",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0409-2-x-excellent-gieves-hawkes-savile-row-blue-red-silk-ties-save-s",
+        "price": "35.00",
+        "timestamp processed": "2025-05-22T13:02:30.313005",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-22T13:02:30.394395",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0408 2 x excellent gieves & hawkes savile row blue / red silk ties - save \u00a3\u00a3\u00a3s": {
+        "title": "25/0408 2 x excellent gieves & hawkes savile row blue / red silk ties - save \u00a3\u00a3\u00a3s",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0408-2-x-excellent-gieves-hawkes-savile-row-blue-red-silk-ties-save-s",
+        "price": "35.00",
+        "timestamp processed": "2025-05-22T13:02:30.313005",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-22T13:02:30.476187",
+            "error": null,
+            "status": "success"
+        }
     }
 }
