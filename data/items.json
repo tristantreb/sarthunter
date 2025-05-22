@@ -1642,5 +1642,41 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0401v new w/tags hackett london blue / red wp check cotton & linen sports jacket blazer - various sizes available": {
+        "title": "25/0401v new w/tags hackett london blue / red wp check cotton & linen sports jacket blazer - various sizes available",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0384v-new-w-tags-hackett-no-14-savile-row-navy-royal-blue-overcheck-merino-wool-suit-in-loro-piana-cloth-rrp-975-various-sizes-available-copy",
+        "price": "180.00",
+        "timestamp processed": "2025-05-22T16:26:47.102244",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-22T16:26:47.169191",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0403 wonderful genuine 1930s 1940s vintage teddy bear style d/b motoring coat overcoat 36-38": {
+        "title": "25/0403 wonderful genuine 1930s 1940s vintage teddy bear style d/b motoring coat overcoat 36-38",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0403-wonderful-genuine-1930s-1940s-vintage-teddy-bear-style-d-b-motoring-coat-overcoat-36-38",
+        "price": "250.00",
+        "timestamp processed": "2025-05-22T16:26:47.102244",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-22T16:26:47.233679",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0402 stunning 1950s 1960s vintage heavyweight british warm style overcoat w/ original leather buttons 42": {
+        "title": "25/0402 stunning 1950s 1960s vintage heavyweight british warm style overcoat w/ original leather buttons 42",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0402-stunning-1950s-1960s-vintage-heavyweight-british-warm-style-overcoat-w-original-leather-buttons-42",
+        "price": "175.00",
+        "timestamp processed": "2025-05-22T16:26:47.102244",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-22T16:26:47.290940",
+            "error": null,
+            "status": "success"
+        }
     }
 }
