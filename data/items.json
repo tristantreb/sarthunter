@@ -1822,5 +1822,41 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0432 gieves & hawkes savile row wool & 30% mohair black dinner suit 44 regular": {
+        "title": "25/0432 gieves & hawkes savile row wool & 30% mohair black dinner suit 44 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0432-gieves-hawkes-savile-row-wool-30-mohair-black-dinner-suit-44-regular",
+        "price": "240.00",
+        "timestamp processed": "2025-05-29T15:26:06.036869",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-29T15:26:06.202619",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0430 vintage bespoke dark 2-tone blue worsted stripe suit 42 regular": {
+        "title": "25/0430 vintage bespoke dark 2-tone blue worsted stripe suit 42 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0430-vintage-bespoke-dark-2-tone-blue-worsted-stripe-suit-42-regular",
+        "price": "125.00",
+        "timestamp processed": "2025-05-29T15:26:06.036869",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-29T15:26:06.355457",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0428 near immaculate 1992 alan bennett savile row bespoke dark navy wool & mohair d/b blazer 40-41 regular": {
+        "title": "25/0428 near immaculate 1992 alan bennett savile row bespoke dark navy wool & mohair d/b blazer 40-41 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0428-near-immaculate-1992-alan-bennett-savile-row-bespoke-dark-navy-wool-mohair-d-b-blazer-40-41-regular",
+        "price": "200.00",
+        "timestamp processed": "2025-05-29T15:26:06.036869",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-29T15:26:06.561721",
+            "error": null,
+            "status": "success"
+        }
     }
 }
