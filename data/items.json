@@ -1882,5 +1882,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0431 near mint drakes savile row virgin wool grey flannel suit (rrp \u00a32195) w/ bag 42 regular": {
+        "title": "25/0431 near mint drakes savile row virgin wool grey flannel suit (rrp \u00a32195) w/ bag 42 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0431-near-mint-drakes-savile-row-virgin-wool-grey-flannel-suit-rrp-2195-w-bag-42-regular",
+        "price": "450.00",
+        "timestamp processed": "2025-05-29T15:51:52.775507",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-29T15:51:52.912886",
+            "error": null,
+            "status": "success"
+        }
     }
 }
