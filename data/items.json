@@ -1726,5 +1726,53 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0438 savile row bespoke dark grey superfine wool trouser 40-44": {
+        "title": "25/0438 savile row bespoke dark grey superfine wool trouser 40-44",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0438-savile-row-bespoke-dark-grey-superfine-wool-trouser-40-44",
+        "price": "75.00",
+        "timestamp processed": "2025-05-29T13:36:33.871986",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-29T13:36:34.022506",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0439 gieves & hawkes savile row teal blue virgin wool trouser 39": {
+        "title": "25/0439 gieves & hawkes savile row teal blue virgin wool trouser 39",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0439-gieves-hawkes-savile-row-teal-blue-virgin-wool-trouser-39",
+        "price": "75.00",
+        "timestamp processed": "2025-05-29T13:36:33.871986",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-29T13:36:34.168592",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0441 immaculate quality italian made grey wool flannel trouser 34": {
+        "title": "25/0441 immaculate quality italian made grey wool flannel trouser 34",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0441-immaculate-quality-italian-made-grey-wool-flannel-trouser-34",
+        "price": "75.00",
+        "timestamp processed": "2025-05-29T13:36:33.871986",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-29T13:36:34.332856",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0442 immaculate vintage bespoke tailored black worsted high-rise trouser 36": {
+        "title": "25/0442 immaculate vintage bespoke tailored black worsted high-rise trouser 36",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0442-immaculate-vintage-bespoke-tailored-black-worsted-high-rise-trouser-36",
+        "price": "95.00",
+        "timestamp processed": "2025-05-29T13:36:33.871986",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-29T13:36:34.513187",
+            "error": null,
+            "status": "success"
+        }
     }
 }
