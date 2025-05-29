@@ -1786,5 +1786,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0435 vintage lesley roberts savile row bespoke blue wool & mohair high-rise trouser 38": {
+        "title": "25/0435 vintage lesley roberts savile row bespoke blue wool & mohair high-rise trouser 38",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0435-vintage-lesley-roberts-savile-row-bespoke-blue-wool-mohair-high-rise-trouser-38",
+        "price": "95.00",
+        "timestamp processed": "2025-05-29T14:09:13.522077",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-29T14:09:13.617185",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0436 vintage cordings piccadilly brown corduroy shooting breeches 36": {
+        "title": "25/0436 vintage cordings piccadilly brown corduroy shooting breeches 36",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0436-vintage-cordings-piccadilly-brown-corduroy-shooting-breeches-36",
+        "price": "49.00",
+        "timestamp processed": "2025-05-29T14:09:13.522077",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-29T14:09:13.680525",
+            "error": null,
+            "status": "success"
+        }
     }
 }
