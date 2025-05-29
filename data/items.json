@@ -1702,5 +1702,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0443 immaculate brian russell 2010 savile row bespoke charcoal grey pick weave high-rise worsted trouser 35": {
+        "title": "25/0443 immaculate brian russell 2010 savile row bespoke charcoal grey pick weave high-rise worsted trouser 35",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0443-immaculate-brian-russell-2010-savile-row-bespoke-charcoal-grey-pick-weave-high-rise-worsted-trouser-35",
+        "price": "125.00",
+        "timestamp processed": "2025-05-29T13:01:36.309061",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-29T13:01:36.416130",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0444 immaculate cifonelli paris 2017 bespoke black wool & mohair trouser 34": {
+        "title": "25/0444 immaculate cifonelli paris 2017 bespoke black wool & mohair trouser 34",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0444-immaculate-cifonelli-paris-2017-bespoke-black-wool-mohair-trouser-34",
+        "price": "150.00",
+        "timestamp processed": "2025-05-29T13:01:36.309061",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-29T13:01:36.492455",
+            "error": null,
+            "status": "success"
+        }
     }
 }
