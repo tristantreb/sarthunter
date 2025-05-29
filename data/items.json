@@ -1774,5 +1774,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0437 vintage cordings piccadilly beige cavalry twill country trouser 38": {
+        "title": "25/0437 vintage cordings piccadilly beige cavalry twill country trouser 38",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0437-vintage-cordings-piccadilly-beige-cavalry-twill-country-trouser-39",
+        "price": "60.00",
+        "timestamp processed": "2025-05-29T13:50:12.055187",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-05-29T13:50:12.272330",
+            "error": null,
+            "status": "success"
+        }
     }
 }
