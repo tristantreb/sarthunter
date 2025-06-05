@@ -1930,5 +1930,41 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0459 immaculate 2018 bespoke cad & the dandy brown fine wool trouser 38": {
+        "title": "25/0459 immaculate 2018 bespoke cad & the dandy brown fine wool trouser 38",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0459-immaculate-2018-bespoke-cad-the-dandy-brown-fine-wool-trouser-38",
+        "price": "95.00",
+        "timestamp processed": "2025-06-05T16:50:45.799675",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-05T16:50:45.954225",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0458 2017 bespoke cad & the dandy teal blue fine wool trouser 36": {
+        "title": "25/0458 2017 bespoke cad & the dandy teal blue fine wool trouser 36",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0458-2017-bespoke-cad-the-dandy-teal-blue-fine-wool-trouser-36",
+        "price": "75.00",
+        "timestamp processed": "2025-06-05T16:50:45.799675",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-05T16:50:46.026537",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0457 immaculate 2019 bespoke cad & the dandy teal blue fine wool trouser 38": {
+        "title": "25/0457 immaculate 2019 bespoke cad & the dandy teal blue fine wool trouser 38",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0457-immaculate-2019-bespoke-cad-the-dandy-teal-blue-fine-wool-trouser-38",
+        "price": "95.00",
+        "timestamp processed": "2025-06-05T16:50:45.799675",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-05T16:50:46.092662",
+            "error": null,
+            "status": "success"
+        }
     }
 }
