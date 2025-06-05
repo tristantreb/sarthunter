@@ -2050,5 +2050,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0456 scabal savile row charcoal grey wool trouser 36": {
+        "title": "25/0456 scabal savile row charcoal grey wool trouser 36",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0456-scabal-savile-row-charcoal-grey-wool-trouser-36",
+        "price": "49.00",
+        "timestamp processed": "2025-06-05T18:52:19.794154",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-05T18:52:19.869220",
+            "error": null,
+            "status": "success"
+        }
     }
 }
