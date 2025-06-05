@@ -1906,5 +1906,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0455 immaculate scabal savile row charcoal grey worsted trouser 36": {
+        "title": "25/0455 immaculate scabal savile row charcoal grey worsted trouser 36",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0455-immaculate-scabal-savile-row-charcoal-grey-worsted-trouser-36",
+        "price": "75.00",
+        "timestamp processed": "2025-06-05T16:33:00.482706",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-05T16:33:00.734821",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0480 huntsman & sons 2003 savile row bespoke gret worsted high-rise trouser 37": {
+        "title": "25/0480 huntsman & sons 2003 savile row bespoke gret worsted high-rise trouser 37",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0480-huntsman-sons-2003-savile-row-bespoke-gret-worsted-high-rise-trouser-37",
+        "price": "150.00",
+        "timestamp processed": "2025-06-05T16:33:00.482706",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-05T16:33:00.928950",
+            "error": null,
+            "status": "success"
+        }
     }
 }
