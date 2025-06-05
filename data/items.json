@@ -1966,5 +1966,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0463 immaculate bespoke tailored grey worsted trouser 34": {
+        "title": "25/0463 immaculate bespoke tailored grey worsted trouser 34",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0463-immaculate-bespoke-tailored-grey-worsted-trouser-34",
+        "price": "89.00",
+        "timestamp processed": "2025-06-05T17:07:01.795656",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-05T17:07:01.873370",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0462 near immaculate 1999 savile row bespoke grey worsted high-rise trouser 39": {
+        "title": "25/0462 near immaculate 1999 savile row bespoke grey worsted high-rise trouser 39",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0462-near-immaculate-1999-savile-row-bespoke-grey-worsted-high-rise-trouser-39",
+        "price": "125.00",
+        "timestamp processed": "2025-06-05T17:07:01.795656",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-05T17:07:01.976966",
+            "error": null,
+            "status": "success"
+        }
     }
 }
