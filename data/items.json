@@ -2278,5 +2278,41 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0530 vintage extra-heavy crombie melton wool british warm overcoat 43-44 long": {
+        "title": "25/0530 vintage extra-heavy crombie melton wool british warm overcoat 43-44 long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0530-vintage-extra-heavy-crombie-melton-wool-british-warm-overcoat-43-44-long",
+        "price": "175.00",
+        "timestamp processed": "2025-06-12T15:19:29.443528",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-12T15:19:29.561574",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0531 superb genuine 1940s 1950s vintage extra-heavy black textured crombie wool d/b overcoat king coat 42-44": {
+        "title": "25/0531 superb genuine 1940s 1950s vintage extra-heavy black textured crombie wool d/b overcoat king coat 42-44",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0531-superb-genuine-1940s-1950s-vintage-extra-heavy-black-textured-crombie-wool-d-b-overcoat-king-coat-42-44",
+        "price": "250.00",
+        "timestamp processed": "2025-06-12T15:19:29.443528",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-12T15:19:29.674627",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0529 beautiful genuine 1940s vintage heavyweight brown tweed coat overcoat 42": {
+        "title": "25/0529 beautiful genuine 1940s vintage heavyweight brown tweed coat overcoat 42",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0529-beautiful-genuine-1940s-vintage-heavyweight-brown-tweed-coat-overcoat-42",
+        "price": "250.00",
+        "timestamp processed": "2025-06-12T15:19:29.443528",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-12T15:19:29.787384",
+            "error": null,
+            "status": "success"
+        }
     }
 }
