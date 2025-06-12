@@ -2218,5 +2218,41 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0514 distinctive 1940s 1950s vintage black barathea / silk shawl 1/1 d/b dinner jacket 43 long": {
+        "title": "25/0514 distinctive 1940s 1950s vintage black barathea / silk shawl 1/1 d/b dinner jacket 43 long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0514-distinctive-1940s-1950s-vintage-black-barathea-silk-shawl-1-1-d-b-dinner-jacket-43-long",
+        "price": "125.00",
+        "timestamp processed": "2025-06-12T14:22:53.861346",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-12T14:22:53.986168",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0511 immaculate vintage heavyweight green derby tweed hacking jacket 40-42 short": {
+        "title": "25/0511 immaculate vintage heavyweight green derby tweed hacking jacket 40-42 short",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0511-immaculate-vintage-heavyweight-green-derby-tweed-hacking-jacket-40-42-short",
+        "price": "95.00",
+        "timestamp processed": "2025-06-12T14:22:53.861346",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-12T14:22:54.130174",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0509 john g hardy brown wp check tweed sports jacket blazer 40-41 regular": {
+        "title": "25/0509 john g hardy brown wp check tweed sports jacket blazer 40-41 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0509-john-g-hardy-brown-wp-check-tweed-sports-jacket-blazer-40-41-regular",
+        "price": "75.00",
+        "timestamp processed": "2025-06-12T14:22:53.861346",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-12T14:22:54.243043",
+            "error": null,
+            "status": "success"
+        }
     }
 }
