@@ -2062,5 +2062,77 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0501 immaculate cordings piccadilly green button-fly corduroy trouser 36": {
+        "title": "25/0501 immaculate cordings piccadilly green button-fly corduroy trouser 36",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0501-immaculate-cordings-piccadilly-green-button-fly-corduroy-trouser-36",
+        "price": "89.00",
+        "timestamp processed": "2025-06-12T13:17:14.090492",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-12T13:17:14.163393",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0500 gieves & hawkes savile row burgundy red corduroy trouser 38": {
+        "title": "25/0500 gieves & hawkes savile row burgundy red corduroy trouser 38",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0500-gieves-hawkes-savile-row-burgundy-red-corduroy-trouser-38",
+        "price": "79.00",
+        "timestamp processed": "2025-06-12T13:17:14.090492",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-12T13:17:14.228266",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0499 luxury 2012 italian bespoke grey wool & cashmere trouser 36": {
+        "title": "25/0499 luxury 2012 italian bespoke grey wool & cashmere trouser 36",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0499-luxury-2012-italian-bespoke-grey-wool-cashmere-trouser-36",
+        "price": "105.00",
+        "timestamp processed": "2025-06-12T13:17:14.090492",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-12T13:17:14.409636",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0498 vintage 1958 anderson & sheppard savile row bespoke midnight blue high-rise evening trouser 38": {
+        "title": "25/0498 vintage 1958 anderson & sheppard savile row bespoke midnight blue high-rise evening trouser 38",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0498-vintage-1958-anderson-sheppard-savile-row-bespoke-midnight-blue-high-rise-evening-trouser-38",
+        "price": "195.00",
+        "timestamp processed": "2025-06-12T13:17:14.090492",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-12T13:17:14.480692",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0538 gieves & hawkes savile row pink red stripe cotton shirt 17": {
+        "title": "25/0538 gieves & hawkes savile row pink red stripe cotton shirt 17",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0538-gieves-hawkes-savile-row-pink-red-stripe-cotton-shirt-17",
+        "price": "50.00",
+        "timestamp processed": "2025-06-12T13:17:14.090492",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-12T13:17:14.563680",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0537 gieves & hawkes savile row blue red stripe cotton shirt 16.5": {
+        "title": "25/0537 gieves & hawkes savile row blue red stripe cotton shirt 16.5",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0537-gieves-hawkes-savile-row-blue-red-stripe-cotton-shirt-16-5",
+        "price": "50.00",
+        "timestamp processed": "2025-06-12T13:17:14.090492",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-12T13:17:14.634800",
+            "error": null,
+            "status": "success"
+        }
     }
 }
