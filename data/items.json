@@ -2314,5 +2314,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0533 quality vintage green loden wool bavarian style overcoat 40-42": {
+        "title": "25/0533 quality vintage green loden wool bavarian style overcoat 40-42",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0533-quality-vintage-green-loden-wool-bavarian-style-overcoat-40-42",
+        "price": "95.00",
+        "timestamp processed": "2025-06-12T15:40:09.905993",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-12T15:40:10.095274",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0532 beautiful genuine 1940s 1950s vintage extra-heavy charcoal grey melton wool d/b overcoat king coat 41-42": {
+        "title": "25/0532 beautiful genuine 1940s 1950s vintage extra-heavy charcoal grey melton wool d/b overcoat king coat 41-42",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0532-beautiful-genuine-1940s-1950s-vintage-extra-heavy-charcoal-grey-melton-wool-d-b-overcoat-king-coat-41-42",
+        "price": "250.00",
+        "timestamp processed": "2025-06-12T15:40:09.905993",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-12T15:40:10.282626",
+            "error": null,
+            "status": "success"
+        }
     }
 }
