@@ -2422,5 +2422,65 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0546 immaculate vintage bespoke tailored grey worsted trouser 38": {
+        "title": "25/0546 immaculate vintage bespoke tailored grey worsted trouser 38",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0546-immaculate-vintage-bespoke-tailored-grey-worsted-trouser-38",
+        "price": "75.00",
+        "timestamp processed": "2025-06-19T13:44:56.337408",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-19T13:44:56.446292",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0544 vintage savile row bespoke grey cavalry twill trouser 36": {
+        "title": "25/0544 vintage savile row bespoke grey cavalry twill trouser 36",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0544-vintage-savile-row-bespoke-grey-cavalry-twill-trouser-37",
+        "price": "75.00",
+        "timestamp processed": "2025-06-19T13:44:56.337408",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-19T13:44:56.511872",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0543 vintage black barathea wool evening trouser 35": {
+        "title": "25/0543 vintage black barathea wool evening trouser 35",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0543-vintage-black-barathea-wool-evening-trouser-35",
+        "price": "75.00",
+        "timestamp processed": "2025-06-19T13:44:56.337408",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-19T13:44:56.589563",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0542 vintage black barathea wool evening trouser 36": {
+        "title": "25/0542 vintage black barathea wool evening trouser 36",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0542-vintage-black-barathea-wool-evening-trouser-36",
+        "price": "75.00",
+        "timestamp processed": "2025-06-19T13:44:56.337408",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-19T13:44:56.653240",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0541 vintage 1950s 1960s black barathea wool high-rise evening trouser 30": {
+        "title": "25/0541 vintage 1950s 1960s black barathea wool high-rise evening trouser 30",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0541-vintage-1950s-1960s-black-barathea-wool-high-rise-evening-trouser-30",
+        "price": "95.00",
+        "timestamp processed": "2025-06-19T13:44:56.337408",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-19T13:44:56.737438",
+            "error": null,
+            "status": "success"
+        }
     }
 }
