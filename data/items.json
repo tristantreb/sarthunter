@@ -2506,5 +2506,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0550 new w/tags (seconds) crombie black wool morning waistcoat 39": {
+        "title": "25/0550 new w/tags (seconds) crombie black wool morning waistcoat 39",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0550-new-w-tags-seconds-crombie-black-wool-morning-waistcoat-39",
+        "price": "60.00",
+        "timestamp processed": "2025-06-19T14:18:54.146258",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-19T14:18:54.232550",
+            "error": null,
+            "status": "success"
+        }
     }
 }
