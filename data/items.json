@@ -2398,5 +2398,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0540 vintage 1968 savile row bespoke black barathea wool high-rise evening trouser 30": {
+        "title": "25/0540 vintage 1968 savile row bespoke black barathea wool high-rise evening trouser 30",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0540-vintage-1968-savile-row-bespoke-black-barathea-wool-high-rise-evening-trouser-30",
+        "price": "95.00",
+        "timestamp processed": "2025-06-19T13:16:59.486122",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-19T13:16:59.715354",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0539 immaculate vintage eton / savile row bespoke black barathea wool evening trouser 30": {
+        "title": "25/0539 immaculate vintage eton / savile row bespoke black barathea wool evening trouser 30",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0539-immaculate-vintage-eton-savile-row-bespoke-black-barathea-wool-evening-trouser-30",
+        "price": "85.00",
+        "timestamp processed": "2025-06-19T13:16:59.486122",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-19T13:16:59.923886",
+            "error": null,
+            "status": "success"
+        }
     }
 }
