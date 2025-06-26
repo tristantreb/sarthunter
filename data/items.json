@@ -2662,5 +2662,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0579 immaculate vintage bespoke tailored john g hardy gun check alsport cloth tweed waistcoat 36-37 regular": {
+        "title": "25/0579 immaculate vintage bespoke tailored john g hardy gun check alsport cloth tweed waistcoat 36-37 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0579-immaculate-vintage-bespoke-tailored-john-g-hardy-gun-check-alsport-cloth-tweed-waistcoat-36-37-regular",
+        "price": "60.00",
+        "timestamp processed": "2025-06-26T15:39:26.228019",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-26T15:39:26.421317",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0580 immaculate vintage bespoke tailored john g hardy alsport cloth tweed jacket 37 regular": {
+        "title": "25/0580 immaculate vintage bespoke tailored john g hardy alsport cloth tweed jacket 37 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0580-immaculate-vintage-bespoke-tailored-john-g-hardy-alsport-cloth-tweed-jacket-37-regular",
+        "price": "95.00",
+        "timestamp processed": "2025-06-26T15:39:26.228019",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-26T15:39:26.607513",
+            "error": null,
+            "status": "success"
+        }
     }
 }
