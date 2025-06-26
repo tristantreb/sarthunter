@@ -2638,5 +2638,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0574 immaculate bespoke tailored grey glen check worsted wool waistcoat 39": {
+        "title": "25/0574 immaculate bespoke tailored grey glen check worsted wool waistcoat 39",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0574-immaculate-bespoke-tailored-grey-glen-check-worsted-wool-waistcoat-39",
+        "price": "60.00",
+        "timestamp processed": "2025-06-26T15:19:21.359180",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-26T15:19:21.431356",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0573 vintage green / red stripe heavyweight derby tweed hacking country suit w/ ghillie collar 39-40 long": {
+        "title": "25/0573 vintage green / red stripe heavyweight derby tweed hacking country suit w/ ghillie collar 39-40 long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0573-vintage-green-red-stripe-heavyweight-derby-tweed-hacking-country-suit-w-ghillie-collar-39-40-long",
+        "price": "175.00",
+        "timestamp processed": "2025-06-26T15:19:21.359180",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-26T15:19:21.519904",
+            "error": null,
+            "status": "success"
+        }
     }
 }
