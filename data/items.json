@@ -2578,5 +2578,65 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0593 hayward savile row lightweight cotton chino trouser 34": {
+        "title": "25/0593 hayward savile row lightweight cotton chino trouser 34",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0593-hayward-savile-row-lightweight-cotton-chino-trouser-34",
+        "price": "60.00",
+        "timestamp processed": "2025-06-26T13:18:23.710404",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-26T13:18:23.966907",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0594 vintage bedford riding heavyweight corduroy breeches 36": {
+        "title": "25/0594 vintage bedford riding heavyweight corduroy breeches 36",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0594-vintage-bedford-riding-heavyweight-corduroy-breeches-36",
+        "price": "60.00",
+        "timestamp processed": "2025-06-26T13:18:23.710404",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-26T13:18:24.179869",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0595 immaculate 2022 kent & haste savile row bespoke dark grey 'salt & pepper' tweed trouser 34": {
+        "title": "25/0595 immaculate 2022 kent & haste savile row bespoke dark grey 'salt & pepper' tweed trouser 34",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0595-immaculate-2022-kent-haste-savile-row-bespoke-dark-grey-salt-pepper-tweed-trouser-34",
+        "price": "175.00",
+        "timestamp processed": "2025-06-26T13:18:23.710404",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-26T13:18:24.396695",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0596 immaculate 2022 kent & haste savile row bespoke black barathea wool evening trouser 36": {
+        "title": "25/0596 immaculate 2022 kent & haste savile row bespoke black barathea wool evening trouser 36",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0596-immaculate-2022-kent-haste-savile-row-bespoke-black-barathea-wool-evening-trouser-36",
+        "price": "175.00",
+        "timestamp processed": "2025-06-26T13:18:23.710404",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-26T13:18:24.615147",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0597 vintage button-fly midnight blue worsted flannel trouser 36": {
+        "title": "25/0597 vintage button-fly midnight blue worsted flannel trouser 36",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0597-vintage-button-fly-midnight-blue-worsted-flannel-trouser-36",
+        "price": "75.00",
+        "timestamp processed": "2025-06-26T13:18:23.710404",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-26T13:18:24.826505",
+            "error": null,
+            "status": "success"
+        }
     }
 }
