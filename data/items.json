@@ -2698,5 +2698,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0591 vintage brown / amber windowpane check tweed paddock coat overcoat 39": {
+        "title": "25/0591 vintage brown / amber windowpane check tweed paddock coat overcoat 39",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0591-vintage-brown-amber-windowpane-check-tweed-paddock-coat-overcoat-39",
+        "price": "150.00",
+        "timestamp processed": "2025-06-26T16:45:01.968509",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-26T16:45:02.194846",
+            "error": null,
+            "status": "success"
+        }
     }
 }
