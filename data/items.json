@@ -2566,5 +2566,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0603 wildsmith london custom grade black calf leather brogue shoe uk 10.5 E": {
+        "title": "25/0603 wildsmith london custom grade black calf leather brogue shoe uk 10.5 E",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0603-wildsmith-london-custom-grade-bvlack-calf-leather-brogue-shoe-uk-10-5-e",
+        "price": "250.00",
+        "timestamp processed": "2025-06-26T12:33:34.947106",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-06-26T12:33:35.041072",
+            "error": null,
+            "status": "success"
+        }
     }
 }
