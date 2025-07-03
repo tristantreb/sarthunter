@@ -2782,5 +2782,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0612 bernard weatherill vintage bespoke tailored cavalry twill riding breeches jodhpurs 40": {
+        "title": "25/0612 bernard weatherill vintage bespoke tailored cavalry twill riding breeches jodhpurs 40",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0612-bernard-weatherill-vintage-bespoke-tailored-cavalry-twill-riding-breeches-jodhpurs-40",
+        "price": "125.00",
+        "timestamp processed": "2025-07-03T13:56:36.686866",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-07-03T13:56:36.756127",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0611 fabulous vintage bespoke tailored cavalry twill riding breeches jodhpurs 40": {
+        "title": "25/0611 fabulous vintage bespoke tailored cavalry twill riding breeches jodhpurs 40",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0611-fabulous-vintage-bespoke-tailored-cavalry-twill-riding-breeches-jodhpurs-40",
+        "price": "125.00",
+        "timestamp processed": "2025-07-03T13:56:36.686866",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-07-03T13:56:36.816033",
+            "error": null,
+            "status": "success"
+        }
     }
 }
