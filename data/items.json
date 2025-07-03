@@ -2746,5 +2746,41 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0610 immaculate vintage 1986 kilgour french stanbury savile row bespoke grey worsted & mohair high-rise trouser 39-43": {
+        "title": "25/0610 immaculate vintage 1986 kilgour french stanbury savile row bespoke grey worsted & mohair high-rise trouser 39-43",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0610-immaculate-vintage-1986-kilgour-french-stanbury-savile-row-bespoke-grey-worsted-mohair-high-rise-trouser-39-43",
+        "price": "125.00",
+        "timestamp processed": "2025-07-03T13:44:50.177269",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-07-03T13:44:50.280368",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0608 kent haste lachter 2015 savile row bespoke grey fine wool trouser 39": {
+        "title": "25/0608 kent haste lachter 2015 savile row bespoke grey fine wool trouser 39",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0608-kent-haste-lachter-2015-savile-row-bespoke-grey-fine-wool-trouser-39",
+        "price": "95.00",
+        "timestamp processed": "2025-07-03T13:44:50.177269",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-07-03T13:44:50.342634",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0607 vintage huntsman savile row bespoke grey cavalry twill high-rise trouser 33": {
+        "title": "25/0607 vintage huntsman savile row bespoke grey cavalry twill high-rise trouser 33",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0607-vintage-huntsman-savile-row-bespoke-grey-cavalry-twill-high-rise-trouser-33",
+        "price": "75.00",
+        "timestamp processed": "2025-07-03T13:44:50.177269",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-07-03T13:44:50.399766",
+            "error": null,
+            "status": "success"
+        }
     }
 }
