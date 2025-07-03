@@ -2806,5 +2806,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0614 vintage tattersall check doeskin wool country waistcoat 40 short": {
+        "title": "25/0614 vintage tattersall check doeskin wool country waistcoat 40 short",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0614-vintage-tattersall-check-doeskin-wool-country-waistcoat-40-short",
+        "price": "79.00",
+        "timestamp processed": "2025-07-03T14:21:03.360256",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-07-03T14:21:03.454496",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0613 vintage 1940s 1950s black barathea peak lapel evening waistcoat 37": {
+        "title": "25/0613 vintage 1940s 1950s black barathea peak lapel evening waistcoat 37",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0613-vintage-1940s-1950s-black-barathea-peak-lapel-evening-waistcoat-37",
+        "price": "79.00",
+        "timestamp processed": "2025-07-03T14:21:03.360256",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-07-03T14:21:03.539614",
+            "error": null,
+            "status": "success"
+        }
     }
 }
