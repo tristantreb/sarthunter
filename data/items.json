@@ -2878,5 +2878,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0626 vintage denman & goddard savile row bespoke black herringbone worsted morning coat jacket 34 regular": {
+        "title": "25/0626 vintage denman & goddard savile row bespoke black herringbone worsted morning coat jacket 34 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0626-vintage-denman-goddard-savile-row-bespoke-black-herringbone-worsted-morning-coat-jacket-34-regular",
+        "price": "85.00",
+        "timestamp processed": "2025-07-03T16:11:53.920666",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-07-03T16:11:54.069698",
+            "error": null,
+            "status": "success"
+        }
     }
 }
