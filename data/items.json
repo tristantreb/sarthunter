@@ -2962,5 +2962,53 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0638 bespoke tailored brown herringbone tweed shooting vest waistcoat gilet 50 long": {
+        "title": "25/0638 bespoke tailored brown herringbone tweed shooting vest waistcoat gilet 50 long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0638-bespoke-tailored-brown-herringbone-tweed-shooting-vest-waistcoat-gilet-50-long",
+        "price": "45.00",
+        "timestamp processed": "2025-07-09T14:09:56.326377",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-07-09T14:09:56.560712",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0636 vintage redmayne burgundy red doeskin wool country waistcoat 37": {
+        "title": "25/0636 vintage redmayne burgundy red doeskin wool country waistcoat 37",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0636-vintage-redmayne-burgundy-red-doeskin-wool-country-waistcoat-37",
+        "price": "60.00",
+        "timestamp processed": "2025-07-09T14:09:56.326377",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-07-09T14:09:56.791985",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0637 immaculate vintage redmayne green / red paisley rayon silk country / morning waistcoat 38": {
+        "title": "25/0637 immaculate vintage redmayne green / red paisley rayon silk country / morning waistcoat 38",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0637-immaculate-vintage-redmayne-green-red-paisley-rayon-silk-country-morning-waistcoat-38",
+        "price": "69.00",
+        "timestamp processed": "2025-07-09T14:09:56.326377",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-07-09T14:09:56.985228",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0635 vintage bespoke tailored tan beige cavalry twill trouser 36": {
+        "title": "25/0635 vintage bespoke tailored tan beige cavalry twill trouser 36",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0635-vintage-bespoke-tailored-tan-beige-cavalry-twill-trouser-36",
+        "price": "49.00",
+        "timestamp processed": "2025-07-09T14:09:56.326377",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-07-09T14:09:57.177826",
+            "error": null,
+            "status": "success"
+        }
     }
 }
