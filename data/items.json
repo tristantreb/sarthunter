@@ -3034,5 +3034,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0652 redwood & feller mayfair bespoke black herringbone wool morning coat jacket 38 regular": {
+        "title": "25/0652 redwood & feller mayfair bespoke black herringbone wool morning coat jacket 38 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0652-redwood-feller-mayfair-bespoke-black-herringbone-wool-morning-coat-jacket-38-regular",
+        "price": "240.00",
+        "timestamp processed": "2025-07-09T15:36:02.132146",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-07-09T15:36:02.365662",
+            "error": null,
+            "status": "success"
+        }
     }
 }
