@@ -2926,5 +2926,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0632 vintage lock & co. hard coke black fur felt bowler hat 56cms": {
+        "title": "25/0632 vintage lock & co. hard coke black fur felt bowler hat 56cms",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0632-vintage-lock-co-hard-coke-black-fur-felt-bowler-hat-56cms",
+        "price": "60.00",
+        "timestamp processed": "2025-07-09T13:22:49.489208",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-07-09T13:22:49.704776",
+            "error": null,
+            "status": "success"
+        }
     }
 }
