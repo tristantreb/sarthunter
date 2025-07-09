@@ -3010,5 +3010,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0640 immaculate bladen green wp check tweed sports jacket 48 long": {
+        "title": "25/0640 immaculate bladen green wp check tweed sports jacket 48 long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0640-immaculate-bladen-green-wp-check-tweed-sports-jacket-48-long",
+        "price": "99.00",
+        "timestamp processed": "2025-07-09T14:35:38.910228",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-07-09T14:35:39.075055",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0639 immaculate bladen original 100% lambswool green wp check tweed sports jacket 46 long": {
+        "title": "25/0639 immaculate bladen original 100% lambswool green wp check tweed sports jacket 46 long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0639-immaculate-bladen-original-100-lambswool-green-wp-check-tweed-sports-jacket-46-long",
+        "price": "119.00",
+        "timestamp processed": "2025-07-09T14:35:38.910228",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-07-09T14:35:39.285637",
+            "error": null,
+            "status": "success"
+        }
     }
 }
