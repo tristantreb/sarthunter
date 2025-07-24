@@ -3154,5 +3154,41 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0674 vintage british black barathea wool / grosgrain silk shawl dinner suit dj 39 regular": {
+        "title": "25/0674 vintage british black barathea wool / grosgrain silk shawl dinner suit dj 39 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0674-vintage-british-black-barathea-wool-grosgrain-silk-shawl-dinner-suit-dj-39-regular",
+        "price": "97.00",
+        "timestamp processed": "2025-07-24T14:42:33.182116",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-07-24T14:42:33.286851",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0673 chris ruocco kentish town bespoke canvassed black rope-stripe suit 40 short to regular": {
+        "title": "25/0673 chris ruocco kentish town bespoke canvassed black rope-stripe suit 40 short to regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0673-chris-ruocco-kentish-town-bespoke-canvassed-black-rope-stripe-suit-40-short-to-regular",
+        "price": "175.00",
+        "timestamp processed": "2025-07-24T14:42:33.182116",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-07-24T14:42:33.345652",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0671 immaculate cordings of piccadilly navy blue worsted flannel suit 40 short": {
+        "title": "25/0671 immaculate cordings of piccadilly navy blue worsted flannel suit 40 short",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0671-immaculate-cordings-of-piccadilly-navy-blue-worsted-flannel-suit-40-short",
+        "price": "125.00",
+        "timestamp processed": "2025-07-24T14:42:33.182116",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-07-24T14:42:33.441251",
+            "error": null,
+            "status": "success"
+        }
     }
 }
