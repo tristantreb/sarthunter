@@ -3070,5 +3070,65 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0664 immaculate john g hardy sporting check tweed hacking jacket 40 long": {
+        "title": "25/0664 immaculate john g hardy sporting check tweed hacking jacket 40 long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0664-immaculate-john-g-hardy-sporting-check-tweed-hacking-jacket-40-long",
+        "price": "105.00",
+        "timestamp processed": "2025-07-24T13:49:54.177061",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-07-24T13:49:54.253037",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0662 vintage 1995 savile row bespoke grey worsted & mohair high-rise trouser 39-44": {
+        "title": "25/0662 vintage 1995 savile row bespoke grey worsted & mohair high-rise trouser 39-44",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0662-vintage-1995-savile-row-bespoke-grey-worsted-mohair-high-rise-trouser-39-44",
+        "price": "99.00",
+        "timestamp processed": "2025-07-24T13:49:54.177061",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-07-24T13:49:54.330097",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0661 immaculate cordings(?) button-fly prince of wales check worsted flannel trouser 34": {
+        "title": "25/0661 immaculate cordings(?) button-fly prince of wales check worsted flannel trouser 34",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0661-immaculate-cordings-button-fly-prince-of-wales-check-worsted-flannel-trouser-34",
+        "price": "75.00",
+        "timestamp processed": "2025-07-24T13:49:54.177061",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-07-24T13:49:54.388551",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0660 bedford riding breeches charcoal grey worsted flannel button-fly trouser 33": {
+        "title": "25/0660 bedford riding breeches charcoal grey worsted flannel button-fly trouser 33",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0660-bedford-riding-breeches-charcoal-grey-worsted-flannel-button-fly-trouser-33",
+        "price": "60.00",
+        "timestamp processed": "2025-07-24T13:49:54.177061",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-07-24T13:49:54.458944",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0658 vintage church's black calf leather oxford shoe uk 10.5": {
+        "title": "25/0658 vintage church's black calf leather oxford shoe uk 10.5",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0658-vintage-churchs-black-calf-leather-oxford-shoe-uk-10-5",
+        "price": "105.00",
+        "timestamp processed": "2025-07-24T13:49:54.177061",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-07-24T13:49:54.522360",
+            "error": null,
+            "status": "success"
+        }
     }
 }
