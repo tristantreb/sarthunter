@@ -3190,5 +3190,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0672 vintage gieves & hawkes savile row grey rope-stripe worsted 3-piece suit 38 long": {
+        "title": "25/0672 vintage gieves & hawkes savile row grey rope-stripe worsted 3-piece suit 38 long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0672-vintage-gieves-hawkes-savile-row-grey-rope-stripe-worsted-3-piece-suit-38-long",
+        "price": "150.00",
+        "timestamp processed": "2025-07-24T15:27:29.986002",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-07-24T15:27:30.110176",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0677 brian staples savile row bespoke grey worsted suit 40 long": {
+        "title": "25/0677 brian staples savile row bespoke grey worsted suit 40 long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0677-brian-staples-savile-row-bespoke-grey-worsted-suit-40-long",
+        "price": "125.00",
+        "timestamp processed": "2025-07-24T15:27:29.986002",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-07-24T15:27:30.177081",
+            "error": null,
+            "status": "success"
+        }
     }
 }
