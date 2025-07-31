@@ -3418,5 +3418,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0698 huntsman savile row blue nailhead weave 2 piece suit w/ spare trouser 40 short": {
+        "title": "25/0698 huntsman savile row blue nailhead weave 2 piece suit w/ spare trouser 40 short",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0698-huntsman-savile-row-blue-nailhead-weave-2-piece-suit-w-spare-trouser-40-short",
+        "price": "200.00",
+        "timestamp processed": "2025-07-31T16:00:16.285885",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-07-31T16:00:16.479012",
+            "error": null,
+            "status": "success"
+        }
     }
 }
