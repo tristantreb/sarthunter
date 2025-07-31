@@ -3262,5 +3262,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0703 immaculate genuine vintage grey crombie wool overcoat 38-39": {
+        "title": "25/0703 immaculate genuine vintage grey crombie wool overcoat 38-39",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0703-immaculate-genuine-vintage-grey-crombie-wool-overcoat-38-39",
+        "price": "150.00",
+        "timestamp processed": "2025-07-31T14:42:39.873131",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-07-31T14:42:40.017416",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0690 immaculate vintage british bespoke heavyweight green / amber wp check tweed jacket 40-41 short": {
+        "title": "25/0690 immaculate vintage british bespoke heavyweight green / amber wp check tweed jacket 40-41 short",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0690-immaculate-vintage-british-bespoke-heavyweight-green-amber-wp-check-tweed-jacket-40-41-short",
+        "price": "99.00",
+        "timestamp processed": "2025-07-31T14:42:39.873131",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-07-31T14:42:40.073655",
+            "error": null,
+            "status": "success"
+        }
     }
 }
