@@ -3514,5 +3514,41 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0733 vintage 1984 anderson & sheppard savile row bespoke grey d/b pin-stripe worsted suit 46 extra long": {
+        "title": "25/0733 vintage 1984 anderson & sheppard savile row bespoke grey d/b pin-stripe worsted suit 46 extra long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0733-vintage-1984-anderson-sheppard-savile-row-bespoke-grey-d-b-pin-stripe-worsted-suit-46-extra-long",
+        "price": "450.00",
+        "timestamp processed": "2025-08-07T16:25:24.335050",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-08-07T16:25:24.513225",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0731 immaculate hk bespoke tailored black worsted morning coat 52-53 long": {
+        "title": "25/0731 immaculate hk bespoke tailored black worsted morning coat 52-53 long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0731-immaculate-hk-bespoke-tailored-black-worsted-morning-coat-52-53-long",
+        "price": "125.00",
+        "timestamp processed": "2025-08-07T16:25:24.335050",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-08-07T16:25:24.681287",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0730 hk bespoke tailored dove grey worsted morning waistcoat for royal ascot 55 regular": {
+        "title": "25/0730 hk bespoke tailored dove grey worsted morning waistcoat for royal ascot 55 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0730-hk-bespoke-tailored-dove-grey-worsted-morning-waistcoat-for-royal-ascot-55-regular",
+        "price": "75.00",
+        "timestamp processed": "2025-08-07T16:25:24.335050",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-08-07T16:25:24.819621",
+            "error": null,
+            "status": "success"
+        }
     }
 }
