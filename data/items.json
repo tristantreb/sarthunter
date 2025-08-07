@@ -3550,5 +3550,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0720 immaculate vintage british stone venetian twill covert coat overcoat w/ velvet collar 40 regular": {
+        "title": "25/0720 immaculate vintage british stone venetian twill covert coat overcoat w/ velvet collar 40 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0720-immaculate-vintage-british-stone-venetian-twill-covert-coat-overcoat-w-velvet-collar-40-regular",
+        "price": "175.00",
+        "timestamp processed": "2025-08-07T16:51:30.159497",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-08-07T16:51:30.232335",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0734 vintage 1982 anderson & sheppard savile row bespoke pale grey blue worsted suit 42 extra long": {
+        "title": "25/0734 vintage 1982 anderson & sheppard savile row bespoke pale grey blue worsted suit 42 extra long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0734-vintage-1982-anderson-sheppard-savile-row-bespoke-pale-grey-blue-worsted-suit-42-extra-long",
+        "price": "250.00",
+        "timestamp processed": "2025-08-07T16:51:30.159497",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-08-07T16:51:30.357917",
+            "error": null,
+            "status": "success"
+        }
     }
 }
