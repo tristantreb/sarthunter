@@ -3742,5 +3742,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0758 vintage 1940s ww2 era anderson & sheppard savile row bespoke black pin-stripe 3-piece suit 38 regular": {
+        "title": "25/0758 vintage 1940s ww2 era anderson & sheppard savile row bespoke black pin-stripe 3-piece suit 38 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0758-vintage-1940s-ww2-era-anderson-sheppard-savile-row-bespoke-black-pin-stripe-3-piece-suit-38-regular",
+        "price": "250.00",
+        "timestamp processed": "2025-08-14T17:42:18.601685",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-08-14T17:42:18.827988",
+            "error": null,
+            "status": "success"
+        }
     }
 }
