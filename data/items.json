@@ -3754,5 +3754,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "22/0321 beautiful 2007 maurice sedwell savile row bespoke brown pin-stripe wool suit w/ paisley linings 46 regular": {
+        "title": "22/0321 beautiful 2007 maurice sedwell savile row bespoke brown pin-stripe wool suit w/ paisley linings 46 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/22-0321-beautiful-2007-maurice-sedwell-savile-row-bespoke-brown-pin-stripe-wool-suit-w-paisley-linings-46-regular-copy-1",
+        "price": "275.00",
+        "timestamp processed": "2025-08-26T13:17:35.360137",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-08-26T13:17:35.659757",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "24/0480 vintage invertere 'the squire' corduroy / suede shooting jacket coat 38-40": {
+        "title": "24/0480 vintage invertere 'the squire' corduroy / suede shooting jacket coat 38-40",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/24-0480-vintage-invertere-the-squire-corduroy-suede-shooting-jacket-coat-38-40-copy-1",
+        "price": "175.00",
+        "timestamp processed": "2025-08-26T13:17:35.360137",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-08-26T13:17:35.938674",
+            "error": null,
+            "status": "success"
+        }
     }
 }
