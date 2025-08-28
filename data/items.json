@@ -3790,5 +3790,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0792 immaculate tailor-made cream worsted morning waistcoat 39 extra long": {
+        "title": "25/0792 immaculate tailor-made cream worsted morning waistcoat 39 extra long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0792-immaculate-tailor-made-cream-worsted-morning-waistcoat-39-extra-long",
+        "price": "60.00",
+        "timestamp processed": "2025-08-28T14:09:55.962940",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-08-28T14:09:56.051117",
+            "error": null,
+            "status": "success"
+        }
     }
 }
