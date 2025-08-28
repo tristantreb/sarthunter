@@ -3838,5 +3838,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0781 new w/ tags hackett london blue overcheck wool suit 38 regular - one only!": {
+        "title": "25/0781 new w/ tags hackett london blue overcheck wool suit 38 regular - one only!",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0781-new-w-tags-hackett-london-blue-overcheck-wool-suit-38-regular-one-only",
+        "price": "295.00",
+        "timestamp processed": "2025-08-28T15:50:01.108153",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-08-28T15:50:01.356467",
+            "error": null,
+            "status": "success"
+        }
     }
 }
