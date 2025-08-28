@@ -3802,5 +3802,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0770 phillips & piper brown herringbone tweed jacket for goodwood revival 40 long": {
+        "title": "25/0770 phillips & piper brown herringbone tweed jacket for goodwood revival 40 long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0770-phillips-piper-brown-herringbone-tweed-jacket-for-goodwood-revival-40-long",
+        "price": "50.00",
+        "timestamp processed": "2025-08-28T14:33:22.923771",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-08-28T14:33:23.157662",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0768 vintage major fulham road bespoke blue black silk-velvet evening smoking jacket 37 short": {
+        "title": "25/0768 vintage major fulham road bespoke blue black silk-velvet evening smoking jacket 37 short",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0768-vintage-major-fulham-road-bespoke-blue-black-silk-velvet-evening-smoking-jacket-37-short",
+        "price": "150.00",
+        "timestamp processed": "2025-08-28T14:33:22.923771",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-08-28T14:33:23.370340",
+            "error": null,
+            "status": "success"
+        }
     }
 }
