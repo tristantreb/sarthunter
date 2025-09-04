@@ -3898,5 +3898,65 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0803 immaculate bespoke tailored grey worsted flannel trouser w/ button fly 38": {
+        "title": "25/0803 immaculate bespoke tailored grey worsted flannel trouser w/ button fly 38",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0803-immaculate-bespoke-tailored-grey-worsted-flannel-trouser-w-button-fly-38",
+        "price": "95.00",
+        "timestamp processed": "2025-09-04T13:28:37.782292",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-09-04T13:28:37.877335",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0802 immaculate 2010 ward & kruger savile row bespoke black wool evening trouser 39": {
+        "title": "25/0802 immaculate 2010 ward & kruger savile row bespoke black wool evening trouser 39",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0802-immaculate-2010-ward-kruger-savile-row-bespoke-black-wool-evening-trouser-39",
+        "price": "150.00",
+        "timestamp processed": "2025-09-04T13:28:37.782292",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-09-04T13:28:37.981237",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0801 immaculate modern bespoke tailored black fine wool evening trouser 36": {
+        "title": "25/0801 immaculate modern bespoke tailored black fine wool evening trouser 36",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0801-immaculate-modern-bespoke-tailored-black-fine-wool-evening-trouser-36",
+        "price": "95.00",
+        "timestamp processed": "2025-09-04T13:28:37.782292",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-09-04T13:28:38.116356",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0800 immaculate redwood & feller bespoke brown wp check tweed shooting breeks 38": {
+        "title": "25/0800 immaculate redwood & feller bespoke brown wp check tweed shooting breeks 38",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0800-immaculate-redwood-feller-bespoke-brown-wp-check-tweed-shooting-breeks-38",
+        "price": "125.00",
+        "timestamp processed": "2025-09-04T13:28:37.782292",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-09-04T13:28:38.186848",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0799 wonderful vintage 1950s british tattersall check country waistcoat 39 short": {
+        "title": "25/0799 wonderful vintage 1950s british tattersall check country waistcoat 39 short",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0799-wonderful-vintage-1950s-british-tattersall-check-country-waistcoat-39-short",
+        "price": "79.00",
+        "timestamp processed": "2025-09-04T13:28:37.782292",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-09-04T13:28:38.322259",
+            "error": null,
+            "status": "success"
+        }
     }
 }
