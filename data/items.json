@@ -3970,5 +3970,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0817 meyer & mortimer 2018 savile row bespoke grey / blue prince of wales check worsted flannel suit 40 long": {
+        "title": "25/0817 meyer & mortimer 2018 savile row bespoke grey / blue prince of wales check worsted flannel suit 40 long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0817-meyer-mortimer-2018-savile-row-bespoke-grey-blue-prince-of-wales-check-worsted-flannel-suit-40-long",
+        "price": "300.00",
+        "timestamp processed": "2025-09-04T16:11:17.879368",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-09-04T16:11:18.063220",
+            "error": null,
+            "status": "success"
+        }
     }
 }
