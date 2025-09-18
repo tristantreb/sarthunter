@@ -4078,5 +4078,41 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0832 vintage / antiques green card & leather carry box for top hat": {
+        "title": "25/0832 vintage / antiques green card & leather carry box for top hat",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0832-vintage-antiques-green-card-leather-carry-box-for-top-hat",
+        "price": "75.00",
+        "timestamp processed": "2025-09-18T13:32:27.665210",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-09-18T13:32:27.853649",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0831 tanner krolle for fortnum & mason tan brown leather attache case": {
+        "title": "25/0831 tanner krolle for fortnum & mason tan brown leather attache case",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0831-tanner-krolle-for-fortnum-mason-tan-brown-leather-attache-case",
+        "price": "175.00",
+        "timestamp processed": "2025-09-18T13:32:27.665210",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-09-18T13:32:28.028305",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0830 delightful 1940s 1950s vintage brown leather attache case": {
+        "title": "25/0830 delightful 1940s 1950s vintage brown leather attache case",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0830-delightful-1940s-1950s-vintage-brown-leather-attache-case",
+        "price": "50.00",
+        "timestamp processed": "2025-09-18T13:32:27.665210",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-09-18T13:32:28.214273",
+            "error": null,
+            "status": "success"
+        }
     }
 }
