@@ -4138,5 +4138,65 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0839 wonderful vintage black astrakhan fur hat cap 59 cms": {
+        "title": "25/0839 wonderful vintage black astrakhan fur hat cap 59 cms",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0839-wonderful-vintage-black-astrakhan-fur-hat-cap-59-cms",
+        "price": "75.00",
+        "timestamp processed": "2025-09-18T15:22:00.726071",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-09-18T15:22:00.907453",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0835 immaculate green gun check yorkshire tweed flat cap 59 cms": {
+        "title": "25/0835 immaculate green gun check yorkshire tweed flat cap 59 cms",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0835-immaculate-green-gun-check-yorkshire-tweed-flat-cap-59-cms",
+        "price": "20.00",
+        "timestamp processed": "2025-09-18T15:22:00.726071",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-09-18T15:22:01.040030",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0836 brown gun check harris tweed flat cap 56 cms": {
+        "title": "25/0836 brown gun check harris tweed flat cap 56 cms",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0836-brown-gun-check-harris-tweed-flat-cap-56-cms",
+        "price": "15.00",
+        "timestamp processed": "2025-09-18T15:22:00.726071",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-09-18T15:22:01.135298",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0837 immaculate blue herringbone donegal tweed flat cap 60 cms": {
+        "title": "25/0837 immaculate blue herringbone donegal tweed flat cap 60 cms",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0837-immaculate-blue-herringbone-donegal-tweed-flat-cap-60-cms",
+        "price": "30.00",
+        "timestamp processed": "2025-09-18T15:22:00.726071",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-09-18T15:22:01.262543",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0838 immaculate green italian wool flat cap 59 cms": {
+        "title": "25/0838 immaculate green italian wool flat cap 59 cms",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0838-immaculate-green-italian-wool-flat-cap-59-cms",
+        "price": "25.00",
+        "timestamp processed": "2025-09-18T15:22:00.726071",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-09-18T15:22:01.352092",
+            "error": null,
+            "status": "success"
+        }
     }
 }
