@@ -4234,5 +4234,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0868 superb denman & goddard 1996 savile row bespoke green / blue wp check 3-piece tweed suit w/ghillie collar 40 long": {
+        "title": "25/0868 superb denman & goddard 1996 savile row bespoke green / blue wp check 3-piece tweed suit w/ghillie collar 40 long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0868-superb-denman-goddard-1996-savile-row-bespoke-green-blue-wp-check-3-piece-tweed-suit-40-long",
+        "price": "575.00",
+        "timestamp processed": "2025-09-18T18:22:19.186741",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-09-18T18:22:19.414443",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0874 vintage city of london bespoke grey nailhead weave 3-piece worsted suit 39 regular": {
+        "title": "25/0874 vintage city of london bespoke grey nailhead weave 3-piece worsted suit 39 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0874-vintage-city-of-london-bespoke-grey-nailhead-weave-3-piece-worsted-suit-39-regular",
+        "price": "150.00",
+        "timestamp processed": "2025-09-18T18:22:19.186741",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-09-18T18:22:19.691426",
+            "error": null,
+            "status": "success"
+        }
     }
 }
