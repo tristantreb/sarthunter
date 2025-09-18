@@ -4210,5 +4210,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0871 immaculate stuart lamprell 2022 savile row bespoke grey / blue prince of wales check worsted suit w/ 2 pair trs 40 short": {
+        "title": "25/0871 immaculate stuart lamprell 2022 savile row bespoke grey / blue prince of wales check worsted suit w/ 2 pair trs 40 short",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0871-immaculate-stuart-lamprell-2022-savile-row-bespoke-grey-blue-prince-of-wales-check-worsted-suit-w-2-pair-trs-40-short",
+        "price": "300.00",
+        "timestamp processed": "2025-09-18T17:17:37.200648",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-09-18T17:17:37.307838",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0873 vintage hall brothers oxford bespoke grey worsted flannel d/b suit 39 regular": {
+        "title": "25/0873 vintage hall brothers oxford bespoke grey worsted flannel d/b suit 39 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0873-vintage-hall-brothers-oxford-bespoke-grey-worsted-flannel-d-b-suit-39-regular",
+        "price": "150.00",
+        "timestamp processed": "2025-09-18T17:17:37.200648",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-09-18T17:17:37.392382",
+            "error": null,
+            "status": "success"
+        }
     }
 }
