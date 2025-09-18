@@ -4126,5 +4126,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0841 vintage gieves savile row teal blue grosgrain silk cummerbund 36-38": {
+        "title": "25/0841 vintage gieves savile row teal blue grosgrain silk cummerbund 36-38",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0841-vintage-gieves-savile-row-teal-blue-grosgrain-silk-cummerbund-36-38",
+        "price": "25.00",
+        "timestamp processed": "2025-09-18T14:47:03.787268",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-09-18T14:47:03.938809",
+            "error": null,
+            "status": "success"
+        }
     }
 }
