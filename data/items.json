@@ -4198,5 +4198,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0870 vintage 1990 savile row bespoke navy  blue wool & mohair blazer w/ red lining 40 long": {
+        "title": "25/0870 vintage 1990 savile row bespoke navy  blue wool & mohair blazer w/ red lining 40 long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0870-vintage-1990-savile-row-bespoke-navy-blue-wool-mohair-blazer-w-red-lining-40-long",
+        "price": "95.00",
+        "timestamp processed": "2025-09-18T16:56:35.113005",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-09-18T16:56:35.274025",
+            "error": null,
+            "status": "success"
+        }
     }
 }
