@@ -4306,5 +4306,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0882 vintage vincents savile row bespoke sporting check tweed jacket 40 short to regular": {
+        "title": "25/0882 vintage vincents savile row bespoke sporting check tweed jacket 40 short to regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0882-vintage-vincents-savile-row-bespoke-sporting-check-tweed-jacket-40-short-to-regular",
+        "price": "137.00",
+        "timestamp processed": "2025-09-25T13:54:16.029435",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-09-25T13:54:16.142920",
+            "error": null,
+            "status": "success"
+        }
     }
 }
