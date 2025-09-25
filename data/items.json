@@ -4318,5 +4318,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0894 welsh & jefferies 2001 savile row bespoke navy blue d/b worsted suit 40 short": {
+        "title": "25/0894 welsh & jefferies 2001 savile row bespoke navy blue d/b worsted suit 40 short",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0894-welsh-jefferies-2001-savile-row-bespoke-navy-blue-d-b-worsted-suit-40-short",
+        "price": "250.00",
+        "timestamp processed": "2025-09-25T15:32:13.825231",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-09-25T15:32:13.896186",
+            "error": null,
+            "status": "success"
+        }
     }
 }
