@@ -4330,5 +4330,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0896 immaculate ward & kruger 1990 savile row bespoke grey worsted twill suit 40 regular to long": {
+        "title": "25/0896 immaculate ward & kruger 1990 savile row bespoke grey worsted twill suit 40 regular to long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0896-immaculate-ward-kruger-1990-savile-row-bespoke-grey-worsted-twill-suit-40-regular-to-long",
+        "price": "395.00",
+        "timestamp processed": "2025-09-25T15:45:27.177353",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-09-25T15:45:27.259950",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0895 immaculate ward & kruger 1990 savile row bespoke grey worsted twill d/b suit 40 regular to long": {
+        "title": "25/0895 immaculate ward & kruger 1990 savile row bespoke grey worsted twill d/b suit 40 regular to long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0895-immaculate-ward-kruger-1990-savile-row-bespoke-grey-worsted-twill-d-b-suit-40-regular-to-long",
+        "price": "395.00",
+        "timestamp processed": "2025-09-25T15:45:27.177353",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-09-25T15:45:27.325037",
+            "error": null,
+            "status": "success"
+        }
     }
 }
