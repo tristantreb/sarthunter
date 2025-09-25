@@ -4378,5 +4378,41 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0884 immaculate 1978 savile row bespoke brown wp check 3-piece tweed suit 39 regular": {
+        "title": "25/0884 immaculate 1978 savile row bespoke brown wp check 3-piece tweed suit 39 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0884-immaculate-1978-savile-row-bespoke-brown-wp-check-3-piece-tweed-suit-39-regular",
+        "price": "495.00",
+        "timestamp processed": "2025-09-25T16:56:34.946721",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-09-25T16:56:35.214739",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0898 immaculate ward & kruger 1990 savile row bespoke grey prince of wales check worsted d/b suit 40 regular to long": {
+        "title": "25/0898 immaculate ward & kruger 1990 savile row bespoke grey prince of wales check worsted d/b suit 40 regular to long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0898-immaculate-ward-kruger-1990-savile-row-bespoke-grey-prince-of-wales-check-worsted-d-b-suit-40-regular-to-long",
+        "price": "395.00",
+        "timestamp processed": "2025-09-25T16:56:34.946721",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-09-25T16:56:35.312637",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0901 ward & kruger 2008 savile row bespoke grey herringbone worsted suit 40-41 long": {
+        "title": "25/0901 ward & kruger 2008 savile row bespoke grey herringbone worsted suit 40-41 long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0901-ward-kruger-2008-savile-row-bespoke-grey-herringbone-worsted-suit-40-41-long",
+        "price": "150.00",
+        "timestamp processed": "2025-09-25T16:56:34.946721",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-09-25T16:56:35.388017",
+            "error": null,
+            "status": "success"
+        }
     }
 }
