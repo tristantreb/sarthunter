@@ -4354,5 +4354,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0899 ward & kruger 1988 savile row bespoke charcoal grey worsted suit 40 regular to long": {
+        "title": "25/0899 ward & kruger 1988 savile row bespoke charcoal grey worsted suit 40 regular to long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0899-ward-kruger-1988-savile-row-bespoke-charcoal-grey-worsted-suit-40-regular-to-long",
+        "price": "195.00",
+        "timestamp processed": "2025-09-25T16:23:25.856041",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-09-25T16:23:26.085524",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0897 henry poole 1994 savile row bespoke blue birds-eye weave worsted suit 38 short": {
+        "title": "25/0897 henry poole 1994 savile row bespoke blue birds-eye weave worsted suit 38 short",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0897-henry-poole-1994-savile-row-bespoke-blue-birds-eye-weave-worsted-suit-38-short",
+        "price": "378.60",
+        "timestamp processed": "2025-09-25T16:23:25.856041",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-09-25T16:23:26.321969",
+            "error": null,
+            "status": "success"
+        }
     }
 }
