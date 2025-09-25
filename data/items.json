@@ -4258,5 +4258,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0902 vintage 1960 savile row bespoke grey cashmere stripe worsted high-rise morning trouser 30-36": {
+        "title": "25/0902 vintage 1960 savile row bespoke grey cashmere stripe worsted high-rise morning trouser 30-36",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0902-vintage-1960-savile-row-bespoke-grey-cashmere-stripe-worsted-high-rise-morning-trouser-30-36",
+        "price": "75.00",
+        "timestamp processed": "2025-09-25T12:49:21.059270",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-09-25T12:49:21.173704",
+            "error": null,
+            "status": "success"
+        }
     }
 }
