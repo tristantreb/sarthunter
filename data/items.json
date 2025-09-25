@@ -4270,5 +4270,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0889 vintage savile row bespoke dove grey d/b worsted morning waistcoat 40 short": {
+        "title": "25/0889 vintage savile row bespoke dove grey d/b worsted morning waistcoat 40 short",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0889-vintage-savile-row-bespoke-dove-grey-d-b-worsted-morning-waistcoat-40-short",
+        "price": "109.00",
+        "timestamp processed": "2025-09-25T13:22:08.463176",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-09-25T13:22:08.578038",
+            "error": null,
+            "status": "success"
+        }
     }
 }
