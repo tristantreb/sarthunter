@@ -4510,5 +4510,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0925 vintage 1960 savile row bespoke black worsted morning waistcoat 39 regular": {
+        "title": "25/0925 vintage 1960 savile row bespoke black worsted morning waistcoat 39 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0925-vintage-1960-savile-row-bespoke-black-worsted-morning-waistcoat-39-regular",
+        "price": "60.00",
+        "timestamp processed": "2025-10-02T15:35:04.822535",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-10-02T15:35:04.887014",
+            "error": null,
+            "status": "success"
+        }
     }
 }
