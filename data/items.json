@@ -4570,5 +4570,53 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0931 extra-heavyweight 1950s vintage grey textured wool overcoat w/ gauntlet cuff 42-44": {
+        "title": "25/0931 extra-heavyweight 1950s vintage grey textured wool overcoat w/ gauntlet cuff 42-44",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0931-extra-heavyweight-1950s-vintage-grey-textured-wool-overcoat-w-gauntlet-cuff-42-44",
+        "price": "95.00",
+        "timestamp processed": "2025-10-02T16:21:13.792325",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-10-02T16:21:13.877004",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0926 immaculate vintage austin reed grey herringbone chesterfield coat w/ velvet collar 38-39 long": {
+        "title": "25/0926 immaculate vintage austin reed grey herringbone chesterfield coat w/ velvet collar 38-39 long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0926-immaculate-vintage-austin-reed-grey-herringbone-chesterfield-coat-w-velvet-collar-38-39-long",
+        "price": "125.00",
+        "timestamp processed": "2025-10-02T16:21:13.792325",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-10-02T16:21:13.950901",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0927 vintage british grey herringbone d/b chesterfield overcoat w/ velvet collar 40 long": {
+        "title": "25/0927 vintage british grey herringbone d/b chesterfield overcoat w/ velvet collar 40 long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0927-vintage-british-grey-herringbone-d-b-chesterfield-overcoat-w-velvet-collar-40-long-copy",
+        "price": "105.00",
+        "timestamp processed": "2025-10-02T16:21:13.792325",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-10-02T16:21:14.054113",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0921 vintage lovat green wp check tweed waistcoat & matching breeks 38 regular": {
+        "title": "25/0921 vintage lovat green wp check tweed waistcoat & matching breeks 38 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0921-vintage-lovat-green-wp-check-tweed-waistcoat-matching-breeks-38-regular",
+        "price": "75.00",
+        "timestamp processed": "2025-10-02T16:21:13.792325",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-10-02T16:21:14.152043",
+            "error": null,
+            "status": "success"
+        }
     }
 }
