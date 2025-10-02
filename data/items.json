@@ -4618,5 +4618,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0930 immaculate vintage 1960 savile row bespoke black wool morning coat 37-38 long": {
+        "title": "25/0930 immaculate vintage 1960 savile row bespoke black wool morning coat 37-38 long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0930-immaculate-vintage-1960-savile-row-bespoke-black-wool-morning-coat-37-38-long",
+        "price": "150.00",
+        "timestamp processed": "2025-10-02T16:54:43.754381",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-10-02T16:54:43.880696",
+            "error": null,
+            "status": "success"
+        }
     }
 }
