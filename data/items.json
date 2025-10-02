@@ -4522,5 +4522,53 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0922 immaculate vintage green wp check tweed waistcoat 39 short": {
+        "title": "25/0922 immaculate vintage green wp check tweed waistcoat 39 short",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0922-immaculate-vintage-green-wp-check-tweed-waistcoat-39-short",
+        "price": "45.00",
+        "timestamp processed": "2025-10-02T15:55:15.721048",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-10-02T15:55:15.849239",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0888 liberty london cotton waistcoat 39": {
+        "title": "25/0888 liberty london cotton waistcoat 39",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0888-liberty-london-cotton-waistcoat-39-copy",
+        "price": "95.00",
+        "timestamp processed": "2025-10-02T15:55:15.721048",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-10-02T15:55:15.933300",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0923 vintage london w1 boutique embroidered waistcoat 37-38 regular": {
+        "title": "25/0923 vintage london w1 boutique embroidered waistcoat 37-38 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0923-vintage-london-w1-boutique-embroidered-waistcoat-37-38-regular",
+        "price": "45.00",
+        "timestamp processed": "2025-10-02T15:55:15.721048",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-10-02T15:55:16.015827",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0924 remarkable antique silk court waistcoat very rare 38": {
+        "title": "25/0924 remarkable antique silk court waistcoat very rare 38",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0924-remarkable-antique-silk-court-waistcoat-very-rare-38",
+        "price": "95.00",
+        "timestamp processed": "2025-10-02T15:55:15.721048",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-10-02T15:55:16.107569",
+            "error": null,
+            "status": "success"
+        }
     }
 }
