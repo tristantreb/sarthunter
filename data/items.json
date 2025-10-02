@@ -4630,5 +4630,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0933 immaculate vintage british handmade black wool evening tailcoat 38-39 short": {
+        "title": "25/0933 immaculate vintage british handmade black wool evening tailcoat 38-39 short",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0933-immaculate-vintage-british-handmade-black-wool-evening-tailcoat-38-39-short",
+        "price": "125.00",
+        "timestamp processed": "2025-10-02T17:11:42.853578",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-10-02T17:11:43.102356",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0932 near immaculate vintage savile row bespoke black barathea wool / grosgrain silk d/b dinner jacket 44 regular": {
+        "title": "25/0932 near immaculate vintage savile row bespoke black barathea wool / grosgrain silk d/b dinner jacket 44 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0932-immaculate-vintage-savile-row-bespoke-black-barathea-wool-grosgrain-silk-d-b-dinner-jacket-44-regular",
+        "price": "125.00",
+        "timestamp processed": "2025-10-02T17:11:42.853578",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-10-02T17:11:43.312519",
+            "error": null,
+            "status": "success"
+        }
     }
 }
