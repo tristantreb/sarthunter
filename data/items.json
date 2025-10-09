@@ -4762,5 +4762,53 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0946 redmayne 2011 bespoke royal blue wool & mohair trouser 37-41": {
+        "title": "25/0946 redmayne 2011 bespoke royal blue wool & mohair trouser 37-41",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0946-redmayne-2011-bespoke-royal-blue-wool-mohair-trouser-37-41",
+        "price": "49.00",
+        "timestamp processed": "2025-10-09T11:57:29.900571",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-10-09T11:57:30.110573",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0945 immaculate cordings of piccadilly stone cotton chino trouser 38": {
+        "title": "25/0945 immaculate cordings of piccadilly stone cotton chino trouser 38",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0945-immaculate-cordings-of-piccadilly-stone-cotton-chino-trouser-38",
+        "price": "49.00",
+        "timestamp processed": "2025-10-09T11:57:29.900571",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-10-09T11:57:30.329148",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0944 vintage hackett white label grey wool trouser 40": {
+        "title": "25/0944 vintage hackett white label grey wool trouser 40",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0944-vintage-hackett-white-label-grey-wool-trouser-40",
+        "price": "45.00",
+        "timestamp processed": "2025-10-09T11:57:29.900571",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-10-09T11:57:30.477700",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0943 ward & kruger 2006 savile row blue wool & mohair trouser 37": {
+        "title": "25/0943 ward & kruger 2006 savile row blue wool & mohair trouser 37",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0943-ward-kruger-2006-savile-row-blue-wool-mohair-trouser-37",
+        "price": "75.00",
+        "timestamp processed": "2025-10-09T11:57:29.900571",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-10-09T11:57:30.677726",
+            "error": null,
+            "status": "success"
+        }
     }
 }
