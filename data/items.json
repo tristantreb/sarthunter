@@ -4942,5 +4942,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0981 immaculate john n kent savile row bespoke brown / red wp check tweed suit 39 short to regular": {
+        "title": "25/0981 immaculate john n kent savile row bespoke brown / red wp check tweed suit 39 short to regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0981-immaculate-john-n-kent-savile-row-bespoke-brown-red-wp-check-tweed-suit-39-short-to-regular",
+        "price": "300.00",
+        "timestamp processed": "2025-10-09T15:42:39.265606",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-10-09T15:42:39.388393",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0978 vintage 1988 henry poole savile row bespoke grey / blue prince of wales check worsted suit 39 regular to long": {
+        "title": "25/0978 vintage 1988 henry poole savile row bespoke grey / blue prince of wales check worsted suit 39 regular to long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0978-vintage-1988-henry-poole-savile-row-bespoke-grey-blue-prince-of-wales-check-worsted-suit-39-regular-to-long",
+        "price": "225.00",
+        "timestamp processed": "2025-10-09T15:42:39.265606",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-10-09T15:42:39.499185",
+            "error": null,
+            "status": "success"
+        }
     }
 }
