@@ -4990,5 +4990,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0996 immaculate 2018 anglo-italian hand made canvassed navy blue wool suit 40 short": {
+        "title": "25/0996 immaculate 2018 anglo-italian hand made canvassed navy blue wool suit 40 short",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0996-immaculate-2018-anglo-italian-hand-made-canvassed-navy-blue-wool-suit-40-short",
+        "price": "150.00",
+        "timestamp processed": "2025-10-16T14:45:32.343189",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-10-16T14:45:32.478635",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/0985 immaculate meyer & mortimer 2018 savile row bespoke grey birds-eye weave trouser 39": {
+        "title": "25/0985 immaculate meyer & mortimer 2018 savile row bespoke grey birds-eye weave trouser 39",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0985-immaculate-meyer-mortimer-2018-savile-row-bespoke-grey-birds-eye-weave-trouser-39",
+        "price": "95.00",
+        "timestamp processed": "2025-10-16T14:45:32.343189",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-10-16T14:45:32.550979",
+            "error": null,
+            "status": "success"
+        }
     }
 }
