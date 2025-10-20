@@ -5062,5 +5062,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/0979 beautiful vintage 1980 henry poole savile row bespoke green / amber wp check 3-piece tweed suit 39 regular": {
+        "title": "25/0979 beautiful vintage 1980 henry poole savile row bespoke green / amber wp check 3-piece tweed suit 39 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-0979-beautiful-vintage-1980-henry-poole-savile-row-bespoke-green-amber-wp-check-3-piece-tweed-suit-39-regular",
+        "price": "450.00",
+        "timestamp processed": "2025-10-20T14:44:05.368937",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-10-20T14:44:05.513603",
+            "error": null,
+            "status": "success"
+        }
     }
 }
