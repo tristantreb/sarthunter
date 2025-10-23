@@ -5074,5 +5074,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/1009 near immaculate daks jermyn street green gun check wool tweed half norfolk style sports jacket blazer 40 regular": {
+        "title": "25/1009 near immaculate daks jermyn street green gun check wool tweed half norfolk style sports jacket blazer 40 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-1009-near-immaculate-daks-jermyn-street-green-gun-check-wool-tweed-half-norfolk-style-sports-jacket-blazer-40-regular",
+        "price": "109.00",
+        "timestamp processed": "2025-10-23T13:33:00.272898",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-10-23T13:33:00.362081",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/1008 immaculate daks jermyn street gun check wool tweed sports jacket blazer 40 regular": {
+        "title": "25/1008 immaculate daks jermyn street gun check wool tweed sports jacket blazer 40 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-1008-immaculate-daks-jermyn-street-gun-check-wool-tweed-sports-jacket-blazer-40-regular",
+        "price": "82.00",
+        "timestamp processed": "2025-10-23T13:33:00.272898",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-10-23T13:33:00.437460",
+            "error": null,
+            "status": "success"
+        }
     }
 }
