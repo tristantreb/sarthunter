@@ -5230,5 +5230,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/1030 beautiful immaculate vintage invertere fawn brown corduroy field coat w/ embossed buttons 46-48": {
+        "title": "25/1030 beautiful immaculate vintage invertere fawn brown corduroy field coat w/ embossed buttons 46-48",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-1030-beautiful-immaculate-vintage-invertere-fawn-brown-corduroy-field-coat-w-embossed-buttons-46-48",
+        "price": "250.00",
+        "timestamp processed": "2025-10-23T16:20:26.601629",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-10-23T16:20:26.797402",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/1032 immaculate gieves & hawkes savile row grey cashmere stripe wool moring trouser 36": {
+        "title": "25/1032 immaculate gieves & hawkes savile row grey cashmere stripe wool moring trouser 36",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-1032-immaculate-gieves-hawkes-savile-row-grey-cashmere-stripe-wool-moring-trouser-36",
+        "price": "125.00",
+        "timestamp processed": "2025-10-23T16:20:26.601629",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-10-23T16:20:26.979682",
+            "error": null,
+            "status": "success"
+        }
     }
 }
