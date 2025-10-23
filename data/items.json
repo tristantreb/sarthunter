@@ -5098,5 +5098,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/1015 gieves & hawkes brown / amber gun check wool tweed sports jacket blazer 40 regular": {
+        "title": "25/1015 gieves & hawkes brown / amber gun check wool tweed sports jacket blazer 40 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-1015-gieves-hawkes-brown-amber-gun-check-wool-tweed-sports-jacket-blazer-40-regular",
+        "price": "75.00",
+        "timestamp processed": "2025-10-23T14:10:01.389290",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-10-23T14:10:01.653689",
+            "error": null,
+            "status": "success"
+        }
     }
 }
