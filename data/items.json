@@ -5218,5 +5218,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/1031 immaculate gieves & hawkes savile row black heringbone wool morning coat 42-43 regular": {
+        "title": "25/1031 immaculate gieves & hawkes savile row black heringbone wool morning coat 42-43 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-1031-immaculate-gieves-hawkes-savile-row-black-heringbone-wool-morning-coat-42-43-regular",
+        "price": "195.00",
+        "timestamp processed": "2025-10-23T15:54:40.108169",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-10-23T15:54:40.269818",
+            "error": null,
+            "status": "success"
+        }
     }
 }
