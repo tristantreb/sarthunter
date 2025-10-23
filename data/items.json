@@ -5110,5 +5110,41 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/1020 wonderful 1960s 1970s vintage daks piccadilly worsted mix textured black dinner jacket & matching waistcoat 38 regular": {
+        "title": "25/1020 wonderful 1960s 1970s vintage daks piccadilly worsted mix textured black dinner jacket & matching waistcoat 38 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-1020-wonderful-1960s-1970s-vintage-daks-piccadilly-worsted-mix-textured-black-dinner-jacket-matching-waistcoat-38-regular",
+        "price": "97.00",
+        "timestamp processed": "2025-10-23T14:35:25.422716",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-10-23T14:35:25.652897",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/1019 immaculate gieves & hawkes savile row black wool evening trouser (matches 25/1018) 34": {
+        "title": "25/1019 immaculate gieves & hawkes savile row black wool evening trouser (matches 25/1018) 34",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-1019-immaculate-gieves-hawkes-savile-row-black-wool-evening-trouser-matches-25-1018-34",
+        "price": "95.00",
+        "timestamp processed": "2025-10-23T14:35:25.422716",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-10-23T14:35:25.868753",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/1018 immaculate gieves & hawkes savile row black wool shawl dinner jacket 39 regular": {
+        "title": "25/1018 immaculate gieves & hawkes savile row black wool shawl dinner jacket 39 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-1018-immaculate-gieves-hawkes-savile-row-black-wool-shawl-dinner-jacket-39-regular",
+        "price": "125.00",
+        "timestamp processed": "2025-10-23T14:35:25.422716",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-10-23T14:35:26.082758",
+            "error": null,
+            "status": "success"
+        }
     }
 }
