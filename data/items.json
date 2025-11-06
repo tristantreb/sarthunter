@@ -5410,5 +5410,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/1041 fabulous vintage anderson & sheppard savile row bespoke heavyweight gun check tweed breeks 38": {
+        "title": "25/1041 fabulous vintage anderson & sheppard savile row bespoke heavyweight gun check tweed breeks 38",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-1041-fabulous-vintage-anderson-sheppard-savile-row-bespoke-heavyweight-gun-check-tweed-breeks-38",
+        "price": "95.00",
+        "timestamp processed": "2025-11-06T13:56:30.640011",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-11-06T13:56:30.757564",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/1054 immaculate vintage austin reed navy blue double breasted full-length wool overcoat 40 regular": {
+        "title": "25/1054 immaculate vintage austin reed navy blue double breasted full-length wool overcoat 40 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-1054-immaculate-vintage-austin-reed-navy-blue-double-breasted-full-length-wool-overcoat-40-regular",
+        "price": "89.00",
+        "timestamp processed": "2025-11-06T13:56:30.640011",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-11-06T13:56:30.857510",
+            "error": null,
+            "status": "success"
+        }
     }
 }
