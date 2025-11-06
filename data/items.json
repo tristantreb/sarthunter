@@ -5434,5 +5434,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/1043 vintage heavyweight lovat green twill tweed shooting breeks 34-38": {
+        "title": "25/1043 vintage heavyweight lovat green twill tweed shooting breeks 34-38",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-1043-vintage-heavyweight-lovat-green-twill-tweed-shooting-breeks-34-38",
+        "price": "95.00",
+        "timestamp processed": "2025-11-06T14:21:45.907737",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-11-06T14:21:46.114325",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/1042 fabulous vintage heavyweight gun check tweed breeks 40": {
+        "title": "25/1042 fabulous vintage heavyweight gun check tweed breeks 40",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-1042-fabulous-vintage-heavyweight-gun-check-tweed-breeks-40",
+        "price": "75.00",
+        "timestamp processed": "2025-11-06T14:21:45.907737",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-11-06T14:21:46.330461",
+            "error": null,
+            "status": "success"
+        }
     }
 }
