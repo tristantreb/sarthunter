@@ -5722,5 +5722,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/1116 pakeman catto carter navy blue wool chesterfield coat overcoat w/ velvet coillar 40": {
+        "title": "25/1116 pakeman catto carter navy blue wool chesterfield coat overcoat w/ velvet coillar 40",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-1116-pakeman-catto-carter-navy-blue-wool-chesterfield-coat-overcoat-w-velvet-coillar-40",
+        "price": "125.00",
+        "timestamp processed": "2025-11-20T16:15:24.312712",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-11-20T16:15:24.464859",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/1113 vintage john g hardy west of england stone venetian wool covert coat overcoat 38 short to regular": {
+        "title": "25/1113 vintage john g hardy west of england stone venetian wool covert coat overcoat 38 short to regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-1113-vintage-john-g-hardy-west-of-england-stone-venetian-wool-covert-coat-overcoat-38-short-to-regular",
+        "price": "125.00",
+        "timestamp processed": "2025-11-20T16:15:24.312712",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-11-20T16:15:24.655295",
+            "error": null,
+            "status": "success"
+        }
     }
 }
