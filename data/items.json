@@ -5878,5 +5878,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/1131 wonderful 1960s vintage burgundy wool smoking / dinner jacket w/ silk shawl lapel 39-40 regular": {
+        "title": "25/1131 wonderful 1960s vintage burgundy wool smoking / dinner jacket w/ silk shawl lapel 39-40 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-1131-wonderful-1960s-vintage-burgundy-wool-smoking-dinner-jacket-w-silk-shawl-lapel-39-40-regular",
+        "price": "60.00",
+        "timestamp processed": "2025-11-27T14:53:21.600494",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-11-27T14:53:21.825308",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/1130 near immaculate daks wool silk & linen green wp check sports jacket blazer 42 long": {
+        "title": "25/1130 near immaculate daks wool silk & linen green wp check sports jacket blazer 42 long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-1130-near-immaculate-daks-wool-silk-linen-green-wp-check-sports-jacket-blazer-42-long",
+        "price": "85.00",
+        "timestamp processed": "2025-11-27T14:53:21.600494",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-11-27T14:53:22.050268",
+            "error": null,
+            "status": "success"
+        }
     }
 }
