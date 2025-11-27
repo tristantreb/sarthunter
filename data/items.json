@@ -5830,5 +5830,41 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/1127 vintage 1968 anderson & sheppard savile row bespoke heavyweight green corduroy high-rise country trouser 38": {
+        "title": "25/1127 vintage 1968 anderson & sheppard savile row bespoke heavyweight green corduroy high-rise country trouser 38",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-1127-vintage-1968-anderson-sheppard-savile-row-bespoke-heavyweight-green-corduroy-high-rise-country-trouser-38",
+        "price": "125.00",
+        "timestamp processed": "2025-11-27T13:45:39.054793",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-11-27T13:45:39.170847",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/1126 immaculate rm williams australian heavy cotton moleskin tan brown jean trouser 38": {
+        "title": "25/1126 immaculate rm williams australian heavy cotton moleskin tan brown jean trouser 38",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-1126-immaculate-rm-williams-australian-heavy-cotton-moleskin-tan-brown-jean-trouser-38",
+        "price": "85.00",
+        "timestamp processed": "2025-11-27T13:45:39.054793",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-11-27T13:45:39.260110",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/1125 immaculate rm williams australian heavy cotton drill brown chino jean trouser 38": {
+        "title": "25/1125 immaculate rm williams australian heavy cotton drill brown chino jean trouser 38",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-1125-immaculate-rm-williams-australian-heavy-cotton-drill-brown-chino-jean-trouser-38",
+        "price": "75.00",
+        "timestamp processed": "2025-11-27T13:45:39.054793",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-11-27T13:45:39.346414",
+            "error": null,
+            "status": "success"
+        }
     }
 }
