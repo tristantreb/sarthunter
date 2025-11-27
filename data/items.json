@@ -5926,5 +5926,41 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/1136 wonderful vintage 1963 welsh & jefferies savile row bespoke heavyweight grey hopsack weave suit w/ silk linings 41 short to regular": {
+        "title": "25/1136 wonderful vintage 1963 welsh & jefferies savile row bespoke heavyweight grey hopsack weave suit w/ silk linings 41 short to regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-1136-wonderful-vintage-1963-welsh-jefferies-savile-row-bespoke-heavyweight-grey-hopsack-weave-suit-w-silk-linings-41-short-to-regular",
+        "price": "295.00",
+        "timestamp processed": "2025-11-27T15:48:46.841531",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-11-27T15:48:46.979806",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/1135 dege 2000 savile row bespoke heavyweight black herringbone worsted d/b suit 43-44 regular": {
+        "title": "25/1135 dege 2000 savile row bespoke heavyweight black herringbone worsted d/b suit 43-44 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-1135-dege-2000-savile-row-bespoke-heavyweight-black-herringbone-worsted-d-b-suit-43-44-regular",
+        "price": "250.00",
+        "timestamp processed": "2025-11-27T15:48:46.841531",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-11-27T15:48:47.090080",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/1134 dege & skinner 2002 savile row bespoke heavyweight grey herringbone worsted d/b suit w/ 2 pair trs 44 regular": {
+        "title": "25/1134 dege & skinner 2002 savile row bespoke heavyweight grey herringbone worsted d/b suit w/ 2 pair trs 44 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-1134-dege-skinner-2002-savile-row-bespoke-heavyweight-grey-herringbone-worsted-d-b-suit-w-2-pair-trs-44-regular",
+        "price": "300.00",
+        "timestamp processed": "2025-11-27T15:48:46.841531",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-11-27T15:48:47.195158",
+            "error": null,
+            "status": "success"
+        }
     }
 }
