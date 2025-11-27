@@ -5902,5 +5902,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/1133 vintage british bespoke grey worsted d/b suit 41-42 long": {
+        "title": "25/1133 vintage british bespoke grey worsted d/b suit 41-42 long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-1133-vintage-british-bespoke-grey-worsted-d-b-suit-41-42-long",
+        "price": "75.00",
+        "timestamp processed": "2025-11-27T15:14:56.364726",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-11-27T15:14:56.438440",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/1132 vintage 1950s 1960s london tailor black barathea wool evening tailcoat 38 long": {
+        "title": "25/1132 vintage 1950s 1960s london tailor black barathea wool evening tailcoat 38 long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-1132-vintage-1950s-1960s-london-tailor-black-barathea-wool-evening-tailcoat-38-long",
+        "price": "125.00",
+        "timestamp processed": "2025-11-27T15:14:56.364726",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-11-27T15:14:56.500675",
+            "error": null,
+            "status": "success"
+        }
     }
 }
