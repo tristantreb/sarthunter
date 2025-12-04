@@ -6106,5 +6106,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/1175 immaculate vintage aquascutum pure lambswool grey overcoat 40 regular": {
+        "title": "25/1175 immaculate vintage aquascutum pure lambswool grey overcoat 40 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-1175-immaculate-vintage-aquascutum-pure-lambswool-grey-overcoat-40-regular",
+        "price": "175.00",
+        "timestamp processed": "2025-12-04T17:11:09.591091",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-12-04T17:11:09.810784",
+            "error": null,
+            "status": "success"
+        }
     }
 }
