@@ -6310,5 +6310,41 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/1203 italian bespoke 2011 white linen trouser 38": {
+        "title": "25/1203 italian bespoke 2011 white linen trouser 38",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-1203-italian-bespoke-2011-white-linen-trouser-38",
+        "price": "95.00",
+        "timestamp processed": "2025-12-18T14:35:02.333064",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-12-18T14:35:02.534631",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/1202 immaculate 2011 italian bespoke blue cotton twill trouser 38": {
+        "title": "25/1202 immaculate 2011 italian bespoke blue cotton twill trouser 38",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-1202-immaculate-2011-italian-bespoke-blue-cotton-twill-trouser-38",
+        "price": "125.00",
+        "timestamp processed": "2025-12-18T14:35:02.333064",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-12-18T14:35:02.736438",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/1201 near immaculate 2011 italian bespoke white cotton & silk trouser 38": {
+        "title": "25/1201 near immaculate 2011 italian bespoke white cotton & silk trouser 38",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-1201-near-immaculate-2011-italian-bespoke-white-cotton-silk-trouser-38",
+        "price": "125.00",
+        "timestamp processed": "2025-12-18T14:35:02.333064",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-12-18T14:35:02.911442",
+            "error": null,
+            "status": "success"
+        }
     }
 }
