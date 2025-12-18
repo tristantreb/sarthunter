@@ -6418,5 +6418,53 @@
             "error": null,
             "status": "success"
         }
+    },
+    "25/1226 delightful vintage british 90% wool grey d/b pea coat w/ faux fur facings 40": {
+        "title": "25/1226 delightful vintage british 90% wool grey d/b pea coat w/ faux fur facings 40",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-1226-delightful-vintage-british-90-wool-grey-d-b-pea-coat-w-faux-fur-facings-40",
+        "price": "75.00",
+        "timestamp processed": "2025-12-18T17:56:16.981177",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-12-18T17:56:17.087192",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/1225 immaculate vintage black barathea evening tailcoat tails 39 regular": {
+        "title": "25/1225 immaculate vintage black barathea evening tailcoat tails 39 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-1225-immaculate-vintage-black-barathea-evening-tailcoat-tails-39-regular",
+        "price": "125.00",
+        "timestamp processed": "2025-12-18T17:56:16.981177",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-12-18T17:56:17.220376",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/1224 vintage black barathea evening tailcoat tails 40-41 short to regular": {
+        "title": "25/1224 vintage black barathea evening tailcoat tails 40-41 short to regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-1224-vintage-black-barathea-evening-tailcoat-tails-40-41-short-to-regular",
+        "price": "109.00",
+        "timestamp processed": "2025-12-18T17:56:16.981177",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-12-18T17:56:17.282494",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "25/1223 vintage black barathea evening tailcoat tails 40-41 short": {
+        "title": "25/1223 vintage black barathea evening tailcoat tails 40-41 short",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/25-1223-vintage-black-barathea-evening-tailcoat-tails-40-41-short",
+        "price": "109.00",
+        "timestamp processed": "2025-12-18T17:56:16.981177",
+        "notification": {
+            "sent": true,
+            "timestamp": "2025-12-18T17:56:17.380138",
+            "error": null,
+            "status": "success"
+        }
     }
 }
