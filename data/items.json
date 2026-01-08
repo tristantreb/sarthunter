@@ -6586,5 +6586,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "26/0026 vintage heavyweight crombie melton wool british warm overcoat 39-40": {
+        "title": "26/0026 vintage heavyweight crombie melton wool british warm overcoat 39-40",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0026-vintage-heavyweight-crombie-melton-wool-british-warm-overcoat-39-40",
+        "price": "150.00",
+        "timestamp processed": "2026-01-08T18:40:09.237602",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-01-08T18:40:09.438485",
+            "error": null,
+            "status": "success"
+        }
     }
 }
