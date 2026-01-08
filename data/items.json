@@ -6514,5 +6514,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "26/0016 vintage british grey herringbone d/b wool chesterfield coat overcoat 40": {
+        "title": "26/0016 vintage british grey herringbone d/b wool chesterfield coat overcoat 40",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0016-vintage-british-grey-herringbone-d-b-wool-chesterfield-coat-overcoat-40",
+        "price": "50.00",
+        "timestamp processed": "2026-01-08T16:52:03.219400",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-01-08T16:52:03.425563",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "26/0014 bespoke tailored grey worsted trouser w/ waist adjusters 38": {
+        "title": "26/0014 bespoke tailored grey worsted trouser w/ waist adjusters 38",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0014-bespoke-tailored-grey-worsted-trouser-w-waist-adjusters-38",
+        "price": "60.00",
+        "timestamp processed": "2026-01-08T16:52:03.219400",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-01-08T16:52:03.490226",
+            "error": null,
+            "status": "success"
+        }
     }
 }
