@@ -6538,5 +6538,53 @@
             "error": null,
             "status": "success"
         }
+    },
+    "26/0023 superb vintage british heavyweight venetian wool covert coat overcoat 40 regular": {
+        "title": "26/0023 superb vintage british heavyweight venetian wool covert coat overcoat 40 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0023-superb-vintage-british-heavyweight-venetian-wool-covert-coat-overcoat-40-regular",
+        "price": "150.00",
+        "timestamp processed": "2026-01-08T17:46:38.442399",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-01-08T17:46:38.625208",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "26/0029 wonderful vintage john g hardy heavyweight sporting check tweed jacket w/ staghorn buttons 38 regular": {
+        "title": "26/0029 wonderful vintage john g hardy heavyweight sporting check tweed jacket w/ staghorn buttons 38 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0029-wonderful-vintage-john-g-hardy-heavyweight-sporting-check-tweed-jacket-w-staghorn-buttons-38-regular",
+        "price": "119.00",
+        "timestamp processed": "2026-01-08T17:46:38.442399",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-01-08T17:46:38.798954",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "26/0018 wonderful genuine 1970s 1980s vintage black velvet jacket w/ wide peak lapels 36 short to regular": {
+        "title": "26/0018 wonderful genuine 1970s 1980s vintage black velvet jacket w/ wide peak lapels 36 short to regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0018-wonderful-genuine-1970s-1980s-vintage-black-velvet-jacket-w-wide-peak-lapels-36-short-to-regular",
+        "price": "75.00",
+        "timestamp processed": "2026-01-08T17:46:38.442399",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-01-08T17:46:38.979668",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "26/0019 vintage black worsted high-rise trouser w/ waist adjusters 36": {
+        "title": "26/0019 vintage black worsted high-rise trouser w/ waist adjusters 36",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0019-vintage-black-worsted-high-rise-trouser-w-waist-adjusters-36",
+        "price": "45.00",
+        "timestamp processed": "2026-01-08T17:46:38.442399",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-01-08T17:46:39.171165",
+            "error": null,
+            "status": "success"
+        }
     }
 }
