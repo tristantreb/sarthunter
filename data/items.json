@@ -6730,5 +6730,41 @@
             "error": null,
             "status": "success"
         }
+    },
+    "26/0043 vintage british tan brown doeskin wool country waistcoat 39": {
+        "title": "26/0043 vintage british tan brown doeskin wool country waistcoat 39",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0043-vintage-british-tan-brown-doeskin-wool-country-waistcoat-39",
+        "price": "49.00",
+        "timestamp processed": "2026-01-15T15:22:45.482158",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-01-15T15:22:45.588243",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "26/0042 immaculate bespoke tailor ivory white formal waistcoat 39": {
+        "title": "26/0042 immaculate bespoke tailor ivory white formal waistcoat 39",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0042-immaculate-bespoke-tailor-ivory-white-formal-waistcoat-39",
+        "price": "60.00",
+        "timestamp processed": "2026-01-15T15:22:45.482158",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-01-15T15:22:45.674786",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "26/0041 vintage hackett tartan slim-fit evening trouser 38": {
+        "title": "26/0041 vintage hackett tartan slim-fit evening trouser 38",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0041-vintage-hackett-tartan-slim-fit-evening-trouser-39",
+        "price": "49.00",
+        "timestamp processed": "2026-01-15T15:22:45.482158",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-01-15T15:22:45.782761",
+            "error": null,
+            "status": "success"
+        }
     }
 }
