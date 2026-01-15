@@ -6610,5 +6610,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "26/0036 vintage bally brown crocodile skin buckle shoe uk 7.5 (uk shipping only)": {
+        "title": "26/0036 vintage bally brown crocodile skin buckle shoe uk 7.5 (uk shipping only)",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0036-vintage-bally-brown-crocodile-skin-buckle-shoe-uk-7-5-uk-shipping-only",
+        "price": "75.00",
+        "timestamp processed": "2026-01-15T13:58:46.757023",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-01-15T13:58:46.980202",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "26/0038 vintage bally black crocodile skin buckle shoe uk 7.5 (uk shipping only)": {
+        "title": "26/0038 vintage bally black crocodile skin buckle shoe uk 7.5 (uk shipping only)",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0038-vintage-bally-black-crocodile-skin-buckle-shoe-uk-7-5-uk-shipping-only",
+        "price": "75.00",
+        "timestamp processed": "2026-01-15T13:58:46.757023",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-01-15T13:58:47.184075",
+            "error": null,
+            "status": "success"
+        }
     }
 }
