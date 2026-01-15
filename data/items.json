@@ -6634,5 +6634,53 @@
             "error": null,
             "status": "success"
         }
+    },
+    "26/0033 vintage church's custom grade black oxford shoe uk 10.5": {
+        "title": "26/0033 vintage church's custom grade black oxford shoe uk 10.5",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0033-vintage-churchs-custom-grade-black-oxford-shoe-uk-10-5",
+        "price": "95.00",
+        "timestamp processed": "2026-01-15T14:33:42.024281",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-01-15T14:33:42.123827",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "26/0034 vintage church's custom grade black semi-brogue shoe uk 11": {
+        "title": "26/0034 vintage church's custom grade black semi-brogue shoe uk 11",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0034-vintage-churchs-custom-grade-black-semi-brogue-shoe-uk-11",
+        "price": "75.00",
+        "timestamp processed": "2026-01-15T14:33:42.024281",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-01-15T14:33:42.194372",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "26/0035 vintage church's custom grade black brogue shoe uk 10": {
+        "title": "26/0035 vintage church's custom grade black brogue shoe uk 10",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0035-vintage-churchs-custom-grade-black-brogue-shoe-uk-10",
+        "price": "75.00",
+        "timestamp processed": "2026-01-15T14:33:42.024281",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-01-15T14:33:42.273100",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "26/0037 vintage green aligator buckle shoe uk 7.5 (uk shipping only)": {
+        "title": "26/0037 vintage green aligator buckle shoe uk 7.5 (uk shipping only)",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0037-vintage-green-aligator-buckle-shoe-uk-7-5-uk-shipping-only",
+        "price": "75.00",
+        "timestamp processed": "2026-01-15T14:33:42.024281",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-01-15T14:33:42.354222",
+            "error": null,
+            "status": "success"
+        }
     }
 }
