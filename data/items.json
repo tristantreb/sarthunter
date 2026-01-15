@@ -6682,5 +6682,53 @@
             "error": null,
             "status": "success"
         }
+    },
+    "26/0040 vintage bespoke tailor heavyweight beige cavalry twill trouser w/ frogmouth pockets 30-34": {
+        "title": "26/0040 vintage bespoke tailor heavyweight beige cavalry twill trouser w/ frogmouth pockets 30-34",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0040-vintage-bespoke-tailor-heavyweight-beige-cavalry-twill-trouser-w-frogmouth-pockets-30-34",
+        "price": "75.00",
+        "timestamp processed": "2026-01-15T14:54:51.655129",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-01-15T14:54:51.857921",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "26/0039 immaculate vintage bespoke tailor grey worsted trouser w/ frogmouth pockets 30-33": {
+        "title": "26/0039 immaculate vintage bespoke tailor grey worsted trouser w/ frogmouth pockets 30-33",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0039-immaculate-vintage-bespoke-tailor-grey-worsted-trouser-w-frogmouth-pockets-30-33",
+        "price": "50.00",
+        "timestamp processed": "2026-01-15T14:54:51.655129",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-01-15T14:54:52.061767",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "26/0031 vintage church's custom grade black brogue shoe uk 10": {
+        "title": "26/0031 vintage church's custom grade black brogue shoe uk 10",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0031-vintage-churchs-custom-grade-black-brogue-shoe-uk-10",
+        "price": "60.00",
+        "timestamp processed": "2026-01-15T14:54:51.655129",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-01-15T14:54:52.256203",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "26/0032 vintage church's custom grade black oxford shoe uk 10.5": {
+        "title": "26/0032 vintage church's custom grade black oxford shoe uk 10.5",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0032-vintage-churchs-custom-grade-black-oxford-shoe-uk-10-5",
+        "price": "75.00",
+        "timestamp processed": "2026-01-15T14:54:51.655129",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-01-15T14:54:52.451261",
+            "error": null,
+            "status": "success"
+        }
     }
 }
