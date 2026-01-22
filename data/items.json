@@ -6898,5 +6898,29 @@
             "error": null,
             "status": "success"
         }
+    },
+    "26/0080 vintage heavyweight crombie melton wool british warm coat overcoat 40": {
+        "title": "26/0080 vintage heavyweight crombie melton wool british warm coat overcoat 40",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0080-vintage-heavyweight-crombie-melton-wool-british-warm-coat-overcoat-40",
+        "price": "150.00",
+        "timestamp processed": "2026-01-22T15:49:19.165047",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-01-22T15:49:19.290618",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "26/0070 near immaculate vintage british grey herringbone wool chesterfield coat overcoat 40-41": {
+        "title": "26/0070 near immaculate vintage british grey herringbone wool chesterfield coat overcoat 40-41",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0070-near-immaculate-vintage-british-grey-herringbone-wool-chesterfield-coat-overcoat-40-41",
+        "price": "109.00",
+        "timestamp processed": "2026-01-22T15:49:19.165047",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-01-22T15:49:19.412810",
+            "error": null,
+            "status": "success"
+        }
     }
 }
