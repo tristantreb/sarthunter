@@ -7030,5 +7030,41 @@
             "error": null,
             "status": "success"
         }
+    },
+    "26/0090 immaculate irish venetian wool covert coat w/ velvet collar 38": {
+        "title": "26/0090 immaculate irish venetian wool covert coat w/ velvet collar 38",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0090-immaculate-irish-venetian-wool-covert-coat-w-velvet-collar-38",
+        "price": "175.00",
+        "timestamp processed": "2026-01-29T14:23:27.694304",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-01-29T14:23:27.845153",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "26/0089 superb vintage haggart of aberfeldy gun check tweed sports jacket 39 long": {
+        "title": "26/0089 superb vintage haggart of aberfeldy gun check tweed sports jacket 39 long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0089-superb-vintage-haggart-of-aberfeldy-gun-check-tweed-sports-jacket-39-long",
+        "price": "125.00",
+        "timestamp processed": "2026-01-29T14:23:27.694304",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-01-29T14:23:27.995052",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "26/0088 immaculate vintage heavyweight brown irish cheviot tweed jacket 38-39 short to regular": {
+        "title": "26/0088 immaculate vintage heavyweight brown irish cheviot tweed jacket 38-39 short to regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0088-immaculate-vintage-heavyweight-brown-irish-cheviot-tweed-jacket-38-39-short-to-regular",
+        "price": "89.00",
+        "timestamp processed": "2026-01-29T14:23:27.694304",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-01-29T14:23:28.177686",
+            "error": null,
+            "status": "success"
+        }
     }
 }
