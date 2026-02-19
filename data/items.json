@@ -8086,5 +8086,65 @@
             "error": null,
             "status": "success"
         }
+    },
+    "26/0213 john white northampton brown suede brogue shoe uk 8.5": {
+        "title": "26/0213 john white northampton brown suede brogue shoe uk 8.5",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0213-john-white-northampton-brown-suede-brogue-shoe-uk-8-5",
+        "price": "59.00",
+        "timestamp processed": "2026-02-19T10:41:30.682544",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-02-19T10:41:31.019795",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "26/0214 wonderful vintage moss bros covent garden black leather evening dress shoe uk 9": {
+        "title": "26/0214 wonderful vintage moss bros covent garden black leather evening dress shoe uk 9",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0214-wonderful-vintage-moss-bros-covent-garden-black-leather-evening-dress-shoe-uk-9",
+        "price": "45.00",
+        "timestamp processed": "2026-02-19T10:41:30.682544",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-02-19T10:41:31.355406",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "26/0215 loake brown suede brogue shoe uk 9.5": {
+        "title": "26/0215 loake brown suede brogue shoe uk 9.5",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0215-loake-brown-suede-brogue-shoe-uk-9-5",
+        "price": "55.00",
+        "timestamp processed": "2026-02-19T10:41:30.682544",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-02-19T10:41:31.821091",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "26/0216 vintage church's custom grade plain-toe black leather oxford shoe uk 10": {
+        "title": "26/0216 vintage church's custom grade plain-toe black leather oxford shoe uk 10",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0216-vintage-churchs-custom-grade-plain-toe-black-leather-oxford-shoe-uk-10",
+        "price": "75.00",
+        "timestamp processed": "2026-02-19T10:41:30.682544",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-02-19T10:41:32.132049",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "26/0217 vintage church's custom grade plain-toe black leather oxford shoe uk 9": {
+        "title": "26/0217 vintage church's custom grade plain-toe black leather oxford shoe uk 9",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0217-vintage-churchs-custom-grade-plain-toe-black-leather-oxford-shoe-uk-9",
+        "price": "75.00",
+        "timestamp processed": "2026-02-19T10:41:30.682544",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-02-19T10:41:32.456340",
+            "error": null,
+            "status": "success"
+        }
     }
 }
