@@ -8314,5 +8314,53 @@
             "error": null,
             "status": "success"
         }
+    },
+    "26/0251 wonderful 1979 vintage wells of mayfair savile row bespoke brown multi-stripe suit w/ paisley linings 39 regular": {
+        "title": "26/0251 wonderful 1979 vintage wells of mayfair savile row bespoke brown multi-stripe suit w/ paisley linings 39 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0251-wonderful-1979-vintage-wells-of-mayfair-savile-row-bespoke-brown-multi-stripe-suit-w-paisley-linings-39-regular",
+        "price": "250.00",
+        "timestamp processed": "2026-02-26T15:30:00.384065",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-02-26T15:30:00.581988",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "26/0253 immaculate vintage british brown wp check cavalry twill country jacket 40 short to regular": {
+        "title": "26/0253 immaculate vintage british brown wp check cavalry twill country jacket 40 short to regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0253-immaculate-vintage-british-brown-wp-check-cavalry-twill-country-jacket-40-short-to-regular",
+        "price": "125.00",
+        "timestamp processed": "2026-02-26T15:30:00.384065",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-02-26T15:30:00.743294",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "26/0254 immaculate vintage lambourne houndstooth check tweed sports jacket 39 short": {
+        "title": "26/0254 immaculate vintage lambourne houndstooth check tweed sports jacket 39 short",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0254-immaculate-vintage-lambourne-houndstooth-check-tweed-sports-jacket-39-short",
+        "price": "105.00",
+        "timestamp processed": "2026-02-26T15:30:00.384065",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-02-26T15:30:00.901141",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "26/0256 immaculate vintage british khaki doeskin wool country waistcoat w/ fox head buttons 40": {
+        "title": "26/0256 immaculate vintage british khaki doeskin wool country waistcoat w/ fox head buttons 40",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0256-immaculate-vintage-british-khaki-doeskin-wool-country-waistcoat-w-fox-head-buttons-40",
+        "price": "79.00",
+        "timestamp processed": "2026-02-26T15:30:00.384065",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-02-26T15:30:01.098900",
+            "error": null,
+            "status": "success"
+        }
     }
 }
