@@ -8278,5 +8278,41 @@
             "error": null,
             "status": "success"
         }
+    },
+    "26/0258 heavyweight vintage savile row bespoke green wp check tweed trouser 33-37": {
+        "title": "26/0258 heavyweight vintage savile row bespoke green wp check tweed trouser 33-37",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0258-heavyweight-vintage-savile-row-bespoke-green-wp-check-tweed-trouser-33-37",
+        "price": "75.00",
+        "timestamp processed": "2026-02-26T14:34:46.115002",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-02-26T14:34:46.371056",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "26/0265 new unworn made in england barker 'flex' brown brogue shoe uk 9": {
+        "title": "26/0265 new unworn made in england barker 'flex' brown brogue shoe uk 9",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0265-new-unworn-made-in-england-barker-flex-brown-brogue-shoe-uk-9",
+        "price": "125.00",
+        "timestamp processed": "2026-02-26T14:34:46.115002",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-02-26T14:34:46.601913",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "26/0266 vintage barker black calf leather oxford shoe uk 8 g": {
+        "title": "26/0266 vintage barker black calf leather oxford shoe uk 8 g",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0266-vintage-barker-black-calf-leather-oxford-shoe-uk-8-g",
+        "price": "49.00",
+        "timestamp processed": "2026-02-26T14:34:46.115002",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-02-26T14:34:46.841282",
+            "error": null,
+            "status": "success"
+        }
     }
 }
