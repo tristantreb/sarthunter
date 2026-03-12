@@ -8746,5 +8746,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "26/0322 vintage savile row bespoke navy blue cashmere blazer jacket 43 regular": {
+        "title": "26/0322 vintage savile row bespoke navy blue cashmere blazer jacket 43 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0322-vintage-savile-row-bespoke-navy-blue-cashmere-blazer-jacket-43-regular",
+        "price": "125.00",
+        "timestamp processed": "2026-03-12T13:23:16.953204",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-03-12T13:23:17.261875",
+            "error": null,
+            "status": "success"
+        }
     }
 }
