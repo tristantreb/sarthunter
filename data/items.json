@@ -9406,5 +9406,53 @@
             "error": null,
             "status": "success"
         }
+    },
+    "26/0362 immaculate 2011 italian bespoke grey pick weave luxury wool suit 43 regular to long": {
+        "title": "26/0362 immaculate 2011 italian bespoke grey pick weave luxury wool suit 43 regular to long",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0362-immaculate-2011-italian-bespoke-grey-pick-weave-luxury-wool-suit-43-regular-to-long",
+        "price": "250.00",
+        "timestamp processed": "2026-03-19T16:05:09.552860",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-03-19T16:05:09.733891",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "26/0363 immaculate 2011 italian bespoke green cotton drill chino trouser 38": {
+        "title": "26/0363 immaculate 2011 italian bespoke green cotton drill chino trouser 38",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0363-immaculate-2011-italian-bespoke-green-cotton-drill-chino-trouser-38",
+        "price": "105.00",
+        "timestamp processed": "2026-03-19T16:05:09.552860",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-03-19T16:05:09.900278",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "26/0364 immaculate gio genco mayfair 2013 italian bespoke charcoal grey fine herringbone wool morning coat 42 short to regular": {
+        "title": "26/0364 immaculate gio genco mayfair 2013 italian bespoke charcoal grey fine herringbone wool morning coat 42 short to regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0364-immaculate-gio-genco-mayfair-2013-italian-bespoke-charcoal-grey-fine-herringbone-wool-morning-coat-42-short-to-regular",
+        "price": "195.00",
+        "timestamp processed": "2026-03-19T16:05:09.552860",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-03-19T16:05:10.070819",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "26/0365 immaculate n.h. chapman 1989 savile row bespoke grey herringbone worsted trouser 37-41": {
+        "title": "26/0365 immaculate n.h. chapman 1989 savile row bespoke grey herringbone worsted trouser 37-41",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0365-immaculate-n-h-chapman-1989-savile-row-bespoke-grey-herringbone-worsted-trouser-37-41",
+        "price": "89.00",
+        "timestamp processed": "2026-03-19T16:05:09.552860",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-03-19T16:05:10.249817",
+            "error": null,
+            "status": "success"
+        }
     }
 }
