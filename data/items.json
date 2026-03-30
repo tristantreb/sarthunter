@@ -9994,5 +9994,17 @@
             "error": null,
             "status": "success"
         }
+    },
+    "26/0387 vintage 1976 savile row bespoke grey pin-stripe d/b worsted suit 36 regular": {
+        "title": "26/0387 vintage 1976 savile row bespoke grey pin-stripe d/b worsted suit 36 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0387-vintage-1976-savile-row-bespoke-grey-pin-stripe-d-b-worsted-suit-36-regular-copy",
+        "price": "150.00",
+        "timestamp processed": "2026-03-30T12:01:43.008959",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-03-30T12:01:43.270293",
+            "error": null,
+            "status": "success"
+        }
     }
 }
