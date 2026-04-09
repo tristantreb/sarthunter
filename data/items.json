@@ -10222,5 +10222,77 @@
             "error": null,
             "status": "success"
         }
+    },
+    "26/0448 mint magee grey / blue prince of wales check wool suit (rrp \u00a3395) 48 regular": {
+        "title": "26/0448 mint magee grey / blue prince of wales check wool suit (rrp \u00a3395) 48 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0448-mint-magee-grey-blue-prince-of-wales-check-wool-suit-rrp-395-48-regular",
+        "price": "175.00",
+        "timestamp processed": "2026-04-09T16:42:09.085928",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-04-09T16:42:09.329258",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "26/0438 mint bladen original green / blue wp check supasax-lite tweed jacket (rrp \u00a3495) 44 regular": {
+        "title": "26/0438 mint bladen original green / blue wp check supasax-lite tweed jacket (rrp \u00a3495) 44 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0438-mint-bladen-original-green-blue-wp-check-supasax-lite-tweed-jacket-rrp-495-44-regular",
+        "price": "160.00",
+        "timestamp processed": "2026-04-09T16:42:09.085928",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-04-09T16:42:09.546549",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "26/0439 mint khaki / blue & amber wp check donegal tweed jacket (rrp \u00a3450) 46 regular": {
+        "title": "26/0439 mint khaki / blue & amber wp check donegal tweed jacket (rrp \u00a3450) 46 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0439-mint-khaki-blue-amber-wp-check-donegal-tweed-jacket-rrp-450-46-regular",
+        "price": "160.00",
+        "timestamp processed": "2026-04-09T16:42:09.085928",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-04-09T16:42:09.774453",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "26/0440 mint bladen original 100% lambswool green graph check tweed jacket (rrp \u00a3450) 42 regular": {
+        "title": "26/0440 mint bladen original 100% lambswool green graph check tweed jacket (rrp \u00a3450) 42 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0440-mint-bladen-original-100-lambswool-green-graph-check-tweed-jacket-rrp-450-42-regular",
+        "price": "160.00",
+        "timestamp processed": "2026-04-09T16:42:09.085928",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-04-09T16:42:10.002493",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "26/0441 mint magee navy blue worsted d/b blazer w/ burgundy linings (rrp \u00a3300) 42 regular": {
+        "title": "26/0441 mint magee navy blue worsted d/b blazer w/ burgundy linings (rrp \u00a3300) 42 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0441-mint-magee-navy-blue-worsted-d-b-blazer-w-burgundy-linings-rrp-300-42-regular",
+        "price": "125.00",
+        "timestamp processed": "2026-04-09T16:42:09.085928",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-04-09T16:42:10.219188",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "26/0442 mint gurteen khaki / blue wp check tweed sports jacket blazer w/ contrast linings (rrp \u00a3300) 44 regular": {
+        "title": "26/0442 mint gurteen khaki / blue wp check tweed sports jacket blazer w/ contrast linings (rrp \u00a3300) 44 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0442-mint-gurteen-khaki-blue-wp-check-tweed-sports-jacket-blazer-w-contrast-linings-rrp-300-44-regular",
+        "price": "150.00",
+        "timestamp processed": "2026-04-09T16:42:09.085928",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-04-09T16:42:10.439940",
+            "error": null,
+            "status": "success"
+        }
     }
 }
