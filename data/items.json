@@ -12082,5 +12082,53 @@
             "error": null,
             "status": "success"
         }
+    },
+    "26/0761 beautiful 1950s 1960s vintage savile row bespoke blue velvet d/b shawl dinner / smoking jacket 40 short": {
+        "title": "26/0761 beautiful 1950s 1960s vintage savile row bespoke blue velvet d/b shawl dinner / smoking jacket 40 short",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0761-beautiful-1950s-1960s-vintage-savile-row-bespoke-blue-velvet-d-b-shawl-dinner-smoking-jacket-40-short",
+        "price": "325.00",
+        "timestamp processed": "2026-07-08T17:05:39.702872",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-07-08T17:05:39.875698",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "26/0756 wonderful vintage gannex alpaca teddy bear style car peacoat 40": {
+        "title": "26/0756 wonderful vintage gannex alpaca teddy bear style car peacoat 40",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0756-wonderful-vintage-gannex-alpaca-teddy-bear-style-car-peacoat-40",
+        "price": "150.00",
+        "timestamp processed": "2026-07-08T17:05:39.702872",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-07-08T17:05:40.039929",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "26/0759 vintage 1975 norton & sons savile row bespoke grey worsted flannel d/b suit 39 short to regular": {
+        "title": "26/0759 vintage 1975 norton & sons savile row bespoke grey worsted flannel d/b suit 39 short to regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0759-vintage-1975-norton-sons-savile-row-bespoke-grey-worsted-flannel-d-b-suit-39-short-to-regular",
+        "price": "125.00",
+        "timestamp processed": "2026-07-08T17:05:39.702872",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-07-08T17:05:40.211884",
+            "error": null,
+            "status": "success"
+        }
+    },
+    "26/0758 vintage ralph lauren purple label brown wool & cashmere rope-stripe 3-piece suit 40 regular": {
+        "title": "26/0758 vintage ralph lauren purple label brown wool & cashmere rope-stripe 3-piece suit 40 regular",
+        "link": "https://www.savvyrow.co.uk/collections/latest/products/26-0758-vintage-ralph-lauren-purple-label-brown-wool-cashmere-rope-stripe-3-piece-suit-40-regular",
+        "price": "300.00",
+        "timestamp processed": "2026-07-08T17:05:39.702872",
+        "notification": {
+            "sent": true,
+            "timestamp": "2026-07-08T17:05:40.392737",
+            "error": null,
+            "status": "success"
+        }
     }
 }
