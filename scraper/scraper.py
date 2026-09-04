@@ -1,6 +1,7 @@
 import random
 import time
 from datetime import datetime
+from urllib.parse import urljoin
 
 import requests
 from bs4 import BeautifulSoup
@@ -32,25 +33,67 @@ class Scraper:
             response.raise_for_status()
         except requests.exceptions.RequestException as e:
             print(f"❌ Failed to fetch the webpage: {url}. Error: {e}")
+            return []
 
         soup = BeautifulSoup(response.text, "html.parser")
+        self.log_fetch_diagnostics(url, response, soup)
 
-        items = []
-
-        for detail in soup.find_all("div", class_="detail"):
-            title_tag = detail.find("a")
-            price_tag = detail.find("span", class_="money")
-            # Excludes items that are sold
-            if title_tag and price_tag:
-                title = title_tag.get_text(strip=True)
-                link = "https://www.savvyrow.co.uk" + title_tag["href"]
-                price = price_tag.get_text(strip=True).replace("\u00a3", "")
-                if self.filter_words(title):
-                    items.append({"title": title, "link": link, "price": price})
+        items = self.extract_items(soup)
 
         print(f"Found {len(items)} items on {url}")
 
         return items
+
+    def log_fetch_diagnostics(self, url, response, soup):
+        title = soup.title.get_text(strip=True) if soup.title else "N/A"
+        print(
+            f"🌐 Fetch diagnostics: status={response.status_code}, final_url={response.url}, bytes={len(response.text)}, title={title}"
+        )
+
+        protection_markers = [
+            "cloudflare",
+            "captcha",
+            "just a moment",
+            "access denied",
+            "verify you are a human",
+            "cf_chl",
+            "challenge-platform",
+        ]
+        response_text = response.text.lower()
+        found_markers = [marker for marker in protection_markers if marker in response_text]
+        if found_markers:
+            print(f"⚠️ Potential anti-bot markers detected: {', '.join(found_markers)}")
+
+    def extract_items(self, soup):
+        selector_strategies = [
+            ("div.detail", "a", "span.money"),
+            ("li.grid__item", "a.full-unstyled-link, a", "span.price-item, span.money"),
+            ("div.grid-product__content", "a.grid-product__title, a", "span.money, span.price-item"),
+        ]
+
+        extracted_items = {}
+        for container_selector, title_selector, price_selector in selector_strategies:
+            for container in soup.select(container_selector):
+                title_tag = container.select_one(title_selector)
+                price_tag = container.select_one(price_selector)
+
+                if not title_tag or not price_tag:
+                    continue
+
+                title = title_tag.get_text(strip=True)
+                href = title_tag.get("href")
+                price = price_tag.get_text(strip=True).replace("\u00a3", "")
+
+                if not title or not href or not self.filter_words(title):
+                    continue
+
+                link = urljoin("https://www.savvyrow.co.uk", href)
+                extracted_items[title] = {"title": title, "link": link, "price": price}
+
+        if not extracted_items:
+            print("⚠️ No items extracted using known selectors.")
+
+        return list(extracted_items.values())
 
     def filter_words(self, title):
         """
